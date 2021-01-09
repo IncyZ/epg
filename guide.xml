@@ -3,125 +3,466 @@
   <channel id="HallmarkDrama.us">
     <display-name lang="en">Hallmark Drama</display-name>
     <icon src="https://streamingtvguides.com/img/s/HALLDR.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="HallmarkMoviesMysteries.us">
     <display-name lang="en">Hallmark Movies &amp; Mysteries</display-name>
     <icon src="https://streamingtvguides.com/img/s/HMM.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ActionMAXW.us">
     <display-name lang="en">ACMAXP ActionMAX (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ThrillerMAXW.us">
     <display-name lang="en">THMAXP ThrillerMAX (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="IndiePlex.us">
     <display-name lang="en">INDIEHD IndiePlex HD</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="MoviePlex.us">
     <display-name lang="en">MPLEX MoviePlex</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ShowtimeExtremeW.us">
     <display-name lang="en">Showtime Extreme (Pacific)</display-name>
     <icon src="https://streamingtvguides.com/img/s/SHOWXP.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ShowtimeFamilyzone.us">
     <display-name lang="en">Showtime Familyzone</display-name>
     <icon src="https://streamingtvguides.com/img/s/FAMZ.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ShowtimeFamilyzoneW.us">
     <display-name lang="en">Showtime Familyzone (Pacific)</display-name>
     <icon src="https://streamingtvguides.com/img/s/FAMZP.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ShowtimeShowcaseW.us">
     <display-name lang="en">Showtime Showcase (Pacific)</display-name>
     <icon src="https://streamingtvguides.com/img/s/SHOCSEP.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ShowtimeWomen.us">
     <display-name lang="en">WOMENHD Showtime Women HD</display-name>
     <icon src="https://streamingtvguides.com/img/s/WOMEN.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="ShowtimeWomenW.us">
     <display-name lang="en">Showtime Women (Pacific)</display-name>
     <icon src="https://streamingtvguides.com/img/s/WOMENP.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzCinema.us">
     <display-name lang="en">STZCI Starz Cinema</display-name>
     <icon src="https://streamingtvguides.com/img/d/STZCIHD.png" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzCinemaW.us">
     <display-name lang="en">STZCIP Starz Cinema (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzComedyW.us">
     <display-name lang="en">STZCP Starz Comedy (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzEdgeW.us">
     <display-name lang="en">STZEP Starz Edge (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzinBlackW.us">
     <display-name lang="en">STZIBP Starz in Black (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzEncoreW.us">
     <display-name lang="en">STZENCP Starz Encore (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzEncoreActionW.us">
     <display-name lang="en">STZENAP Starz Encore Action (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzEncoreBlackW.us">
     <display-name lang="en">STZENBP Starz Encore Black (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzEncoreClassicW.us">
     <display-name lang="en">STZECLP Starz Encore Classic (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
+  </channel>
+  <channel id="StarzKids.us">
+    <display-name lang="en">STZKP Starz Kids (Pacific)</display-name>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="StarzEncoreSuspenseW.us">
     <display-name lang="en">STZENSP Starz Encore Suspense (Pacific)</display-name>
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
+  </channel>
+  <channel id="StarzEncoreWesternsW.us">
+    <display-name lang="en">STZENWP Starz Encore Westerns (Pacific)</display-name>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
   <channel id="WorldFishingNetwork.us">
     <display-name lang="en">WFNUS World Fishing Network (US)</display-name>
     <icon src="https://streamingtvguides.com/img/s/WFNUSHD.svg" />
-    <url>http://www.streamingtvguides.com</url>
+    <url>http://www.streamingtvguides.com.E</url>
   </channel>
-  <programme start="20210109000000 +0000" stop="20210109010000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">The Waltons</title>
-    <sub-title lang="en">The Outrage</sub-title>
-    <desc lang="en">John goes to see President Roosevelt at Warm Springs, Ga., and requests a pardon for the murder charges against Harley.</desc>
-  </programme>
-  <programme start="20210109010000 +0000" stop="20210109020000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">The Faith Healer</sub-title>
-    <desc lang="en">A charismatic preacher (James Olson) entices residents from the Rev. Alden's teachings.</desc>
-  </programme>
-  <programme start="20210109020000 +0000" stop="20210109030000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">Author, Author</sub-title>
-    <desc lang="en">The sudden death of Caroline's mother dims the joy over the birth of Mary's baby; guest Barry Sullivan.</desc>
-  </programme>
-  <programme start="20210109030000 +0000" stop="20210109040000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">Crossed Connections</sub-title>
-    <desc lang="en">Mrs. Oleson eavesdrops on her neighbors' new telephones and hears a secret that could split the Garveys.</desc>
-  </programme>
+  <channel id="FSN">
+    <display-name lang="en">NSW-Sydney  Fox Sports News</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/FSN_425x243.png" />
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="FS1">
+    <display-name lang="en">NSW-Sydney  FOX CRICKET</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="SP2">
+    <display-name lang="en">NSW-Sydney  FOX LEAGUE</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="FS3">
+    <display-name lang="en">NSW-Sydney  FOX SPORTS 503</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="FAF">
+    <display-name lang="en">NSW-Sydney  Fox Footy</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="FSP">
+    <display-name lang="en">NSW-Sydney  FOX SPORTS 505</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="SPS">
+    <display-name lang="en">NSW-Sydney  FOX SPORTS 506</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="FSS">
+    <display-name lang="en">NSW-Sydney  Fox Sports More</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">NSW-Sydney  ESPN</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="ESPN2">
+    <display-name lang="en">NSW-Sydney  ESPN2</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="B1E">
+    <display-name lang="en">NSW-Sydney  beIN SPORTS 1</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="B2E">
+    <display-name lang="en">NSW-Sydney  beIN SPORTS 2</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="B3E">
+    <display-name lang="en">NSW-Sydney  beIN SPORTS 3</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="SKY.news.au">
+    <display-name lang="en">SA-Adelaide SKY News</display-name>
+    <url>http://www.foxtel.com.au.EK</url>
+  </channel>
+  <channel id="mioStadium102">
+    <display-name lang="en">mio Stadium 102 (HD)</display-name>
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="LoveNature.my">
+    <display-name lang="en">Love Nature HD</display-name>
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="DiscoveryAsiaHD.my">
+    <display-name lang="en">Discovery Asia HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="DiscoveryChannelHD.my">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="DiscoveryScienceHD.my">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="NatGeoWildHD.my">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="NationalGeographicHD.my">
+    <display-name lang="en">National Geographic HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="HistoryHD.my">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="NatGeoPeopleHD.my">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AnimalPlanetHD.my">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="CrimeandInvestigationHD.my">
+    <display-name lang="en">Crime and Investigation HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="HGTVHD.my">
+    <display-name lang="en">HGTV HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="DMAXHD.my">
+    <display-name lang="en">DMAX HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="eGG.my">
+    <display-name lang="en">eGG</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroArena.my">
+    <display-name lang="en">Astro Arena</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroArenaHD.my">
+    <display-name lang="en">Astro Arena HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroSuperSportHD.my">
+    <display-name lang="en">Astro SuperSport HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroSuperSport2HD.my">
+    <display-name lang="en">Astro SuperSport 2 HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroSuperSport3HD.my">
+    <display-name lang="en">Astro SuperSport 3 HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroSuperSport4HD.my">
+    <display-name lang="en">Astro SuperSport 4 HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="FOXSportsHD.my">
+    <display-name lang="en">FOX Sports HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="beINSports.my">
+    <display-name lang="en">beIN Sports HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="beINSportsMAXHD.my">
+    <display-name lang="en">beIN Sports MAX HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="WWENetworkHD.my">
+    <display-name lang="en">WWE Network HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="GolfChannelHD.my">
+    <display-name lang="en">Golf Channel HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="AstroCricketHD.my">
+    <display-name lang="en">Astro Cricket HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="FOXSports.my">
+    <display-name lang="en">FOX Sports</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="FOXSports2.my">
+    <display-name lang="en">FOX Sports 2</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="FOXSports3.my">
+    <display-name lang="en">FOX Sports 3</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="Eurosport.my">
+    <display-name lang="en">Eurosport</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="WWENetwork.my">
+    <display-name lang="en">WWE Network</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="RugbyPassTVHD.my">
+    <display-name lang="en">RugbyPass TV HD</display-name>
+    <url>http://www.stadiumastro.com.E</url>
+  </channel>
+  <channel id="BeINSportsNews.MENA">
+    <display-name lang="en">News_ar English</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports4K.MENA">
+    <display-name lang="en">BeIN Sports MENA 4K</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports.MENA">
+    <display-name lang="en">BeIN Sports MENA</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports1.MENA">
+    <display-name lang="en">BeIN Sports MENA 1</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports2.MENA">
+    <display-name lang="en">BeIN Sports MENA 2</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports3.MENA">
+    <display-name lang="en">BeIN Sports MENA 3</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports4.MENA">
+    <display-name lang="en">BeIN Sports MENA 4</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports5.MENA">
+    <display-name lang="en">BeIN Sports MENA 5</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports6.MENA">
+    <display-name lang="en">BeIN Sports MENA 6</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports7.MENA">
+    <display-name lang="en">BeIN Sports MENA 7</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports8.MENA">
+    <display-name lang="en">BeIN Sports MENA 8</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports9.MENA">
+    <display-name lang="en">BeIN Sports MENA 9</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports10.MENA">
+    <display-name lang="en">BeIN Sports MENA 10</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports11.MENA">
+    <display-name lang="en">BeIN Sports MENA 11</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports12.MENA">
+    <display-name lang="en">BeIN Sports MENA 12</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports13.MENA">
+    <display-name lang="en">BeIN Sports MENA 13</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports14.MENA">
+    <display-name lang="en">BeIN Sports MENA 14</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports15.MENA">
+    <display-name lang="en">BeIN Sports MENA 15</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports16.MENA">
+    <display-name lang="en">BeIN Sports MENA 16</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSports17.MENA">
+    <display-name lang="en">BeIN Sports MENA 17</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BeINSportsNBA.MENA">
+    <display-name lang="en">BeIN Sports MENA NBA</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS1.us">
+    <display-name lang="en">BS1</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS2.us">
+    <display-name lang="en">BS2</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS3.us">
+    <display-name lang="en">BS3</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS4.us">
+    <display-name lang="en">BS4</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS5.us">
+    <display-name lang="en">BS5</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS6.us">
+    <display-name lang="en">BS6</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS7.us">
+    <display-name lang="en">BS7</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS8.us">
+    <display-name lang="en">BS8</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Sport1.hu">
+    <display-name lang="hu">Sport1</display-name>
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="Sport2.hu">
+    <display-name lang="hu">Sport2</display-name>
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="DIGISport1.hu">
+    <display-name lang="hu">DIGI Sport 1</display-name>
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="DIGISport2.hu">
+    <display-name lang="hu">DIGI Sport 2</display-name>
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="DIGISport3.hu">
+    <display-name lang="hu">DIGI Sport 3</display-name>
+    <url>http://www.port.hu</url>
+  </channel>
+  <channel id="FIGHTBOXHD.cz">
+    <display-name lang="cs">FIGHTBOX HD</display-name>
+    <url>http://www.programy-tv.cz</url>
+  </channel>
+  <channel id="SPORT1.cz">
+    <display-name lang="cs">SPORT1</display-name>
+    <url>http://www.programy-tv.cz</url>
+  </channel>
+  <channel id="SPORT2.cz">
+    <display-name lang="cs">SPORT2</display-name>
+    <url>http://www.programy-tv.cz</url>
+  </channel>
+  <channel id="VOOSport1.be">
+    <display-name lang="nl">VOO Sport 1</display-name>
+    <url>http://www.yelotv.be</url>
+  </channel>
+  <channel id="VOOSport2.be">
+    <display-name lang="nl">VOO Sport 2</display-name>
+    <url>http://www.yelotv.be</url>
+  </channel>
+  <channel id="VOOSport3.be">
+    <display-name lang="nl">VOO Sport 3</display-name>
+    <url>http://www.yelotv.be</url>
+  </channel>
+  <channel id="ElevenSports1.be">
+    <display-name lang="nl">Eleven Sports 1</display-name>
+    <url>http://www.yelotv.be</url>
+  </channel>
+  <channel id="ElevenSports2.be">
+    <display-name lang="nl">Eleven Sports 2</display-name>
+    <url>http://www.yelotv.be</url>
+  </channel>
   <programme start="20210109040000 +0000" stop="20210109050000 +0000" channel="HallmarkDrama.us">
     <title lang="en">Little House on the Prairie</title>
     <sub-title lang="en">The Angry Heart</sub-title>
@@ -592,30 +933,35 @@
     <sub-title lang="en">The Dust Bowl Cousins</sub-title>
     <desc lang="en">The Denby cousins move in unexpectedly and take advantage of hospitality.</desc>
   </programme>
-  <programme start="20210113110000 +0000" stop="20210108220000 +0000" channel="HallmarkDrama.us">
+  <programme start="20210113110000 +0000" stop="20210113120000 +0000" channel="HallmarkDrama.us">
     <title lang="en">The Waltons</title>
     <sub-title lang="en">The Reunion</sub-title>
     <desc lang="en">The sheriff asks John-Boy's help when the Baldwin sisters' cousin (Denver Pyle) plans to bootleg their ``recipe.''.</desc>
   </programme>
-  <programme start="20210109000000 +0000" stop="20210109010000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Murder, She Wrote</title>
-    <sub-title lang="en">Murder Takes the Bus</sub-title>
-    <desc lang="en">Stranded at a roadside diner by a storm, bus passengers Jessica and Sheriff Tupper investigate the murder of a fellow traveler.</desc>
+  <programme start="20210113120000 +0000" stop="20210113130000 +0000" channel="HallmarkDrama.us">
+    <title lang="en">The Waltons</title>
+    <sub-title lang="en">The Minstrel</sub-title>
+    <desc lang="en">Mary Ellen falls for a minstrel and resists helping the family fulfill a vital contract.</desc>
   </programme>
-  <programme start="20210109010000 +0000" stop="20210109020000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Matlock</title>
-    <sub-title lang="en">The Court Martial</sub-title>
-    <desc lang="en">Ben defends a rebellious young soldier framed in the murder of his sadistic lieutenant.</desc>
+  <programme start="20210113130000 +0000" stop="20210113140000 +0000" channel="HallmarkDrama.us">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">To See the Light</sub-title>
+    <desc lang="en">Charles and Caroline are thrilled, but Mary is apprehensive, when a head injury restores Adam's sight.</desc>
   </programme>
-  <programme start="20210109020000 +0000" stop="20210109030000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Matlock</title>
-    <sub-title lang="en">The Court Martial</sub-title>
-    <desc lang="en">While defending Private Hughes (Tony Becker), Matlock uncovers a scandal that could ruin four officers.</desc>
+  <programme start="20210113140000 +0000" stop="20210113150000 +0000" channel="HallmarkDrama.us">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">To See the Light</sub-title>
+    <desc lang="en">Mary feels like a burden when Adam resumes his education to be a lawyer.</desc>
   </programme>
-  <programme start="20210109030000 +0000" stop="20210109040000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Matlock</title>
-    <sub-title lang="en">The Therapist</sub-title>
-    <desc lang="en">A movie idol (Steve Bond) is accused of murdering the sex therapist who went public with his problems.</desc>
+  <programme start="20210113150000 +0000" stop="20210113160000 +0000" channel="HallmarkDrama.us">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">Come, Let Us Reason Together</sub-title>
+    <desc lang="en">Nellie's imminent motherhood causes a rift between the in-laws over the religious upbringing of the child.</desc>
+  </programme>
+  <programme start="20210113160000 +0000" stop="20210108220000 +0000" channel="HallmarkDrama.us">
+    <title lang="en">Little House on the Prairie</title>
+    <sub-title lang="en">The Nephews</sub-title>
+    <desc lang="en">Laura and Almanzo make the mistake of agreeing to care for his nephews while their parents are on vacation.</desc>
   </programme>
   <programme start="20210109040000 +0000" stop="20210109050000 +0000" channel="HallmarkMoviesMysteries.us">
     <title lang="en">Matlock</title>
@@ -1072,11 +1418,6 @@
     <sub-title lang="en">Murder in the Electric Cathedral</sub-title>
     <desc lang="en">Murder plays a part in the death of a wealthy woman who leaves her fortune to an evangelist instead of her family.</desc>
   </programme>
-  <programme start="20210109012900 +0000" stop="20210109034000 +0000" channel="ActionMAXW.us">
-    <title lang="en">John Wick: Chapter 3 -- Parabellum</title>
-    <desc lang="en">Stripped of the High Table's protective services, legendary hit man John Wick must fight his way through the streets of New York as the world's most ruthless killers try to collect the $14 million bounty on his head.</desc>
-    <date>2019</date>
-  </programme>
   <programme start="20210109034000 +0000" stop="20210109060000 +0000" channel="ActionMAXW.us">
     <title lang="en">Open Range</title>
     <desc lang="en">Cattle herdsmen (Robert Duvall, Kevin Costner) unite to battle a ruthless rancher and his henchmen in 1882.</desc>
@@ -1406,11 +1747,6 @@
     <title lang="en">Pandorum</title>
     <desc lang="en">Two astronauts (Dennis Quaid, Ben Foster) discover a terrifying reality after awaking disoriented, aboard a seemingly abandoned spaceship.</desc>
     <date>2009</date>
-  </programme>
-  <programme start="20210109013800 +0000" stop="20210109032200 +0000" channel="ThrillerMAXW.us">
-    <title lang="en">Saw</title>
-    <desc lang="en">A serial murderer will slaughter a captive doctor's (Cary Elwes) wife and daughter unless the man kills a fellow prisoner.</desc>
-    <date>2004</date>
   </programme>
   <programme start="20210109032200 +0000" stop="20210109045900 +0000" channel="ThrillerMAXW.us">
     <title lang="en">Return of the Living Dead III</title>
@@ -1747,16 +2083,6 @@
     <desc lang="en">Charismatic Englishman James Hunt (Chris Hemsworth) and Austrian perfectionist Niki Lauda (Daniel Brühl) burn up the 1970s Formula 1 racing scene and share an intense rivalry on the track.</desc>
     <date>2013</date>
   </programme>
-  <programme start="20210109004100 +0000" stop="20210109021900 +0000" channel="IndiePlex.us">
-    <title lang="en">The Guard</title>
-    <desc lang="en">A vulgar Irish cop (Brendan Gleeson) and a straight-laced American FBI agent (Don Cheadle) uncover police corruption among the former's superiors while probing a drug-trafficking ring.</desc>
-    <date>2011</date>
-  </programme>
-  <programme start="20210109021900 +0000" stop="20210109034900 +0000" channel="IndiePlex.us">
-    <title lang="en">Robert Klein Still Can't Stop His Leg</title>
-    <desc lang="en">The comedian goes about his daily routine while discussing his career, his influences, and the way he influenced others.</desc>
-    <date>2016</date>
-  </programme>
   <programme start="20210109034900 +0000" stop="20210109053400 +0000" channel="IndiePlex.us">
     <title lang="en">Looking Glass</title>
     <desc lang="en">Ray must race to save his wife and himself from a gruesome secret connected to a desert hotel and the strange people who visit there.</desc>
@@ -2075,11 +2401,6 @@
     <title lang="en">Jennifer's Body</title>
     <desc lang="en">A beautiful cheerleader (Megan Fox) gains an insatiable appetite for human flesh after a hungry demon takes control of her body.</desc>
     <date>2009</date>
-  </programme>
-  <programme start="20210109004600 +0000" stop="20210109024300 +0000" channel="MoviePlex.us">
-    <title lang="en">Hoosiers</title>
-    <desc lang="en">A college basketball coach (Gene Hackman) leaves the Navy in 1951 and becomes coach of an underdog Indiana high-school team.</desc>
-    <date>1986</date>
   </programme>
   <programme start="20210109024300 +0000" stop="20210109041300 +0000" channel="MoviePlex.us">
     <title lang="en">The Hollars</title>
@@ -2429,16 +2750,6 @@
     <desc lang="en">Badly beaten by thugs, a young man (Jackie Chan) learns discipline and martial arts from his uncle.</desc>
     <date>1978</date>
   </programme>
-  <programme start="20210109010000 +0000" stop="20210109023000 +0000" channel="ShowtimeExtremeW.us">
-    <title lang="en">Child's Play</title>
-    <desc lang="en">A killer sought by a Chicago detective (Chris Sarandon) becomes a doll called Chucky, bought by a woman (Catherine Hicks) for her son (Alex Vincent).</desc>
-    <date>1988</date>
-  </programme>
-  <programme start="20210109023000 +0000" stop="20210109040000 +0000" channel="ShowtimeExtremeW.us">
-    <title lang="en">Child's Play 2</title>
-    <desc lang="en">Possessed by a killer's spirit, Chucky the knee-high doll returns to get the boy (Alex Vincent) who destroyed him.</desc>
-    <date>1990</date>
-  </programme>
   <programme start="20210109040000 +0000" stop="20210109053000 +0000" channel="ShowtimeExtremeW.us">
     <title lang="en">Child's Play 3</title>
     <desc lang="en">Chucky the killer doll wreaks havoc when he is mailed to his young foe's (Justin Whalin) coed military school.</desc>
@@ -2772,16 +3083,6 @@
     <title lang="en">The Circus: Inside the Greatest Political Show on Earth</title>
     <sub-title lang="en">601</sub-title>
   </programme>
-  <programme start="20210109001500 +0000" stop="20210109020000 +0000" channel="ShowtimeFamilyzone.us">
-    <title lang="en">Bulletproof Monk</title>
-    <desc lang="en">A martial-arts master (Chow Yun-Fat) finds an unlikely protégé (Seann William Scott) to take over the responsibility of protecting an ancient scroll.</desc>
-    <date>2003</date>
-  </programme>
-  <programme start="20210109020000 +0000" stop="20210109040000 +0000" channel="ShowtimeFamilyzone.us">
-    <title lang="en">Bandslam</title>
-    <desc lang="en">A gifted singer-songwriter (Aly Michalka) hires a new guy (Gaelan Connell) in town to help her fledgling rock band win an upcoming contest.</desc>
-    <date>2009</date>
-  </programme>
   <programme start="20210109040000 +0000" stop="20210109050000 +0000" channel="ShowtimeFamilyzone.us">
     <title lang="en">Perfect in '76</title>
     <desc lang="en">Revisiting the '76 Hoosiers and renowned coach Bobby Knight, who led the Indiana team to a perfect 32-0 season and a national championship.</desc>
@@ -3112,11 +3413,6 @@
   <programme start="20210113221500 +0000" stop="20210114001500 +0000" channel="ShowtimeFamilyzone.us">
     <title lang="en">Hitsville: The Making of Motown</title>
     <desc lang="en">Motown Records becomes the most successful label of all time after its formation in 1958 Detroit amid racial tension and the burgeoning civil rights movement.</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20210109013000 +0000" stop="20210109031500 +0000" channel="ShowtimeFamilyzoneW.us">
-    <title lang="en">The Current War: Director's Cut</title>
-    <desc lang="en">Rival 19th-century inventors Thomas Edison and George Westinghouse battle for dominance in the use of differing electrical currents.</desc>
     <date>2019</date>
   </programme>
   <programme start="20210109031500 +0000" stop="20210109050000 +0000" channel="ShowtimeFamilyzoneW.us">
@@ -3456,11 +3752,6 @@
     <desc lang="en">An American widow living in the London suburb of Hampstead and a man who lives on the Heath form an unlikely alliance against unscrupulous property developers in the neighborhood.</desc>
     <date>2017</date>
   </programme>
-  <programme start="20210109013000 +0000" stop="20210109030000 +0000" channel="ShowtimeShowcaseW.us">
-    <title lang="en">Cult of Chucky</title>
-    <desc lang="en">Chucky returns to terrorize his human victim, Nica, who is confined to an asylum for the criminally insane. Meanwhile, the killer doll has some scores to settle with his old enemies, with the help of his former wife.</desc>
-    <date>2017</date>
-  </programme>
   <programme start="20210109030000 +0000" stop="20210109043500 +0000" channel="ShowtimeShowcaseW.us">
     <title lang="en">Alive</title>
     <desc lang="en">A severely injured man and woman wake up in an abandoned sanitarium and discover a sadistic caretaker holds the key to their freedom.</desc>
@@ -3770,16 +4061,6 @@
     <title lang="en">Sinister</title>
     <desc lang="en">A true-crime novelist (Ethan Hawke) and his family become the targets of a supernatural entity when he uses found footage to unravel the murders of his home's previous occupants.</desc>
     <date>2012</date>
-  </programme>
-  <programme start="20210109001100 +0000" stop="20210109015700 +0000" channel="StarzCinema.us">
-    <title lang="en">My Hero Academia: Heroes Rising</title>
-    <desc lang="en">Deku and the rest of the heroes of Class 1-A must save a group of islanders from a powerful villain. Animated.</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20210109015700 +0000" stop="20210109034700 +0000" channel="StarzCinema.us">
-    <title lang="en">A Beautiful Day in the Neighborhood</title>
-    <desc lang="en">Lloyd Vogel is an investigative journalist who receives an assignment to profile Fred Rogers, aka Mr. Rogers. Fred's empathy, kindness and decency soon chips away at Vogel's jaded outlook on life, forcing him to reconcile with his painful past.</desc>
-    <date>2019</date>
   </programme>
   <programme start="20210109034700 +0000" stop="20210109053100 +0000" channel="StarzCinema.us">
     <title lang="en">Garden State</title>
@@ -4106,11 +4387,6 @@
     <desc lang="en">A Marine (Jake Gyllenhaal) and his comrades (Peter Sarsgaard, Jamie Foxx) form brotherly bonds while patrolling the Iraqi desert during the Gulf War.</desc>
     <date>2005</date>
   </programme>
-  <programme start="20210109010600 +0000" stop="20210109031200 +0000" channel="StarzEncoreW.us">
-    <title lang="en">The Newton Boys</title>
-    <desc lang="en">Seeking an escape from poverty, sibling Texas farmers (Matthew McConaughey, Skeet Ulrich, Ethan Hawke) gain notoriety as daring 1920s bank robbers.</desc>
-    <date>1998</date>
-  </programme>
   <programme start="20210109031200 +0000" stop="20210109052500 +0000" channel="StarzEncoreW.us">
     <title lang="en">Rising Sun</title>
     <desc lang="en">Los Angeles police detectives (Sean Connery, Wesley Snipes) tie a skyscraper homicide to Washington politics and corporate Japan.</desc>
@@ -4429,16 +4705,6 @@
     <title lang="en">Spider-Man</title>
     <desc lang="en">Peter Parker (Tobey Maguire) uses his superhuman powers to battle his archenemy, the Green Goblin (Willem Dafoe).</desc>
     <date>2002</date>
-  </programme>
-  <programme start="20210109004100 +0000" stop="20210109021100 +0000" channel="StarzEncoreActionW.us">
-    <title lang="en">Ultraviolet</title>
-    <desc lang="en">As worldwide civil war looms, a superhuman woman (Milla Jovovich) becomes the protector of a boy who is perceived as a threat to humanity.</desc>
-    <date>2006</date>
-  </programme>
-  <programme start="20210109021100 +0000" stop="20210109034300 +0000" channel="StarzEncoreActionW.us">
-    <title lang="en">Mo' Money</title>
-    <desc lang="en">Two brothers (Damon Wayans, Marlon Wayans) go shopping with stolen credit cards and land in a scam linked to murder.</desc>
-    <date>1992</date>
   </programme>
   <programme start="20210109034300 +0000" stop="20210109043300 +0000" channel="StarzEncoreActionW.us">
     <title lang="en">Miami Vice</title>
@@ -4788,11 +5054,6 @@
     <title lang="en">Knight Rider</title>
     <sub-title lang="en">Knight in Retreat</sub-title>
     <desc lang="en">At Bonnie's request, Michael goes under cover as a scientist to investigate the death of one of her former college professors.</desc>
-  </programme>
-  <programme start="20210109004000 +0000" stop="20210109023700 +0000" channel="StarzEncoreBlackW.us">
-    <title lang="en">Freedomland</title>
-    <desc lang="en">A detective (Samuel L. Jackson) investigates a carjacking that resulted in the abduction of the young son of a troubled woman (Julianne Moore).</desc>
-    <date>2006</date>
   </programme>
   <programme start="20210109023700 +0000" stop="20210109041200 +0000" channel="StarzEncoreBlackW.us">
     <title lang="en">Absolute Deception</title>
@@ -5152,44 +5413,449 @@
     <desc lang="en">Residents (Tom Welling, Maggie Grace, Selma Blair) of a seaside community fall prey to malevolent entities hidden within the thick mist around their homes.</desc>
     <date>2005</date>
   </programme>
-  <programme start="20210109000000 +0000" stop="20210109003000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">BC Outdoors Sportfishing</title>
-    <sub-title lang="en">Caribou Kokanee</sub-title>
-    <desc lang="en">Mike Mitchell and Mike Ramsay chasing kokanee in the Cariboo.</desc>
+  <programme start="20210109040300 +0000" stop="20210109054900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">High Plains Drifter</title>
+    <desc lang="en">A mysterious stranger (Clint Eastwood) forces cowardly citizens of Lago to prepare a garish welcome for three escaped convicts.</desc>
+    <date>1973</date>
   </programme>
-  <programme start="20210109003000 +0000" stop="20210109010000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">CFN Fish Off</title>
-    <sub-title lang="en">Big Fish, Small Fish, Any Fish</sub-title>
-    <desc lang="en">Four teams across Canada battle in a six week multi-species fishing competition and the winning team gets to donate $10,000 to the children's charity of their choice.</desc>
+  <programme start="20210109054900 +0000" stop="20210109075900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Magnificent Seven</title>
+    <desc lang="en">A man in black (Yul Brynner) recruits six hired guns to lead Mexican villagers against the gang of an outlaw (Eli Wallach).</desc>
+    <date>1960</date>
   </programme>
-  <programme start="20210109010000 +0000" stop="20210109013000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">The New Fly Fisher</title>
-    <sub-title lang="en">Teton Valley Lodge</sub-title>
-    <desc lang="en">Mark Melnyk is in beautiful Yellowstone/Teton territory, fly fishing for rainbow trout and cutthroat. He is the guest of Teton Valley Lodge.</desc>
+  <programme start="20210109075900 +0000" stop="20210109085400 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Lucky Texan</title>
+    <desc lang="en">Jerry Mason (John Wayne) and his friend Jake (George Hayes) have to keep two crooks away from their gold.</desc>
+    <date>1934</date>
   </programme>
-  <programme start="20210109013000 +0000" stop="20210109020000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">Westcoast Sporting Journal</title>
-    <sub-title lang="en">Northern Vancouver Island Chinook</sub-title>
-    <desc lang="en">Inshore early season Chinook salmon.</desc>
+  <programme start="20210109085400 +0000" stop="20210109100400 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Silver on the Sage</title>
+    <desc lang="en">Hopalong Cassidy (William Boyd) pins rustling on a casino owner and his twin brother.</desc>
+    <date>1939</date>
   </programme>
-  <programme start="20210109020000 +0000" stop="20210109023000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">Bob Izumi's Real Fishing</title>
-    <sub-title lang="en">Florida Bass</sub-title>
-    <desc lang="en">Bob is down at Streamsong Resort with Tyler Ramsdell targeting largemouth bass while enjoying the Florida sunshine and enjoying many laughs.</desc>
+  <programme start="20210109100400 +0000" stop="20210109114300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Return of the Seven</title>
+    <desc lang="en">The man in black (Yul Brynner) forms a new Magnificent Seven, to save Mexican farmers from slave labor.</desc>
+    <date>1966</date>
   </programme>
-  <programme start="20210109023000 +0000" stop="20210109030000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">Fishing the Wild West</title>
-    <sub-title lang="en">Alberta's Rolling Hills Reservoir walleye</sub-title>
-    <desc lang="en">Jigging and bottom-bouncing walleye with guests Dan and Alesha from Big Sky Flies &amp; Jigs.</desc>
+  <programme start="20210109114300 +0000" stop="20210109130800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cast a Long Shadow</title>
+    <desc lang="en">An illegitimate drifter (Audie Murphy) inherits a ranch and comes to terms with his past.</desc>
+    <date>1959</date>
   </programme>
-  <programme start="20210109030000 +0000" stop="20210109033000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">Florida Sportsman Best Boat</title>
-    <sub-title lang="en">Sea Born LX24, Stamas 31T Adventura, Contender 44FA</sub-title>
+  <programme start="20210109130800 +0000" stop="20210109145000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Magnificent Seven Ride!</title>
+    <desc lang="en">A marshal (Lee Van Cleef), an Eastern reporter and five ex-convicts rescue widows from Mexican bandits.</desc>
+    <date>1972</date>
   </programme>
-  <programme start="20210109033000 +0000" stop="20210109040000 +0000" channel="WorldFishingNetwork.us">
-    <title lang="en">Modern Fishing With Jared Jeffries</title>
-    <sub-title lang="en">Keymorada Tournament: Part 1</sub-title>
-    <desc lang="en">Jared is participating in the Islamorada Fishing Tournament held at the Cheeca Lodge down in The Florida Keys. The tournament is put on by the Widom brothers to benefit Crohn's Disease and Celiac research. Jared hits the water.</desc>
+  <programme start="20210109145000 +0000" stop="20210109163800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">High Plains Drifter</title>
+    <desc lang="en">A mysterious stranger (Clint Eastwood) forces cowardly citizens of Lago to prepare a garish welcome for three escaped convicts.</desc>
+    <date>1973</date>
+  </programme>
+  <programme start="20210109163800 +0000" stop="20210109175000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Apache Territory</title>
+    <desc lang="en">A drifter crossing the Arizona desert routs a band of marauding Apaches and rescues the young survivor of a massacre.</desc>
+    <date>1958</date>
+  </programme>
+  <programme start="20210109175000 +0000" stop="20210109200000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Magnificent Seven</title>
+    <desc lang="en">A man in black (Yul Brynner) recruits six hired guns to lead Mexican villagers against the gang of an outlaw (Eli Wallach).</desc>
+    <date>1960</date>
+  </programme>
+  <programme start="20210109200000 +0000" stop="20210109213700 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Return of the Seven</title>
+    <desc lang="en">The man in black (Yul Brynner) forms a new Magnificent Seven, to save Mexican farmers from slave labor.</desc>
+    <date>1966</date>
+  </programme>
+  <programme start="20210109213700 +0000" stop="20210109231900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Magnificent Seven Ride!</title>
+    <desc lang="en">A marshal (Lee Van Cleef), an Eastern reporter and five ex-convicts rescue widows from Mexican bandits.</desc>
+    <date>1972</date>
+  </programme>
+  <programme start="20210109231900 +0000" stop="20210110003300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Apache Territory</title>
+    <desc lang="en">A drifter crossing the Arizona desert routs a band of marauding Apaches and rescues the young survivor of a massacre.</desc>
+    <date>1958</date>
+  </programme>
+  <programme start="20210110003300 +0000" stop="20210110015800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Secret of Convict Lake</title>
+    <desc lang="en">In 1871, a group of escaped convicts descends upon a small mountain settlement occupied only by women.</desc>
+    <date>1951</date>
+  </programme>
+  <programme start="20210110015800 +0000" stop="20210110040800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Magnificent Seven</title>
+    <desc lang="en">A man in black (Yul Brynner) recruits six hired guns to lead Mexican villagers against the gang of an outlaw (Eli Wallach).</desc>
+    <date>1960</date>
+  </programme>
+  <programme start="20210110040800 +0000" stop="20210110053200 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Broken Star</title>
+    <desc lang="en">Deputy Marshal Frank Smeed (Howard Duff) guns down an innocent Mexican who was about to deliver a huge sum of gold to a land tycoon, then makes off with the loot and covers his tracks by claiming that the man he shot was a dangerous criminal.</desc>
+    <date>1956</date>
+  </programme>
+  <programme start="20210110053200 +0000" stop="20210110070900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Return of the Seven</title>
+    <desc lang="en">The man in black (Yul Brynner) forms a new Magnificent Seven, to save Mexican farmers from slave labor.</desc>
+    <date>1966</date>
+  </programme>
+  <programme start="20210110070900 +0000" stop="20210110090000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">100 Rifles</title>
+    <desc lang="en">A sheriff (Jim Brown) helps a bank robber (Burt Reynolds) and a Yaqui beauty (Raquel Welch) fight a tyrant general in 1912 Mexico.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210110090000 +0000" stop="20210110102500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Secret of Convict Lake</title>
+    <desc lang="en">In 1871, a group of escaped convicts descends upon a small mountain settlement occupied only by women.</desc>
+    <date>1951</date>
+  </programme>
+  <programme start="20210110102500 +0000" stop="20210110121500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Young Guns</title>
+    <desc lang="en">An English aristocrat hires Billy the Kid (Emilio Estevez) and five other outcasts to guard his New Mexico ranch.</desc>
+    <date>1988</date>
+  </programme>
+  <programme start="20210110121500 +0000" stop="20210110140100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Young Guns II</title>
+    <desc lang="en">Billy the Kid (Emilio Estevez) and his gang (Kiefer Sutherland, Lou Diamond Phillips) gallop to Mexico, chased by a federal posse led by Pat Garrett.</desc>
+    <date>1990</date>
+  </programme>
+  <programme start="20210110140100 +0000" stop="20210110151300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Gun Fight</title>
+    <desc lang="en">An ex-cavalryman (James Brown) marries a dance-hall girl (Joan Staley) and sides with his brother (Gregg Palmer) against outlaws.</desc>
+    <date>1961</date>
+  </programme>
+  <programme start="20210110151300 +0000" stop="20210110164500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Way of a Gaucho</title>
+    <desc lang="en">An 1870s cowboy (Rory Calhoun) leads rebels and courts an aristocrat (Gene Tierney) on the Argentina pampas.</desc>
+    <date>1952</date>
+  </programme>
+  <programme start="20210110164500 +0000" stop="20210110180900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Valerie</title>
+    <desc lang="en">Versions differ as a Civil War hero (Sterling Hayden) stands trial out West for shooting his wife (Anita Ekberg) and her family.</desc>
+    <date>1957</date>
+  </programme>
+  <programme start="20210110180900 +0000" stop="20210110200000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">100 Rifles</title>
+    <desc lang="en">A sheriff (Jim Brown) helps a bank robber (Burt Reynolds) and a Yaqui beauty (Raquel Welch) fight a tyrant general in 1912 Mexico.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210110200000 +0000" stop="20210110214800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Young Guns</title>
+    <desc lang="en">An English aristocrat hires Billy the Kid (Emilio Estevez) and five other outcasts to guard his New Mexico ranch.</desc>
+    <date>1988</date>
+  </programme>
+  <programme start="20210110214800 +0000" stop="20210110233400 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Young Guns II</title>
+    <desc lang="en">Billy the Kid (Emilio Estevez) and his gang (Kiefer Sutherland, Lou Diamond Phillips) gallop to Mexico, chased by a federal posse led by Pat Garrett.</desc>
+    <date>1990</date>
+  </programme>
+  <programme start="20210110233400 +0000" stop="20210111010000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Broken Star</title>
+    <desc lang="en">Deputy Marshal Frank Smeed (Howard Duff) guns down an innocent Mexican who was about to deliver a huge sum of gold to a land tycoon, then makes off with the loot and covers his tracks by claiming that the man he shot was a dangerous criminal.</desc>
+    <date>1956</date>
+  </programme>
+  <programme start="20210111010000 +0000" stop="20210111025100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">100 Rifles</title>
+    <desc lang="en">A sheriff (Jim Brown) helps a bank robber (Burt Reynolds) and a Yaqui beauty (Raquel Welch) fight a tyrant general in 1912 Mexico.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210111025100 +0000" stop="20210111041500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Valerie</title>
+    <desc lang="en">Versions differ as a Civil War hero (Sterling Hayden) stands trial out West for shooting his wife (Anita Ekberg) and her family.</desc>
+    <date>1957</date>
+  </programme>
+  <programme start="20210111041500 +0000" stop="20210111060300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Young Guns</title>
+    <desc lang="en">An English aristocrat hires Billy the Kid (Emilio Estevez) and five other outcasts to guard his New Mexico ranch.</desc>
+    <date>1988</date>
+  </programme>
+  <programme start="20210111060300 +0000" stop="20210111083900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Paint Your Wagon</title>
+    <desc lang="en">Prospectors (Lee Marvin, Clint Eastwood) share a wife (Jean Seberg) and a scheme to collect gold dust lost in a California boomtown.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210111083900 +0000" stop="20210111101100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Way of a Gaucho</title>
+    <desc lang="en">An 1870s cowboy (Rory Calhoun) leads rebels and courts an aristocrat (Gene Tierney) on the Argentina pampas.</desc>
+    <date>1952</date>
+  </programme>
+  <programme start="20210111101100 +0000" stop="20210111112900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Beautiful Blonde From Bashful Bend</title>
+    <desc lang="en">A saloon girl (Betty Grable) shoots at her boyfriend (Cesar Romero), leaves town, poses as a schoolteacher and woos a mineowner (Rudy Vallee).</desc>
+    <date>1949</date>
+  </programme>
+  <programme start="20210111112900 +0000" stop="20210111123600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Santa Fe Marshal</title>
+    <desc lang="en">Marshal Hopalong Cassidy (William Boyd) arrives with a medicine show and stops a little old lady's gang.</desc>
+    <date>1940</date>
+  </programme>
+  <programme start="20210111123600 +0000" stop="20210111140000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Valerie</title>
+    <desc lang="en">Versions differ as a Civil War hero (Sterling Hayden) stands trial out West for shooting his wife (Anita Ekberg) and her family.</desc>
+    <date>1957</date>
+  </programme>
+  <programme start="20210111140000 +0000" stop="20210111142700 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Life and Legend of Wyatt Earp</title>
+    <sub-title lang="en">The Reformation of Jim Kelley</sub-title>
+    <desc lang="en">When Dora Hand convinces Jim Kelley to sell his saloon in advance of their marriage, McGuire and Albright wrangle a deal to make Earp part-owner of the saloon without his knowledge and frame him for illegal business practices.</desc>
+  </programme>
+  <programme start="20210111142700 +0000" stop="20210111152000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Big Valley</title>
+    <sub-title lang="en">The Emperor of Rice</sub-title>
+    <desc lang="en">A desperate merchant kidnaps Victoria to force the Barkleys to help him corner the imported-rice market.</desc>
+  </programme>
+  <programme start="20210111152000 +0000" stop="20210111161100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Laramie</title>
+    <sub-title lang="en">The General Must Die</sub-title>
+    <desc lang="en">Slim's old war buddy arrives on the stage, ostensibly for a visit, but his real intent is to assassinate General Sherman.</desc>
+  </programme>
+  <programme start="20210111161100 +0000" stop="20210111163800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Death Valley Days</title>
+    <sub-title lang="en">A Bullet for the Captain</sub-title>
+    <desc lang="en">A captain must prove a trading post owner innocent of supplying ammunition to Sioux warriors.</desc>
+  </programme>
+  <programme start="20210111163800 +0000" stop="20210111170600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Death Valley Days</title>
+    <sub-title lang="en">A Town Is Born</sub-title>
+    <desc lang="en">American couple assists a revolt against Mexico's emperor.</desc>
+  </programme>
+  <programme start="20210111170600 +0000" stop="20210111175700 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Maverick</title>
+    <sub-title lang="en">Prey of the Cat</sub-title>
+    <desc lang="en">The wife of a friend falls in love with Bart while he is recovering at their secluded mountain cabin.</desc>
+  </programme>
+  <programme start="20210111175700 +0000" stop="20210111184900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cheyenne</title>
+    <sub-title lang="en">Lone Patrol</sub-title>
+    <desc lang="en">Cheyenne finds heroism in a young trooper whose commanding officer considers him expendable.</desc>
+  </programme>
+  <programme start="20210111184900 +0000" stop="20210111191600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Tales of Wells Fargo</title>
+    <sub-title lang="en">Shotgun Messenger</sub-title>
+    <desc lang="en">Hardie gives a job to the son of a former employee who was fired.</desc>
+  </programme>
+  <programme start="20210111191600 +0000" stop="20210111215200 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Paint Your Wagon</title>
+    <desc lang="en">Prospectors (Lee Marvin, Clint Eastwood) share a wife (Jean Seberg) and a scheme to collect gold dust lost in a California boomtown.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210111215200 +0000" stop="20210111231000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Beautiful Blonde From Bashful Bend</title>
+    <desc lang="en">A saloon girl (Betty Grable) shoots at her boyfriend (Cesar Romero), leaves town, poses as a schoolteacher and woos a mineowner (Rudy Vallee).</desc>
+    <date>1949</date>
+  </programme>
+  <programme start="20210111231000 +0000" stop="20210112001000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Westward Trail</title>
+    <desc lang="en">The marshal (Eddie Dean) saves a woman's (Phyllis Planchard) ranch and sings ``When Shorty Plays the Schottische.''.</desc>
+    <date>1948</date>
+  </programme>
+  <programme start="20210112001000 +0000" stop="20210112010900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cassidy of Bar 20</title>
+    <desc lang="en">Hopalong Cassidy (William Boyd) leaves the Bar 20 ranch to help Nora Blake (Nora Lane) fend off Clay Allison's cattle rustlers.</desc>
+    <date>1938</date>
+  </programme>
+  <programme start="20210112010900 +0000" stop="20210112024600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">40 Guns to Apache Pass</title>
+    <desc lang="en">A cavalry captain (Audie Murphy) rescues settlers and catches a corporal (Kenneth Tobey) selling rifles to Apaches.</desc>
+    <date>1967</date>
+  </programme>
+  <programme start="20210112024600 +0000" stop="20210112035300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Santa Fe Marshal</title>
+    <desc lang="en">Marshal Hopalong Cassidy (William Boyd) arrives with a medicine show and stops a little old lady's gang.</desc>
+    <date>1940</date>
+  </programme>
+  <programme start="20210112035300 +0000" stop="20210112052100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Rawhide</title>
+    <desc lang="en">An escaped convict (Hugh Marlowe) and his gang hold a man (Tyrone Power), a woman (Susan Hayward) and a little girl hostage at a stagecoach station.</desc>
+    <date>1951</date>
+  </programme>
+  <programme start="20210112052100 +0000" stop="20210112063300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Three Men From Texas</title>
+    <desc lang="en">Texas Ranger Hopalong Cassidy (William Boyd) and his sidekicks (Russell Hayden, Andy Clyde) unite citizens against border crooks.</desc>
+    <date>1940</date>
+  </programme>
+  <programme start="20210112063300 +0000" stop="20210112075100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Beautiful Blonde From Bashful Bend</title>
+    <desc lang="en">A saloon girl (Betty Grable) shoots at her boyfriend (Cesar Romero), leaves town, poses as a schoolteacher and woos a mineowner (Rudy Vallee).</desc>
+    <date>1949</date>
+  </programme>
+  <programme start="20210112075100 +0000" stop="20210112091500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cast a Long Shadow</title>
+    <desc lang="en">An illegitimate drifter (Audie Murphy) inherits a ranch and comes to terms with his past.</desc>
+    <date>1959</date>
+  </programme>
+  <programme start="20210112091500 +0000" stop="20210112104300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Rawhide</title>
+    <desc lang="en">An escaped convict (Hugh Marlowe) and his gang hold a man (Tyrone Power), a woman (Susan Hayward) and a little girl hostage at a stagecoach station.</desc>
+    <date>1951</date>
+  </programme>
+  <programme start="20210112104300 +0000" stop="20210112122000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">40 Guns to Apache Pass</title>
+    <desc lang="en">A cavalry captain (Audie Murphy) rescues settlers and catches a corporal (Kenneth Tobey) selling rifles to Apaches.</desc>
+    <date>1967</date>
+  </programme>
+  <programme start="20210112122000 +0000" stop="20210112140000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Bravados</title>
+    <desc lang="en">A Southwestern man (Gregory Peck) hunts to kill the four outlaws he blames for the rape/murder of his wife.</desc>
+    <date>1958</date>
+  </programme>
+  <programme start="20210112140000 +0000" stop="20210112142700 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Life and Legend of Wyatt Earp</title>
+    <sub-title lang="en">So Long, Dora, So Long</sub-title>
+    <desc lang="en">Aggressive suitor Bob Rellance pesters Dora on the day before her marriage to Kelley, asking her to call off the wedding in favor of himself, but when tensions escalate into violence, Earp steps in to force Rellance out of town.</desc>
+  </programme>
+  <programme start="20210112142700 +0000" stop="20210112152000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Big Valley</title>
+    <sub-title lang="en">Rimfire</sub-title>
+    <desc lang="en">Jarrod goes to a mining town to conclude a merger deal between the Barkley mines and another mining combine.</desc>
+  </programme>
+  <programme start="20210112152000 +0000" stop="20210112161100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Laramie</title>
+    <sub-title lang="en">Dark Verdict</sub-title>
+    <desc lang="en">Jess is livid when his innocent friend is tried, convicted and hanged for the murders of Doc Webb and Sheriff Kiley.</desc>
+  </programme>
+  <programme start="20210112161100 +0000" stop="20210112163800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Death Valley Days</title>
+    <sub-title lang="en">Sailor on a Horse</sub-title>
+    <desc lang="en">A Navy officer mapping the Missouri River encounters a struggle between Indians and the Army.</desc>
+  </programme>
+  <programme start="20210112163800 +0000" stop="20210112170500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Death Valley Days</title>
+    <sub-title lang="en">Gold Lake</sub-title>
+    <desc lang="en">A false report triggers a gold rush.</desc>
+  </programme>
+  <programme start="20210112170500 +0000" stop="20210112175600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Maverick</title>
+    <sub-title lang="en">Holiday at Hollow Rock</sub-title>
+    <desc lang="en">Bret tries to outsmart a crooked sheriff.</desc>
+  </programme>
+  <programme start="20210112175600 +0000" stop="20210112184800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cheyenne</title>
+    <sub-title lang="en">Massacre at Gunsight Pass</sub-title>
+    <desc lang="en">A Russian causes an Indian war party to besiege a stage coach on which Cheyenne is transporting outlaw Johnny Eldorado to trial.</desc>
+  </programme>
+  <programme start="20210112184800 +0000" stop="20210112191500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Tales of Wells Fargo</title>
+    <sub-title lang="en">The Lynching</sub-title>
+    <desc lang="en">Hardie tries to prevent a lynching when a town's hard cases accuse a Basque sheepherder of the abduction a young girl.</desc>
+  </programme>
+  <programme start="20210112191500 +0000" stop="20210112204300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Rawhide</title>
+    <desc lang="en">An escaped convict (Hugh Marlowe) and his gang hold a man (Tyrone Power), a woman (Susan Hayward) and a little girl hostage at a stagecoach station.</desc>
+    <date>1951</date>
+  </programme>
+  <programme start="20210112204300 +0000" stop="20210112220700 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cast a Long Shadow</title>
+    <desc lang="en">An illegitimate drifter (Audie Murphy) inherits a ranch and comes to terms with his past.</desc>
+    <date>1959</date>
+  </programme>
+  <programme start="20210112220700 +0000" stop="20210112234400 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">40 Guns to Apache Pass</title>
+    <desc lang="en">A cavalry captain (Audie Murphy) rescues settlers and catches a corporal (Kenneth Tobey) selling rifles to Apaches.</desc>
+    <date>1967</date>
+  </programme>
+  <programme start="20210112234400 +0000" stop="20210113004400 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Ghost Town Renegades</title>
+    <desc lang="en">A federal investigator (Al ``Lash'' La Rue) and his partner (Al ``Fuzzy'' St. John) foil a plot to grab a town.</desc>
+    <date>1947</date>
+  </programme>
+  <programme start="20210113004400 +0000" stop="20210113014900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">King of the Range</title>
+    <desc lang="en">Hopalong Cassidy (William Boyd) and his friends (Andy Clyde, Rand Brooks) save a town from a deacon after oil.</desc>
+    <date>1947</date>
+  </programme>
+  <programme start="20210113014900 +0000" stop="20210113024300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Sonora Stagecoach</title>
+    <desc lang="en">The Trail Blazers (Hoot Gibson, Bob Steele, Chief Thundercloud) escort an innocent man to a fair trial.</desc>
+    <date>1944</date>
+  </programme>
+  <programme start="20210113024300 +0000" stop="20210113040000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Lone Gun</title>
+    <desc lang="en">A marshal (George Montgomery) courts a rancher's sister (Dorothy Malone) and rids a town of rustlers.</desc>
+    <date>1954</date>
+  </programme>
+  <programme start="20210113040000 +0000" stop="20210113044900 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">SIGN OFF</title>
+    <desc lang="en">Sign off.</desc>
+  </programme>
+  <programme start="20210113044900 +0000" stop="20210113064200 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">100 Rifles</title>
+    <desc lang="en">A sheriff (Jim Brown) helps a bank robber (Burt Reynolds) and a Yaqui beauty (Raquel Welch) fight a tyrant general in 1912 Mexico.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210113064200 +0000" stop="20210113085300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Magnificent Seven</title>
+    <desc lang="en">A man in black (Yul Brynner) recruits six hired guns to lead Mexican villagers against the gang of an outlaw (Eli Wallach).</desc>
+    <date>1960</date>
+  </programme>
+  <programme start="20210113085300 +0000" stop="20210113103300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Return of the Seven</title>
+    <desc lang="en">The man in black (Yul Brynner) forms a new Magnificent Seven, to save Mexican farmers from slave labor.</desc>
+    <date>1966</date>
+  </programme>
+  <programme start="20210113103300 +0000" stop="20210113121600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Yellow Sky</title>
+    <desc lang="en">An outlaw (Gregory Peck) and his gang find a tomboy (Anne Baxter) and her prospector grandfather in a ghost town.</desc>
+    <date>1948</date>
+  </programme>
+  <programme start="20210113121600 +0000" stop="20210113140000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">More Dead Than Alive</title>
+    <desc lang="en">Outlaws track down an ex-convict gunslinger (Clint Walker) working as a sharpshooter for a Wild West show.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210113140000 +0000" stop="20210113142700 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Life and Legend of Wyatt Earp</title>
+    <sub-title lang="en">Bat Masterson Wins His Star</sub-title>
+    <desc lang="en">Bat Masterson travels to Dodge City and gets involved in a gunfight that causes him to lose Earp's approval; after befriending gang member Nellie Wright, Bat tries to get word to Earp about an upcoming robbery but ends up at the gang's mercy.</desc>
+  </programme>
+  <programme start="20210113142700 +0000" stop="20210113152000 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Big Valley</title>
+    <sub-title lang="en">Bounty on a Barkley</sub-title>
+    <desc lang="en">Nick falls for a newcomer (Leslie Parrish); Victoria learns why she is so reluctant.</desc>
+  </programme>
+  <programme start="20210113152000 +0000" stop="20210113161100 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Laramie</title>
+    <sub-title lang="en">Man of God</sub-title>
+    <desc lang="en">A priest tries to arrange a meeting with Sitting Bull to talk about a peace treaty.</desc>
+  </programme>
+  <programme start="20210113161100 +0000" stop="20210113163800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Death Valley Days</title>
+    <sub-title lang="en">Wheelbarrow Johnny</sub-title>
+    <desc lang="en">A prospector loses his wagon and all of his money.</desc>
+  </programme>
+  <programme start="20210113163800 +0000" stop="20210113170500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Death Valley Days</title>
+    <sub-title lang="en">Stagecoach Spy</sub-title>
+    <desc lang="en">A sheriff asks Lee Whipple, a woman with a good memory, to help him identify the men committing stagecoach robberies by riding in a coach likely to be targeted by the bandits.</desc>
+  </programme>
+  <programme start="20210113170500 +0000" stop="20210113175600 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Maverick</title>
+    <sub-title lang="en">The Spanish Dancer</sub-title>
+    <desc lang="en">Bart and his gambling buddy fight over the love of a beautiful dancer.</desc>
+  </programme>
+  <programme start="20210113175600 +0000" stop="20210113184800 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Cheyenne</title>
+    <sub-title lang="en">The Greater Glory</sub-title>
+    <desc lang="en">Cheyenne and Billy the Kid join forces to help a woman in trouble.</desc>
+  </programme>
+  <programme start="20210113184800 +0000" stop="20210113191500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Tales of Wells Fargo</title>
+    <sub-title lang="en">Renegade Raiders</sub-title>
+    <desc lang="en">Jim goes undercover as a trainee for Wells Fargo, to try and find out who is supplying renegade Indians with the guns they are using on their murderous raids.</desc>
+  </programme>
+  <programme start="20210113191500 +0000" stop="20210113203200 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">The Lone Gun</title>
+    <desc lang="en">A marshal (George Montgomery) courts a rancher's sister (Dorothy Malone) and rids a town of rustlers.</desc>
+    <date>1954</date>
+  </programme>
+  <programme start="20210113203200 +0000" stop="20210113222300 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">100 Rifles</title>
+    <desc lang="en">A sheriff (Jim Brown) helps a bank robber (Burt Reynolds) and a Yaqui beauty (Raquel Welch) fight a tyrant general in 1912 Mexico.</desc>
+    <date>1969</date>
+  </programme>
+  <programme start="20210113222300 +0000" stop="20210114000500 +0000" channel="StarzEncoreWesternsW.us">
+    <title lang="en">Yellow Sky</title>
+    <desc lang="en">An outlaw (Gregory Peck) and his gang find a tomboy (Anne Baxter) and her prospector grandfather in a ghost town.</desc>
+    <date>1948</date>
   </programme>
   <programme start="20210109040000 +0000" stop="20210109043000 +0000" channel="WorldFishingNetwork.us">
     <title lang="en">Fishing 411</title>
@@ -5623,8 +6289,2106 @@
     <sub-title lang="en">Destination Mile 0</sub-title>
     <desc lang="en">Rob takes a ride thru the entire Florida Keys, rehashing great fish and old memories.</desc>
   </programme>
-  <programme start="20210111113000 +0000" stop="20210108230000 +0000" channel="WorldFishingNetwork.us">
+  <programme start="20210111113000 +0000" stop="20210111120000 +0000" channel="WorldFishingNetwork.us">
     <title lang="en">Fishing With Roland Martin</title>
     <sub-title lang="en">Stuart Snook</sub-title>
+  </programme>
+  <programme start="20210111120000 +0000" stop="20210111123000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Facts of Fishing</title>
+    <sub-title lang="en">Bucket Mouth Bonanza</sub-title>
+    <desc lang="en">Dave throws everything he has at the fish in search of giant swamp dwelling largemouth.</desc>
+  </programme>
+  <programme start="20210111123000 +0000" stop="20210111130000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Fishing University</title>
+    <sub-title lang="en">National Championship for Fishing University's Make Me A Star at Carters' Lake in Ellijay, Georgia</sub-title>
+    <desc lang="en">National Championship featuring Jordan Smallwood, Wes Irwin from Kentucky, and Joe McClosky, Trent Lohr from Maryland, as they compete for $10,000 in cash scholarships and $56,000 in tuition scholarships from Bethel University in Ellijay, Ga.</desc>
+  </programme>
+  <programme start="20210111130000 +0000" stop="20210111133000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Hank Parker's Outdoor Magazine</title>
+    <sub-title lang="en">Lake Wateree</sub-title>
+    <desc lang="en">Hank revisits Lake Wateree a second year in a row. Is the fishing better this year than the last? Tune in to find out.</desc>
+  </programme>
+  <programme start="20210111133000 +0000" stop="20210111140000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Lindner's Fishing Edge</title>
+    <sub-title lang="en">Monster Musky</sub-title>
+    <desc lang="en">Jeremy Smith and Brian Truax tackle Rainy Lake in northwest Ontario in search of giants muskies. Fast-moving bucktails locate massive fish and trigger savage strikes atop mainlake food shelves with weeds or rock cover.</desc>
+  </programme>
+  <programme start="20210111140000 +0000" stop="20210111143000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Lake Commandos</title>
+    <sub-title lang="en">Cranks versus Worm--Bass</sub-title>
+    <desc lang="en">Steve Pennaz sqaures off with Dean Capra. Steve uses a Berkley new Dredger hardbait; Dean uses a Berkley PowerBait.</desc>
+  </programme>
+  <programme start="20210111143000 +0000" stop="20210111150000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Hook N' Look</title>
+    <sub-title lang="en">Gorillas on a Chandelier</sub-title>
+    <desc lang="en">Local guide, Marcel Veenstra accompanies Kim to Indian River, Michigan for giant smallmouths. The fall feed is on and Strike King's Tour Grade Titanium Umbrella Rig pays off in a big way.</desc>
+  </programme>
+  <programme start="20210111150000 +0000" stop="20210111153000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Scott Martin Challenge</title>
+    <sub-title lang="en">Martin Family Redfish Team Challenge</sub-title>
+    <desc lang="en">Family bragging rights are on the line with Scott, Suzanne and Jacob Martin.</desc>
+  </programme>
+  <programme start="20210111153000 +0000" stop="20210111160000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Force on Force</title>
+    <sub-title lang="en">10th Anniversary Special</sub-title>
+    <desc lang="en">Special looks at previous seasons.</desc>
+  </programme>
+  <programme start="20210111160000 +0000" stop="20210108230000 +0000" channel="WorldFishingNetwork.us">
+    <title lang="en">Bass Pro Shop's Collegiate Bass Series</title>
+    <sub-title lang="en">Preview to the 2020 BoatUS Collegiate Bass Fishing Championship presented by Bass Pro Shops</sub-title>
+    <desc lang="en">Introduction to the 2020 BoatUS Collegiate Bass Fishing Championship presented by Bass Pro Shops on Pickwick Lake in Florence, AL.</desc>
+  </programme>
+  <programme start="20210109110000 +0000" stop="20210109120000 +0000" channel="FSN">
+    <title lang="en">Live: Full Time Live</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bwla8.jpg" />
+  </programme>
+  <programme start="20210109120000 +0000" stop="20210109123000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109123000 +0000" stop="20210109130000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109130000 +0000" stop="20210109133000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109133000 +0000" stop="20210109140000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109140000 +0000" stop="20210109143000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109143000 +0000" stop="20210109150000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109150000 +0000" stop="20210109153000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109153000 +0000" stop="20210109160000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109160000 +0000" stop="20210109163000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109163000 +0000" stop="20210109170000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109170000 +0000" stop="20210109173000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109173000 +0000" stop="20210109180000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109180000 +0000" stop="20210109183000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109183000 +0000" stop="20210109190000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109190000 +0000" stop="20210109193000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109193000 +0000" stop="20210109200000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">9/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109200000 +0000" stop="20210109210000 +0000" channel="FSN">
+    <title lang="en">Live: Gameday Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Tune in for all the overnight sporting highlights, plus we preview all the weekend action across Australia.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109210000 +0000" stop="20210109220000 +0000" channel="FSN">
+    <title lang="en">Live: Gameday Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Tune in for all the overnight sporting highlights, plus we preview all the weekend action across Australia.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/8kuhs.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109220000 +0000" stop="20210109223000 +0000" channel="FSN">
+    <title lang="en">Live: Cricket AM</title>
+    <sub-title lang="en">Sydney Day 4</sub-title>
+    <desc lang="en">Cricket AM takes you inside the ground on Test days to bring you up to date ahead of the day's play with our expert commentators.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109223000 +0000" stop="20210109230000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210109230000 +0000" stop="20210110000000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110000000 +0000" stop="20210110010000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110010000 +0000" stop="20210110020000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110020000 +0000" stop="20210110030000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110030000 +0000" stop="20210110040000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110040000 +0000" stop="20210110050000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110050000 +0000" stop="20210110060000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110060000 +0000" stop="20210110070000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110070000 +0000" stop="20210110080000 +0000" channel="FSN">
+    <title lang="en">Live: Full Time Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Your essential wrap of the day.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110080000 +0000" stop="20210110083000 +0000" channel="FSN">
+    <title lang="en">Live: Full Time Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Your essential wrap of the day.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110083000 +0000" stop="20210110090000 +0000" channel="FSN">
+    <title lang="en">Full Time Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Your essential wrap of the day.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110090000 +0000" stop="20210110093000 +0000" channel="FSN">
+    <title lang="en">Full Time Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Your essential wrap of the day.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110093000 +0000" stop="20210110100000 +0000" channel="FSN">
+    <title lang="en">Live: Full Time Live</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">Your essential wrap of the day.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110100000 +0000" stop="20210110103000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110103000 +0000" stop="20210110110000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110110000 +0000" stop="20210110113000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110113000 +0000" stop="20210110120000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110120000 +0000" stop="20210110123000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110123000 +0000" stop="20210110130000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110130000 +0000" stop="20210110133000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110133000 +0000" stop="20210110140000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110140000 +0000" stop="20210110143000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110143000 +0000" stop="20210110150000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110150000 +0000" stop="20210110153000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110153000 +0000" stop="20210110160000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110160000 +0000" stop="20210110163000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110163000 +0000" stop="20210110170000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110170000 +0000" stop="20210110173000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110173000 +0000" stop="20210110180000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110180000 +0000" stop="20210110183000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110183000 +0000" stop="20210110190000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">10/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110190000 +0000" stop="20210110200000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110200000 +0000" stop="20210110210000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110210000 +0000" stop="20210110220000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110220000 +0000" stop="20210110223000 +0000" channel="FSN">
+    <title lang="en">Live: Cricket AM</title>
+    <sub-title lang="en">Sydney Day 5</sub-title>
+    <desc lang="en">Cricket AM takes you inside the ground on Test days to bring you up to date ahead of the day's play with our expert commentators.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6q3yo.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110223000 +0000" stop="20210110230000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110230000 +0000" stop="20210110233000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Scorchers v Thunder</title>
+    <sub-title lang="en">Scorchers v Thunder</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/826rs.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210110233000 +0000" stop="20210111000000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111000000 +0000" stop="20210111002000 +0000" channel="FSN">
+    <title lang="en">A-League Mini: MAC v WEL RND3</title>
+    <sub-title lang="en">MAC v WEL RND3</sub-title>
+    <desc lang="en">The A-League is back. The best teams in Australia come together for another season of football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Football &amp; Soccer</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/alva0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111002000 +0000" stop="20210111004000 +0000" channel="FSN">
+    <title lang="en">W-League Mini</title>
+    <sub-title lang="en">MCY v MVC RND3</sub-title>
+    <desc lang="en">The W-League is back. The best women's teams in Australia come together for another season of Football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6sgzi.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111004000 +0000" stop="20210111010000 +0000" channel="FSN">
+    <title lang="en">A-League Mini: MAC v WEL RND3</title>
+    <sub-title lang="en">MAC v WEL RND3</sub-title>
+    <desc lang="en">The A-League is back. The best teams in Australia come together for another season of football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Football &amp; Soccer</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/alva0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111010000 +0000" stop="20210111013000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Scorchers v Thunder</title>
+    <sub-title lang="en">Scorchers v Thunder</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/826rs.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111013000 +0000" stop="20210111020000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111020000 +0000" stop="20210111022000 +0000" channel="FSN">
+    <title lang="en">A-League Mini: MAC v WEL RND3</title>
+    <sub-title lang="en">MAC v WEL RND3</sub-title>
+    <desc lang="en">The A-League is back. The best teams in Australia come together for another season of football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Football &amp; Soccer</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/alva0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111022000 +0000" stop="20210111024000 +0000" channel="FSN">
+    <title lang="en">W-League Mini</title>
+    <sub-title lang="en">MCY v MVC RND3</sub-title>
+    <desc lang="en">The W-League is back. The best women's teams in Australia come together for another season of Football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6sgzi.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111024000 +0000" stop="20210111030000 +0000" channel="FSN">
+    <title lang="en">A-League Mini: MAC v WEL RND3</title>
+    <sub-title lang="en">MAC v WEL RND3</sub-title>
+    <desc lang="en">The A-League is back. The best teams in Australia come together for another season of football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Football &amp; Soccer</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/alva0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111030000 +0000" stop="20210111033000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Scorchers v Thunder</title>
+    <sub-title lang="en">Scorchers v Thunder</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/826rs.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111033000 +0000" stop="20210111040000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111040000 +0000" stop="20210111042000 +0000" channel="FSN">
+    <title lang="en">A-League Mini: MAC v WEL RND3</title>
+    <sub-title lang="en">MAC v WEL RND3</sub-title>
+    <desc lang="en">The A-League is back. The best teams in Australia come together for another season of football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Football &amp; Soccer</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/alva0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111042000 +0000" stop="20210111044000 +0000" channel="FSN">
+    <title lang="en">W-League Mini</title>
+    <sub-title lang="en">MCY v MVC RND3</sub-title>
+    <desc lang="en">The W-League is back. The best women's teams in Australia come together for another season of Football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Other</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6sgzi.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111044000 +0000" stop="20210111050000 +0000" channel="FSN">
+    <title lang="en">A-League Mini: MAC v WEL RND3</title>
+    <sub-title lang="en">MAC v WEL RND3</sub-title>
+    <desc lang="en">The A-League is back. The best teams in Australia come together for another season of football action.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Football &amp; Soccer</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/alva0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111050000 +0000" stop="20210111053000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Scorchers v Thunder</title>
+    <sub-title lang="en">Scorchers v Thunder</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/826rs.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111053000 +0000" stop="20210111060000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111060000 +0000" stop="20210111070000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111070000 +0000" stop="20210111080000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111080000 +0000" stop="20210111083000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111083000 +0000" stop="20210111090000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111090000 +0000" stop="20210111093000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111093000 +0000" stop="20210111100000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111100000 +0000" stop="20210111103000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111103000 +0000" stop="20210111110000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111110000 +0000" stop="20210111113000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111113000 +0000" stop="20210111120000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111120000 +0000" stop="20210111123000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111123000 +0000" stop="20210111130000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">11/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111130000 +0000" stop="20210111133000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111133000 +0000" stop="20210111140000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111140000 +0000" stop="20210111143000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111143000 +0000" stop="20210111150000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111150000 +0000" stop="20210111153000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111153000 +0000" stop="20210111160000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111160000 +0000" stop="20210111163000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111163000 +0000" stop="20210111170000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111170000 +0000" stop="20210111173000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111173000 +0000" stop="20210111180000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111180000 +0000" stop="20210111183000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111183000 +0000" stop="20210111190000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">30/11/2020</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111190000 +0000" stop="20210111200000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111200000 +0000" stop="20210111210000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111210000 +0000" stop="20210111220000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111220000 +0000" stop="20210111230000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210111230000 +0000" stop="20210112000000 +0000" channel="FSN">
+    <title lang="en">Test Day: AUS v IND 3rd Test Day 5</title>
+    <sub-title lang="en">AUS v IND 3rd Test Day 5</sub-title>
+    <desc lang="en">With the series tied 1-1 will Australia's under-fire batting lineup respond in Sydney or will India's bowling attack continue to dominate?</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6pno0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112000000 +0000" stop="20210112003000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112003000 +0000" stop="20210112010000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Strikers v Stars</title>
+    <sub-title lang="en">Strikers v Stars</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/a85et.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112010000 +0000" stop="20210112020000 +0000" channel="FSN">
+    <title lang="en">Test Day: AUS v IND 3rd Test Day 5</title>
+    <sub-title lang="en">AUS v IND 3rd Test Day 5</sub-title>
+    <desc lang="en">With the series tied 1-1 will Australia's under-fire batting lineup respond in Sydney or will India's bowling attack continue to dominate?</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6pno0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112020000 +0000" stop="20210112023000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112023000 +0000" stop="20210112030000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Strikers v Stars</title>
+    <sub-title lang="en">Strikers v Stars</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/a85et.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112030000 +0000" stop="20210112040000 +0000" channel="FSN">
+    <title lang="en">Test Day: AUS v IND 3rd Test Day 5</title>
+    <sub-title lang="en">AUS v IND 3rd Test Day 5</sub-title>
+    <desc lang="en">With the series tied 1-1 will Australia's under-fire batting lineup respond in Sydney or will India's bowling attack continue to dominate?</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6pno0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112040000 +0000" stop="20210112043000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Sixers v Heat</title>
+    <sub-title lang="en">Sixers v Heat</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/9mre3.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112043000 +0000" stop="20210112050000 +0000" channel="FSN">
+    <title lang="en">BBL Mini: Strikers v Stars</title>
+    <sub-title lang="en">Strikers v Stars</sub-title>
+    <desc lang="en">With non-stop action and the world's best T20 players, it's the can't-miss, blockbuster event of the summer.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/a85et.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112050000 +0000" stop="20210112060000 +0000" channel="FSN">
+    <title lang="en">Test Day: AUS v IND 3rd Test Day 5</title>
+    <sub-title lang="en">AUS v IND 3rd Test Day 5</sub-title>
+    <desc lang="en">With the series tied 1-1 will Australia's under-fire batting lineup respond in Sydney or will India's bowling attack continue to dominate?</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Cricket</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6pno0.png" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112070000 +0000" stop="20210112080000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112080000 +0000" stop="20210112083000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112083000 +0000" stop="20210112090000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112090000 +0000" stop="20210112093000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112093000 +0000" stop="20210112100000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112100000 +0000" stop="20210112103000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112103000 +0000" stop="20210112110000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112110000 +0000" stop="20210112113000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112113000 +0000" stop="20210112120000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112120000 +0000" stop="20210112123000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112123000 +0000" stop="20210112130000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112130000 +0000" stop="20210112133000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112133000 +0000" stop="20210112140000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112140000 +0000" stop="20210112143000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112143000 +0000" stop="20210112150000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112150000 +0000" stop="20210112153000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112153000 +0000" stop="20210112160000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112160000 +0000" stop="20210112163000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112163000 +0000" stop="20210112170000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112170000 +0000" stop="20210112173000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112173000 +0000" stop="20210112180000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112180000 +0000" stop="20210112183000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112183000 +0000" stop="20210112190000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">12/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112190000 +0000" stop="20210112200000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112200000 +0000" stop="20210112210000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112210000 +0000" stop="20210112220000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112220000 +0000" stop="20210112230000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210112230000 +0000" stop="20210113000000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113000000 +0000" stop="20210113010000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113010000 +0000" stop="20210113020000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113020000 +0000" stop="20210113030000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113030000 +0000" stop="20210113040000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113040000 +0000" stop="20210113050000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113050000 +0000" stop="20210113060000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113070000 +0000" stop="20210113080000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113080000 +0000" stop="20210113083000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113083000 +0000" stop="20210113090000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113090000 +0000" stop="20210113093000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113093000 +0000" stop="20210113100000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113100000 +0000" stop="20210113103000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113103000 +0000" stop="20210113110000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113110000 +0000" stop="20210113113000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113113000 +0000" stop="20210113120000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113120000 +0000" stop="20210113123000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113123000 +0000" stop="20210113130000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113130000 +0000" stop="20210113133000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113133000 +0000" stop="20210113140000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113140000 +0000" stop="20210113143000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113143000 +0000" stop="20210113150000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113150000 +0000" stop="20210113153000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113153000 +0000" stop="20210113160000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113160000 +0000" stop="20210113163000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113163000 +0000" stop="20210113170000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113170000 +0000" stop="20210113173000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113173000 +0000" stop="20210113180000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113180000 +0000" stop="20210113183000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113183000 +0000" stop="20210113190000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">13/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113190000 +0000" stop="20210113200000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">14/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113200000 +0000" stop="20210113210000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">14/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113210000 +0000" stop="20210113220000 +0000" channel="FSN">
+    <title lang="en">Live: FOX SPORTS News</title>
+    <sub-title lang="en">14/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113220000 +0000" stop="20210113230000 +0000" channel="FSN">
+    <title lang="en">FOX SPORTS News</title>
+    <sub-title lang="en">14/01/2021</sub-title>
+    <desc lang="en">The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">News &amp; Variety</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bo3ml.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20210113230000 +0000" stop="20210114000000 +0000" channel="FSN">
+    <title lang="en">FOX Sports</title>
+    <desc lang="en">Fox Sports.</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Special</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/aozqg.jpg" />
+    <rating>
+      <value>NC</value>
+    </rating>
   </programme>
 </tv>
