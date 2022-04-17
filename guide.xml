@@ -48,15 +48,15 @@
     <display-name lang="en">Discovery Velocity</display-name>
     <url>http://www.tvtv.ca</url>
   </channel>
-  <channel id="cinemax.west.us">
-    <display-name lang="en">Cinemax West (MAXw)</display-name>
-    <icon src="https://www.directv.com/images/logos/channels/dark/medium/726.png" />
-    <url>http://www.directv.com</url>
-  </channel>
   <channel id="I.D.us">
     <display-name lang="en">Investigation Discovery HD (IDHD)</display-name>
     <icon src="https://www.directv.com/images/logos/channels/dark/medium/802.png" />
     <url>http://www.directv.com</url>
+  </channel>
+  <channel id="showtime.family.zone.pacific.us">
+    <display-name lang="en">Showtime Familyzone (Pacific)</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FAMZP.svg" />
+    <url>http://www.streamingtvguides.com</url>
   </channel>
   <channel id="Shorts.TV">
     <display-name lang="en">SHORTS Shorts TV</display-name>
@@ -15057,775 +15057,6 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20220417060000 +0000" stop="20220417163000 +0000" channel="cinemax.west.us">
-    <title lang="en">Programming information not available</title>
-  </programme>
-  <programme start="20220417163000 +0000" stop="20220417183000 +0000" channel="cinemax.west.us">
-    <title lang="en">The Brothers Grimm</title>
-    <desc lang="en">The Brothers Grimm, Wilhelm (Matt Damon) and Jacob (Heath Ledger), are dysfunctional schemers who go from town to town putting on shows that convince inhabitants they are getting rid of demons. After one such scam, a mysterious man called Cavaldi (Peter Stormare) brings them to a French general, who persuades them to battle the evil that has kidnapped 10 girls from a small village. During the investigation, the cynical Wilhelm and sensitive Jacob see things that point to real magic at work.</desc>
-    <credits>
-      <director>Terry Gilliam</director>
-      <actor role="Wilhelm Grimm">Matt Damon</actor>
-      <actor role="Jacob Grimm">Heath Ledger</actor>
-      <actor role="Cavaldi">Peter Stormare</actor>
-      <actor role="Angelika">Lena Headey</actor>
-      <actor role="Delatombe">Jonathan Pryce</actor>
-      <producer>Daniel Bobker</producer>
-      <producer>Charles Roven</producer>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Fantasy</category>
-    <category lang="en">Comedy</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220417183000 +0000" stop="20220417201500 +0000" channel="cinemax.west.us">
-    <title lang="en">The Way, Way Back</title>
-    <desc lang="en">Duncan (Liam James) is an awkward teen who must spend the summer at a beach house with his mother (Toni Collette), her boyfriend, Trent (Steve Carell), and Trent's obnoxious daughter. Trent can't resist badgering Duncan, so the youth steals away to a water park and gets a job that will help him stay off Trent's radar. As Duncan tends to the slides and pools of the aging park, he finds a father figure in wisecracking park manager Owen (Sam Rockwell) at a time when he desperately needs one.</desc>
-    <credits>
-      <director>Nat Faxon</director>
-      <director>Jim Rash</director>
-      <actor role="Trent">Steve Carell</actor>
-      <actor role="Pam">Toni Collette</actor>
-      <actor role="Betty">Allison Janney</actor>
-      <actor role="Susanna">AnnaSophia Robb</actor>
-      <actor role="Owen">Sam Rockwell</actor>
-      <producer>Kevin J. Walsh</producer>
-      <producer>Tom Rice</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Comedy</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220417201500 +0000" stop="20220417220000 +0000" channel="cinemax.west.us">
-    <title lang="en">The Order</title>
-    <desc lang="en">For centuries, a secret Order has existed within the Church. Following a series of unexplained murders, a renegade priest (Heath Ledger) begins an investigation that hurls him into a maelstrom of unimaginable evil, murder, and the knowledge that there is a fate worse than death.</desc>
-    <credits>
-      <director>Brian Helgeland</director>
-      <actor role="Alex">Heath Ledger</actor>
-      <actor role="Mara">Shannyn Sossamon</actor>
-      <actor role="William Eden">Benno Fürmann</actor>
-      <actor role="Thomas">Mark Addy</actor>
-      <actor role="Cardinal Driscoll">Peter Weller</actor>
-      <producer>Brian Helgeland</producer>
-      <producer>Craig Baumgarten</producer>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Horror</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220417220000 +0000" stop="20220417233700 +0000" channel="cinemax.west.us">
-    <title lang="en">Waist Deep</title>
-    <desc lang="en">O2 (Tyrese Gibson) is an ex-con who is trying to go straight for the sake of his son, Junior. After a carjacking puts Junior in the hands of a vicious criminal leader, O2 turns to street-smart hustler Coco (Meagan Good) for help. Heat between the pair rises as they go around the law to save Junior and outwit the hoodlums at their back.</desc>
-    <credits>
-      <director>Vondie Curtis-Hall</director>
-      <actor role="O2">Tyrese Gibson</actor>
-      <actor role="Coco">Meagan Good</actor>
-      <actor role="Lucky">Larenz Tate</actor>
-      <actor role="Det. Stone">Arnold Vosloo</actor>
-      <actor role="Big Meat">Jayceon Taylor</actor>
-      <producer>Ted Field</producer>
-      <producer>Preston L. Holmes</producer>
-    </credits>
-    <date>2006</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220417233700 +0000" stop="20220418012000 +0000" channel="cinemax.west.us">
-    <title lang="en">Bug</title>
-    <desc lang="en">At a rundown desert motel, Agnes (Ashley Judd) begins a tentative relationship with a newcomer named Peter (Michael Shannon). He has a strange charisma, one that offers fearful and unstable Agnes a flicker of hope. When Peter reveals that the military deliberately infected him with a bug and that he has tiny insects crawling under his skin, paranoia begins to envelop the desperate pair.</desc>
-    <credits>
-      <director>William Friedkin</director>
-      <actor role="Agnes">Ashley Judd</actor>
-      <actor role="Peter">Michael Shannon</actor>
-      <actor role="RC">Lynn Collins</actor>
-      <actor role="Dr. Sweet">Brian F. O'Byrne</actor>
-      <actor role="Jerry">Harry Connick Jr.</actor>
-      <producer>Holly Wiersma</producer>
-      <producer>Kimberly C. Anderson</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418012000 +0000" stop="20220418030000 +0000" channel="cinemax.west.us">
-    <title lang="en">Taken 2</title>
-    <desc lang="en">Two years ago, retired CIA agent Bryan Mills (Liam Neeson) used his "particular set of skills" to rescue his daughter, Kim (Maggie Grace), from kidnappers. Since then, Kim has been learning self-defense from her father, and Bryan has been on a personal mission to reunite with his ex-wife (Famke Janssen). In Istanbul, Bryan and his family cross paths with Murad (Rade Serbedzija), whose son died at Bryan's hand during Kim's rescue. Murad wants revenge, and he'll stop at nothing to get it.</desc>
-    <credits>
-      <director>Olivier Megaton</director>
-      <actor role="Bryan Mills">Liam Neeson</actor>
-      <actor role="Kim">Maggie Grace</actor>
-      <actor role="Lenore">Famke Janssen</actor>
-      <actor role="Murad Krasniqi">Rade Serbedzija</actor>
-      <actor role="Sam">Leland Orser</actor>
-      <producer>Luc Besson</producer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418030000 +0000" stop="20220418050000 +0000" channel="cinemax.west.us">
-    <title lang="en">The Untouchables</title>
-    <desc lang="en">After building an empire with bootleg alcohol, legendary crime boss Al Capone (Robert De Niro) rules Chicago with an iron fist. Though Prohibition agent Eliot Ness (Kevin Costner) attempts to take Capone down, even his best efforts fail due to widespread corruption within the Windy City's police force. Recruiting an elite group of lawmen who won't be swayed by bribes or fear, including Irish-American cop Jimmy Malone (Sean Connery), Ness renews his determination to bring Capone to justice.</desc>
-    <credits>
-      <director>Brian De Palma</director>
-      <actor role="Eliot Ness">Kevin Costner</actor>
-      <actor role="Jim Malone">Sean Connery</actor>
-      <actor role="Al Capone">Robert De Niro</actor>
-      <actor role="Agent George Stone/Giuseppe Petri">Andy Garcia</actor>
-      <actor role="Agent Oscar Wallace">Charles Martin Smith</actor>
-      <producer>Art Linson</producer>
-    </credits>
-    <date>1987</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>10.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418050000 +0000" stop="20220418064500 +0000" channel="cinemax.west.us">
-    <title lang="en">War</title>
-    <desc lang="en">After his partner and family are killed, FBI agent Jack Crawford (Jason Statham) becomes obsessed with revenge on an assassin named Rogue (Jet Li). Rogue's return sparks a violent war between rival Asian mobsters Chang (John Lone) and Shiro (Ryo Ishibashi), while the ultimate showdown between Crawford and Rogue reveals the truth.</desc>
-    <credits>
-      <director>Philip G. Atwell</director>
-      <actor role="Rogue">Jet Li</actor>
-      <actor role="Crawford">Jason Statham</actor>
-      <actor role="Chang">John Lone</actor>
-      <actor role="Kira">Devon Aoki</actor>
-      <actor role="Benny">Luis Guzmán</actor>
-      <producer>Steven Chasman</producer>
-      <producer>Christopher Petzel</producer>
-    </credits>
-    <date>2007</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418064500 +0000" stop="20220418082500 +0000" channel="cinemax.west.us">
-    <title lang="en">Stoker</title>
-    <desc lang="en">India Stoker's (Mia Wasikowska) world comes crashing down when her father (Jacki Weaver) dies in a car accident. Adding to the girl's emotionol turmoil is the sudden arrival of Charlie (Matthew Goode), an uncle whom she never knew existed. Charlie moves in with India and her unstable mother (Nicole Kidman), and soon India begins to suspect that this charming and mysterious man has ulterior motives. However, instead of feeling alarmed, India becomes increasingly infatuated with him.</desc>
-    <credits>
-      <director>Park Chan-wook</director>
-      <actor role="India Stoker">Mia Wasikowska</actor>
-      <actor role="Charles Stoker">Matthew Goode</actor>
-      <actor role="Evelyn Stoker">Nicole Kidman</actor>
-      <actor role="Gwendolyn Stoker">Jacki Weaver</actor>
-      <actor role="Richard Stoker">Dermot Mulroney</actor>
-      <producer>Ridley Scott</producer>
-      <producer>Tony Scott</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418082500 +0000" stop="20220418103400 +0000" channel="cinemax.west.us">
-    <title lang="en">True Crime</title>
-    <desc lang="en">Journalist Steve Everett (Clint Eastwood) has been sober two months, but things are still going badly. Steve's marriage to Barbara (Diane Venora) is barely holding together, and his editor (Denis Leary) hates him, since Steve has been having an affair with his wife. A chance assignment finds Everett interviewing death row inmate Frank Beachum (Isaiah Washington). When Everett uncovers evidence indicating Beachum may be innocent, he must race against time to uncover the truth.</desc>
-    <credits>
-      <director>Clint Eastwood</director>
-      <actor role="Steve Everett">Clint Eastwood</actor>
-      <actor role="Frank Louis Beachum">Isaiah Washington</actor>
-      <actor role="Bob Findley">Denis Leary</actor>
-      <actor role="Bonnie Beachum">Lisa Gay Hamilton</actor>
-      <actor role="Alan Mann">James Woods</actor>
-      <producer>Clint Eastwood</producer>
-      <producer>Lili Fini Zanuck</producer>
-    </credits>
-    <date>1999</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418103400 +0000" stop="20220418131500 +0000" channel="cinemax.west.us">
-    <title lang="en">Dragged Across Concrete</title>
-    <desc lang="en">Police partners descend into the criminal underworld after they are suspended for assaulting a suspect on video.</desc>
-    <credits>
-      <director>S. Craig Zahler</director>
-      <actor role="Brett Ridgeman">Mel Gibson</actor>
-      <actor role="Anthony Lurasetti">Vince Vaughn</actor>
-      <actor role="Henry Johns">Tory Kittles</actor>
-      <actor role="Biscuit">Michael Jai White</actor>
-      <actor role="Kelly Summer">Jennifer Carpenter</actor>
-      <producer>Keith Kjarval</producer>
-      <producer>Dallas Sonnier</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418131500 +0000" stop="20220418144900 +0000" channel="cinemax.west.us">
-    <title lang="en">Runner Runner</title>
-    <desc lang="en">Believing that he has been swindled, Princeton grad student Richie (Justin Timberlake) goes to Costa Rica to confront online-gambling tycoon Ivan Block (Ben Affleck). Block's promises of immense wealth and power have a seductive effect on Richie, until he learns the shocking truth about his new mentor. When Richie is coerced by the FBI to help bring Block to justice, he faces the biggest gamble of his life: outmaneuvering the two forces closing in on him.</desc>
-    <credits>
-      <director>Brad Furman</director>
-      <actor role="Ivan Block">Ben Affleck</actor>
-      <actor role="Richie Furst">Justin Timberlake</actor>
-      <actor role="Rebecca Shafran">Gemma Arterton</actor>
-      <actor role="Special Agent Shavers">Anthony Mackie</actor>
-      <actor role="Pet">Michael Esper</actor>
-      <producer>Brian Koppelman</producer>
-      <producer>David Levien</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418144900 +0000" stop="20220418162400 +0000" channel="cinemax.west.us">
-    <title lang="en">Breakdown</title>
-    <desc lang="en">On their cross-country drive, a married couple, Jeff (Kurt Russell) and Amy Taylor (Kathleen Quinlan), experience car trouble after an accident. Stranded in the New Mexico desert, the two catch a break when a passing truck driver, Red Barr (J.T. Walsh), offers to drive Amy to a nearby café to call for help. Meanwhile, Jeff is able to fix the car and make his way to the café, only to find his wife missing and Barr claiming ignorance. Jeff then begins a frenzied search for Amy.</desc>
-    <credits>
-      <director>Jonathan Mostow</director>
-      <actor role="Jeffrey &quot;Jeff&quot;' Taylor">Kurt Russell</actor>
-      <actor role="Warren &quot;Red&quot; Barr">J.T. Walsh</actor>
-      <actor role="Amy Taylor">Kathleen Quinlan</actor>
-      <actor role="Earl">M.C. Gainey</actor>
-      <actor role="Billy">Jack Noseworthy</actor>
-      <producer>Martha De Laurentiis</producer>
-      <producer>Dino De Laurentiis</producer>
-    </credits>
-    <date>1997</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418162400 +0000" stop="20220418183300 +0000" channel="cinemax.west.us">
-    <title lang="en">Domino</title>
-    <desc lang="en">In this film loosely based on a true story, Domino Harvey (Keira Knightley), a former model, is now a bounty hunter who has been arrested for robbing an armored car. During interrogation, she claims innocence and tells her story. Harvey became a pupil of Ed Moseby (Mickey Rourke), who ran a course for aspiring bounty hunters. Along with Choco (Edgar Ramírez), the three of them became a successful team. But, when a bail bondsman (Delroy Lindo) offered a job, they faced a complicated frame-up.</desc>
-    <credits>
-      <director>Tony Scott</director>
-      <actor role="Domino Harvey">Keira Knightley</actor>
-      <actor role="Ed Mosbey">Mickey Rourke</actor>
-      <actor role="Choco">Edgar Ramírez</actor>
-      <actor role="Claremont Williams">Delroy Lindo</actor>
-      <actor role="Taryn Miles">Lucy Liu</actor>
-      <producer>Samuel Hadida</producer>
-      <producer>Tony Scott</producer>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Biography</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418183300 +0000" stop="20220418202000 +0000" channel="cinemax.west.us">
-    <title lang="en">Anger Management</title>
-    <desc lang="en">Dave Buznik (Adam Sandler) is usually a mild-mannered nonconfrontational guy. But after an altercation aboard an airplane, he is remanded to the care of an anger-management therapist, Dr. Buddy Rydell (Jack Nicholson), who could probably use a little anger management himself.</desc>
-    <credits>
-      <director>Peter Segal</director>
-      <actor role="Dave Buznik">Adam Sandler</actor>
-      <actor role="Dr. Buddy Rydell">Jack Nicholson</actor>
-      <actor role="Linda">Marisa Tomei</actor>
-      <actor role="Lou">Luis Guzmán</actor>
-      <actor role="Andrew">Allen Covert</actor>
-      <producer>Jack Giarraputo</producer>
-      <producer>Barry Bernardi</producer>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418202000 +0000" stop="20220418222000 +0000" channel="cinemax.west.us">
-    <title lang="en">The Birdcage</title>
-    <desc lang="en">In this remake of the classic French farce "La Cage aux Folles," engaged couple Val Goldman (Dan Futterman) and Barbara Keeley (Calista Flockhart) shakily introduce their future in-laws. Val's father, Armand (Robin Williams), a gay Miami drag club owner, pretends to be straight and attempts to hide his relationship with Albert (Nathan Lane), his life partner and the club's flamboyant star attraction, so as to please Barbara's father, controversial Republican Sen. Kevin Keeley (Gene Hackman).</desc>
-    <credits>
-      <director>Mike Nichols</director>
-      <actor role="Armand Goldman">Robin Williams</actor>
-      <actor role="Sen. Kevin Keeley">Gene Hackman</actor>
-      <actor role="Albert Goldman/Starina">Nathan Lane</actor>
-      <actor role="Louise Keeley">Dianne Wiest</actor>
-      <actor role="Agador 'Spartacus'">Hank Azaria</actor>
-      <producer>Mike Nichols</producer>
-    </credits>
-    <date>1996</date>
-    <category lang="en">Comedy</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418222000 +0000" stop="20220418235000 +0000" channel="cinemax.west.us">
-    <title lang="en">The Amityville Horror</title>
-    <desc lang="en">Chiller about a family who is terrorized by supernatural forces when they move into a new house in New York State which was the scene of a recent mass killing and the home of an 18th-century satanist. When swarms of flies appear from nowhere and the pipes and walls begin to ooze slime and blood, they call on a local priest to exorcise the evil spirits.</desc>
-    <credits>
-      <director>Stuart Rosenberg</director>
-      <actor role="George Lutz">James Brolin</actor>
-      <actor role="Kathy Lutz">Margot Kidder</actor>
-      <actor role="Father Delaney">Rod Steiger</actor>
-      <actor role="Father Bolen">Don Stroud</actor>
-      <actor role="Amy">Natasha Ryan</actor>
-      <producer>Ronald Saland</producer>
-      <producer>Elliot Geisinger</producer>
-    </credits>
-    <date>1979</date>
-    <category lang="en">Horror</category>
-    <category lang="en">Sci-Fi</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220418235000 +0000" stop="20220419012200 +0000" channel="cinemax.west.us">
-    <title lang="en">Gun Shy</title>
-    <desc lang="en">Legendary undercover DEA agent Charlie Mayough (Liam Neeson) has suddenly lost his nerves of steel. On the verge of a career-induced mental breakdown, and in complete fear of trigger-happy Mafia leader Fulvio Nesstra (Oliver Platt), Charlie seeks psychiatric help and finds himself relying on the support of an unstable therapy group and nurse Judy (Sandra Bullock) just to get through his work.</desc>
-    <credits>
-      <director>Eric Blakeney</director>
-      <actor role="Charles &quot;Charlie&quot; Mayeaux">Liam Neeson</actor>
-      <actor role="Fulvio Nesstra">Oliver Platt</actor>
-      <actor role="Judy Tipp">Sandra Bullock</actor>
-      <actor role="Fidel Vaillar">Jose Zuniga</actor>
-      <actor role="Elliott">Richard Schiff</actor>
-      <producer>Sandra Bullock</producer>
-    </credits>
-    <date>2000</date>
-    <category lang="en">Mystery</category>
-    <category lang="en">Crime</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419012200 +0000" stop="20220419030000 +0000" channel="cinemax.west.us">
-    <title lang="en">Strange but True</title>
-    <desc lang="en">A woman tells her deceased boyfriend's family that she is pregnant.</desc>
-    <credits>
-      <director>Rowan Athale</director>
-      <actor role="Charlene">Amy Ryan</actor>
-      <actor role="Philip">Nick Robinson</actor>
-      <actor role="Melissa">Margaret Qualley</actor>
-      <actor role="Gail">Blythe Danner</actor>
-      <actor role="Bill">Brian Cox</actor>
-      <producer>Fred Berger</producer>
-      <producer>Brian Kavanaugh-Jones</producer>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20220419030000 +0000" stop="20220419050300 +0000" channel="cinemax.west.us">
-    <title lang="en">The X-Files</title>
-    <desc lang="en">In a small Texas town, a mysterious black substance emanating from the remains of a prehistoric human engulfs a young boy and his rescuers. Later, FBI agents Fox Mulder (David Duchovny) and Dana Scully (Gillian Anderson) are in Dallas to disarm a bomb set to detonate inside a federal facility. Unfortunately the bomb explodes -- leaving four inside dead. Mulder and Scully then receive a tip that the disaster was a government effort to cover-up an alien virus linked to the boy's death.</desc>
-    <credits>
-      <director>Rob Bowman</director>
-      <actor role="Fox Mulder">David Duchovny</actor>
-      <actor role="Dana Scully">Gillian Anderson</actor>
-      <actor role="Dr. Alvin Kurtzweil">Martin Landau</actor>
-      <actor role="Conrad Strughold">Armin Mueller-Stahl</actor>
-      <actor role="Jana Cassidy">Blythe Danner</actor>
-      <producer>Chris Carter</producer>
-      <producer>Daniel Sackheim</producer>
-    </credits>
-    <date>1998</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Movies Anywhere</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419050300 +0000" stop="20220419064900 +0000" channel="cinemax.west.us">
-    <title lang="en">The X-Files: I Want to Believe</title>
-    <desc lang="en">Though FBI special agent Fox Mulder (David Duchovny) and his partner Dr. Dana Scully (Gillian Anderson) once chased things that go bump in the night, his tireless search for the truth out there has led to his professional exile. However, a missing-persons case leads to the agents' reunion, along with an encounter with a priest (Billy Connolly) who may or may not be experiencing psychic visions.</desc>
-    <credits>
-      <director>Chris Carter</director>
-      <actor role="Fox Mulder">David Duchovny</actor>
-      <actor role="Dana Scully">Gillian Anderson</actor>
-      <actor role="Father Joseph Crissman">Billy Connolly</actor>
-      <actor role="ASAC Dakota Whitney">Amanda Peet</actor>
-      <actor role="Agent Mosely Drummy">Alvin "Xzibit" Joiner</actor>
-      <producer>Chris Carter</producer>
-      <producer>Frank Spotnitz</producer>
-    </credits>
-    <date>2008</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419064900 +0000" stop="20220419084000 +0000" channel="cinemax.west.us">
-    <title lang="en">I Am Number Four</title>
-    <desc lang="en">John Smith (Alex Pettyfer) seems like an ordinary teenager, but he is an alien on the run from merciless enemies hunting him and the eight others like him. Always changing his identity and moving to different towns with his guardian, Henri (Timothy Olyphant), John has no real past and no true home. However, in the small Ohio town where he now lives, he discovers love, powerful new abilities, and a connection to others of his kind.</desc>
-    <credits>
-      <director>D.J. Caruso</director>
-      <actor role="John Smith/Number Four">Alex Pettyfer</actor>
-      <actor role="Henri">Timothy Olyphant</actor>
-      <actor role="Sarah">Dianna Agron</actor>
-      <actor role="Number Six">Teresa Palmer</actor>
-      <actor role="Sam">Callan McAuliffe</actor>
-      <producer>Michael Bay</producer>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419084000 +0000" stop="20220419103500 +0000" channel="cinemax.west.us">
-    <title lang="en">The Butterfly Effect</title>
-    <desc lang="en">College student Evan Treborn (Ashton Kutcher) is afflicted with headaches so painful that he frequently blacks out. While unconscious, Evan is able to travel back in time to difficult moments in his childhood. He can also alter the past for friends, like Kayleigh (Amy Smart), who was molested by her father (Eric Stoltz). But changing the past can drastically alter the present, and Evan finds himself in nightmarish alternate realities, including one where he's locked away in prison.</desc>
-    <credits>
-      <director>Eric Bress</director>
-      <director>J. Mackye Gruber</director>
-      <actor role="Evan Treborn">Ashton Kutcher</actor>
-      <actor role="Kayleigh Miller">Amy Smart</actor>
-      <actor role="George Miller">Eric Stoltz</actor>
-      <actor role="Tommy Miller">William Lee Scott</actor>
-      <actor role="Lenny Kagan">Elden Henson</actor>
-      <producer>Chris Bender</producer>
-      <producer>A.J. Dix</producer>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419103500 +0000" stop="20220419121500 +0000" channel="cinemax.west.us">
-    <title lang="en">Hangman</title>
-    <desc lang="en">A detective and a criminal profiler pursue a serial killer whose crimes are inspired by a children's game called hangman.</desc>
-    <credits>
-      <director>Johnny Martin</director>
-      <actor role="Detective Archer">Al Pacino</actor>
-      <actor role="Detective Ruiney">Karl Urban</actor>
-      <actor role="Christi Davies">Brittany Snow</actor>
-      <actor role="Actor">Joe Anderson</actor>
-      <actor role="Captain Lisa Watson">Sarah Shahi</actor>
-      <producer>Arnold Rifkin</producer>
-      <producer>Michael Mendelsohn</producer>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-  </programme>
-  <programme start="20220419121500 +0000" stop="20220419140100 +0000" channel="cinemax.west.us">
-    <title lang="en">The Dead Zone</title>
-    <desc lang="en">When Johnny Smith (Christopher Walken) awakens from a coma caused by a car accident, he finds that years have passed, and he now has psychic abilities. Heartbroken that his girlfriend (Brooke Adams) has moved on with her life, Johnny also must contend with his unsettling powers, which allow him to see a person's future with a mere touch. After shaking the hand of aspiring politician Greg Stillson (Martin Sheen), Johnny sees the danger presented by the candidate's rise and resolves to kill him.</desc>
-    <credits>
-      <director>David Cronenberg</director>
-      <actor role="Johnny Smith">Christopher Walken</actor>
-      <actor role="Sarah Bracknell">Brooke Adams</actor>
-      <actor role="Sheriff Bannerman">Tom Skerritt</actor>
-      <actor role="Dr. Sam Weizak">Herbert Lom</actor>
-      <actor role="Roger Stuart">Anthony Zerbe</actor>
-      <producer>Debra Hill</producer>
-    </credits>
-    <date>1983</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Horror</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419140100 +0000" stop="20220419162500 +0000" channel="cinemax.west.us">
-    <title lang="en">The Flight of the Phoenix</title>
-    <desc lang="en">Tense tale about a group of men who are left stranded in the middle of the Arabian desert after a plane crash. Their only hope of survival is to rebuild the craft so that, phoenix-like, she may fly again and carry them to safety, but can the captain and navigator calm the passengers as tension mounts and time starts to run out?</desc>
-    <credits>
-      <director>Robert Aldrich</director>
-      <actor role="Frank Towns">James Stewart</actor>
-      <actor role="Lew Moran">Richard Attenborough</actor>
-      <actor role="Captain Harris">Peter Finch</actor>
-      <actor role="Trucker Cobb">Ernest Borgnine</actor>
-      <actor role="Crow">Ian Bannen</actor>
-      <producer>Robert Aldrich</producer>
-    </credits>
-    <date>1965</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Movies Anywhere</category>
-    <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>10.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419162500 +0000" stop="20220419182500 +0000" channel="cinemax.west.us">
-    <title lang="en">The Immigrant</title>
-    <desc lang="en">After her sister is quarantined at Ellis Island, a Polish nurse (Marion Cotillard) is forced into prostitution by a theater manager (Joaquin Phoenix) who moonlights as a pimp.</desc>
-    <credits>
-      <director>James Gray</director>
-      <actor role="Ewa">Marion Cotillard</actor>
-      <actor role="Bruno Weiss">Joaquin Phoenix</actor>
-      <actor role="Orlando">Jeremy Renner</actor>
-      <actor role="Belva">Dagmara Dominczyk</actor>
-      <actor role="Clara">Jicky Schnee</actor>
-      <producer>Greg Shapiro</producer>
-      <producer>Christopher Woodrow</producer>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419182500 +0000" stop="20220419195400 +0000" channel="cinemax.west.us">
-    <title lang="en">Popstar: Never Stop Never Stopping</title>
-    <desc lang="en">Childhood friends Conner (Andy Samberg), Owen (Jorma Taccone) and Lawrence (Akiva Schaffer) found fame and fortune after forming the hip-hop group the Style Boyz. Owen and Lawrence faded into the background when frontman Conner left the band to launch a successful solo career. Now, the egotistical singer decides to film a documentary about his life while he's still on top. When his second album flops, the camera is there to capture his world come crashing down.</desc>
-    <credits>
-      <director>Akiva Schaffer</director>
-      <director>Jorma Taccone</director>
-      <actor role="Conner">Andy Samberg</actor>
-      <actor role="Owen">Jorma Taccone</actor>
-      <actor role="Lawrence">Akiva Schaffer</actor>
-      <actor role="Paula">Sarah Silverman</actor>
-      <actor role="Harry">Tim Meadows</actor>
-      <producer>Judd Apatow</producer>
-      <producer>Rodney Rothman</producer>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Music</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419195400 +0000" stop="20220419213000 +0000" channel="cinemax.west.us">
-    <title lang="en">Just Married</title>
-    <desc lang="en">Tom (Ashton Kutcher) and Sarah (Brittany Murphy) are two lovebirds from different worlds. He's an average guy with a fondness for beer who works a low-level job, while she's an aspiring writer from a wealthy and cultured family. The disapproval of family and friends doesn't prevent the pair from marrying, but their disastrous honeymoon in Italy, with an unwelcome appearance by Sarah's ex-boyfriend, Peter (Christian Kane), nearly succeeds in tearing them apart.</desc>
-    <credits>
-      <director>Shawn Levy</director>
-      <actor role="Tom Leezak">Ashton Kutcher</actor>
-      <actor role="Sarah McNerney">Brittany Murphy</actor>
-      <actor role="Peter Prentiss">Christian Kane</actor>
-      <actor role="Kyle">David Moscow</actor>
-      <actor role="Lauren McNerney">Monet Mazur</actor>
-      <producer>Robert Simonds</producer>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>2.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419213000 +0000" stop="20220419234000 +0000" channel="cinemax.west.us">
-    <title lang="en">Basic Instinct</title>
-    <desc lang="en">The mysterious Catherine Tramell (Sharon Stone), a beautiful crime novelist, becomes a suspect when she is linked to the brutal death of a rock star. Investigated by homicide detective Nick Curran (Michael Douglas), Catherine seduces him into an intense relationship. Meanwhile, the murder case becomes increasingly complicated when more seemingly connected deaths occur and Nick's psychologist and lover, Beth Garner (Jeanne Tripplehorn), appears to be another suspect.</desc>
-    <credits>
-      <director>Paul Verhoeven</director>
-      <actor role="Det. Nick Curran, SFPD Homicide">Michael Douglas</actor>
-      <actor role="Catherine Tramell">Sharon Stone</actor>
-      <actor role="Gus Moran">George Dzundza</actor>
-      <actor role="Dr. Beth Garner">Jeanne Tripplehorn</actor>
-      <actor role="Lt. Philip Walker SFPD">Denis Arndt</actor>
-      <producer>Alan Marshall</producer>
-    </credits>
-    <date>1992</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>8.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220419234000 +0000" stop="20220420012700 +0000" channel="cinemax.west.us">
-    <title lang="en">Sliver</title>
-    <desc lang="en">Well-to-do book editor Carly Norris (Sharon Stone) moves into a luxury apartment building before learning that a number of female tenants have been dying in grisly ways, allegedly at the hands of a serial killer. Soon, Norris becomes romantically involved with one of the prime suspects, building owner Zeke Hawkins (William Baldwin). The other suspect is her neighbor, writer Jack Landsford (Tom Berenger). Unsure of whom to trust, Norris must uncover the truth before she is the next victim.</desc>
-    <credits>
-      <director>Phillip Noyce</director>
-      <actor role="Carly Norris">Sharon Stone</actor>
-      <actor role="Zeke Hawkins">William Baldwin</actor>
-      <actor role="Jack Landsford">Tom Berenger</actor>
-      <actor role="Wida Warren">Polly Walker</actor>
-      <actor role="Judy Marks">Colleen Camp</actor>
-      <producer>Robert Evans</producer>
-    </credits>
-    <date>1993</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Suspense</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220420012700 +0000" stop="20220420030000 +0000" channel="cinemax.west.us">
-    <title lang="en">The Prince</title>
-    <desc lang="en">A retired assassin is drawn back into his former life and a confrontation with an old rival when his daughter is kidnapped.</desc>
-    <credits>
-      <director>Brian A. Miller</director>
-      <actor role="Paul">Jason Patric</actor>
-      <actor role="Omar">Bruce Willis</actor>
-      <actor role="Sam">John Cusack</actor>
-      <actor role="Mark">Rain </actor>
-      <actor role="Angela">Jessica Lowndes</actor>
-      <producer>Randall Emmett</producer>
-      <producer>George Furla</producer>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery</category>
-    <rating system="MPAA">
-      <value>R</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220420030000 +0000" stop="20220420045300 +0000" channel="cinemax.west.us">
-    <title lang="en">Bad News Bears</title>
-    <desc lang="en">Morris Buttermaker (Billy Bob Thornton) is a burned-out minor league baseball player who loves to drink and can't keep his hands to himself. His long-suffering lawyer (Marcia Gay Harden) arranges for him to manage a local Little League team, and Buttermaker soon finds himself the head of a rag-tag group of misfit players. Through unconventional team-building exercises and his offbeat coaching style, Buttermaker helps his hapless Bears prepare to meet their rivals, the Yankees.</desc>
-    <credits>
-      <director>Richard Linklater</director>
-      <actor role="Morris Buttermaker">Billy Bob Thornton</actor>
-      <actor role="Roy Bullock">Greg Kinnear</actor>
-      <actor role="Liz Whitewood">Marcia Gay Harden</actor>
-      <actor role="Amanda Whurlitzer">Sammi Kane Kraft</actor>
-      <actor role="Toby Whitewood">Ridge Canipe</actor>
-      <producer>Geyer Kosinski</producer>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20220420045300 +0000" stop="20220420063700 +0000" channel="cinemax.west.us">
-    <title lang="en">Bad News Bears</title>
-    <desc lang="en">Morris Buttermaker (Billy Bob Thornton) is a burned-out minor league baseball player who loves to drink and can't keep his hands to himself. His long-suffering lawyer (Marcia Gay Harden) arranges for him to manage a local Little League team, and Buttermaker soon finds himself the head of a rag-tag group of misfit players. Through unconventional team-building exercises and his offbeat coaching style, Buttermaker helps his hapless Bears prepare to meet their rivals, the Yankees.</desc>
-    <credits>
-      <director>Richard Linklater</director>
-      <actor role="Morris Buttermaker">Billy Bob Thornton</actor>
-      <actor role="Roy Bullock">Greg Kinnear</actor>
-      <actor role="Liz Whitewood">Marcia Gay Harden</actor>
-      <actor role="Amanda Whurlitzer">Sammi Kane Kraft</actor>
-      <actor role="Toby Whitewood">Ridge Canipe</actor>
-      <producer>Geyer Kosinski</producer>
-    </credits>
-    <date>2005</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <rating system="MPAA">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
   <programme start="20220417060000 +0000" stop="20220417160000 +0000" channel="I.D.us">
     <title lang="en">Programming information not available</title>
   </programme>
@@ -16775,10 +16006,189 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">I Solved a Murder</title>
-    <sub-title lang="en">Sheila Wysocki</sub-title>
-    <desc lang="en">A woman turns private investigator to find the person who raped and brutally murdered her college roommate more than 20 years earlier.</desc>
+  <programme start="20220417093500 +0000" stop="20220417112500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Letters to Juliet</title>
+    <desc lang="en">Finding a poignant love letter in a wall dedicated to Shakespeare's Juliet Capulet, a young woman (Amanda Seyfried) sets out to help its aged author find her long-lost beau.</desc>
+    <date>2010</date>
+  </programme>
+  <programme start="20220417112500 +0000" stop="20220417130000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Ice Girls</title>
+    <desc lang="en">A 15-year-old figure skating champion leaves the sport after her mother loses her job and the family moves to a small town. She struggles to fit in until the owner of a local skating arena helps her fulfill her true potential.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220417130000 +0000" stop="20220417150000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">What's Eating Gilbert Grape</title>
+    <desc lang="en">A self-sacrificing grocery worker is pushed to the breaking point by the constant demands of his dysfunctional family.</desc>
+    <date>1993</date>
+  </programme>
+  <programme start="20220417150000 +0000" stop="20220417165500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Minari</title>
+    <desc lang="en">A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220417165500 +0000" stop="20220417183500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Farewell</title>
+    <desc lang="en">Billi's family returns to China under the guise of a fake wedding to stealthily say goodbye to their beloved matriarch -- the only person that doesn't know she only has a few weeks to live.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220417183500 +0000" stop="20220417200000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Southside With You</title>
+    <desc lang="en">Future U.S. President Barack Obama (Parker Sawyers) and lawyer Michelle Robinson (Tika Sumpter) go on a fateful first date in the summer of 1989.</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20220417200000 +0000" stop="20220417221500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Wiz</title>
+    <desc lang="en">Dorothy (Diana Ross) eases on down the road to see the Wiz (Richard Pryor) with Tinman, Scarecrow (Michael Jackson) and Cowardly Lion.</desc>
+    <date>1978</date>
+  </programme>
+  <programme start="20220417221500 +0000" stop="20220418003000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Selma</title>
+    <desc lang="en">Dr. Martin Luther King Jr. wages a historic -- but dangerous -- battle to secure voting rights for all, culminating in an epic march in Alabama from Selma to Montgomery.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220418003000 +0000" stop="20220418025500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Mandela: Long Walk to Freedom</title>
+    <desc lang="en">Nelson Mandela (Idris Elba) serves 27 years in prison, is instrumental in the abolishment of apartheid and eventually becomes South Africa's president.</desc>
+    <date>2013</date>
+  </programme>
+  <programme start="20220418025500 +0000" stop="20220418043000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Aeon Flux</title>
+    <desc lang="en">In the last city on Earth, underground rebels dispatch their top assassin (Charlize Theron) to kill a government leader.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220418043000 +0000" stop="20220418060500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The War With Grandpa</title>
+    <desc lang="en">Forced to give up his room to his grandfather, a scheming boy devises a series of outrageous pranks in an attempt to make him move out.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220418060500 +0000" stop="20220418080000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Real Charlie Chaplin</title>
+    <desc lang="en">Combining unheard audio recordings, dramatic reconstructions and personal archives, filmmakers Peter Middleton and James Spinney trace Charlie Chaplin's meteoric rise from the slums of Victorian London to the heights of Hollywood superstardom.</desc>
+    <date>2021</date>
+  </programme>
+  <programme start="20220418080000 +0000" stop="20220418093000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Daddy Day Camp</title>
+    <desc lang="en">Chaos reigns when two clueless fathers (Cuba Gooding Jr., Paul Rae) take charge of a dilapidated summer camp and its ill-behaved attendees.</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220418093000 +0000" stop="20220418110500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">A Very British Christmas</title>
+    <desc lang="en">Opera singer Jessica Bailey's flight to her concert in Vienna gets delayed and she is stuck in a remote area of England. The only place to stay is a bed-and-breakfast in an enchanting village run by a handsome widower named Andrew.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220418110500 +0000" stop="20220418130000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Game of Their Lives</title>
+    <desc lang="en">The U.S. soccer team (Gerard Butler, Wes Bentley, Jay Rodan) are heavy underdogs as they prepare to play the British squad in a 1950 World Cup preliminary game.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220418130000 +0000" stop="20220418150000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Longest Yard</title>
+    <desc lang="en">At a Texas penitentiary, jailed NFL veterans (Adam Sandler, Burt Reynolds) train their fellow inmates for a football game against the guards.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220418150000 +0000" stop="20220418164500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Cutting Edge</title>
+    <desc lang="en">An ex-hockey player (D.B. Sweeney) and a prima donna (Moira Kelly) bicker as paired figure skaters shooting for the Olympics.</desc>
+    <date>1992</date>
+  </programme>
+  <programme start="20220418164500 +0000" stop="20220418183000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Challenger</title>
+    <desc lang="en">With help from a legendary trainer (Michael Clarke Duncan), a New York boxer (Kent Moran) returns to the ring to fight his way to a better life.</desc>
+    <date>2015</date>
+  </programme>
+  <programme start="20220418183000 +0000" stop="20220418200000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Shaolin Soccer</title>
+    <desc lang="en">A soccer coach persuades a kung-fu master (Stephen Chow) and his former classmates to form a team and play for $1 million.</desc>
+    <date>2001</date>
+  </programme>
+  <programme start="20220418200000 +0000" stop="20220418220000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Longest Yard</title>
+    <desc lang="en">At a Texas penitentiary, jailed NFL veterans (Adam Sandler, Burt Reynolds) train their fellow inmates for a football game against the guards.</desc>
+    <date>2005</date>
+  </programme>
+  <programme start="20220418220000 +0000" stop="20220418233000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Daddy Day Camp</title>
+    <desc lang="en">Chaos reigns when two clueless fathers (Cuba Gooding Jr., Paul Rae) take charge of a dilapidated summer camp and its ill-behaved attendees.</desc>
+    <date>2007</date>
+  </programme>
+  <programme start="20220418233000 +0000" stop="20220419013000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Apple Seed</title>
+    <desc lang="en">A man picks up a hitchhiking ex-convict while on a cross-country road trip to rob his hometown bank.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220419013000 +0000" stop="20220419030000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Signature Move</title>
+    <desc lang="en">A Muslim lesbian from Chicago cares for her TV-obsessed mother and falls in love with a wrestler.</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220419030000 +0000" stop="20220419043000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Shaolin Soccer</title>
+    <desc lang="en">A soccer coach persuades a kung-fu master (Stephen Chow) and his former classmates to form a team and play for $1 million.</desc>
+    <date>2001</date>
+  </programme>
+  <programme start="20220419043000 +0000" stop="20220419053000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Dean Smith</title>
+    <desc lang="en">The life of the college basketball coach who retired with the most wins in college basketball history.</desc>
+  </programme>
+  <programme start="20220419053000 +0000" stop="20220419070000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">A Very British Christmas</title>
+    <desc lang="en">Opera singer Jessica Bailey's flight to her concert in Vienna gets delayed and she is stuck in a remote area of England. The only place to stay is a bed-and-breakfast in an enchanting village run by a handsome widower named Andrew.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220419070000 +0000" stop="20220419083000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Little Mermaid</title>
+    <desc lang="en">A reporter and his niece discover a beautiful creature they believe to be a real mermaid.</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20220419083000 +0000" stop="20220419100500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Rad</title>
+    <desc lang="en">A bicycle-motocrosser (Bill Allen) tries to enter a corrupt promoter's nationally televised cash-prize race.</desc>
+    <date>1986</date>
+  </programme>
+  <programme start="20220419100500 +0000" stop="20220419113000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Menashe</title>
+    <desc lang="en">Deep in the heart of New York's notoriously secretive Hasidic Jewish community, Menashe, a good-hearted but somewhat hapless grocery store clerk, struggles against tradition to keep custody of his only son after his wife passes away.</desc>
+    <date>2017</date>
+  </programme>
+  <programme start="20220419113000 +0000" stop="20220419130000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Sisters With Transistors</title>
+    <desc lang="en">Filmmaker Lisa Rovner follows the story of electronic music's female pioneers, composers who embraced machines and their liberating technologies to transform how we produce and listen to music today.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220419130000 +0000" stop="20220419150000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The Cuban</title>
+    <desc lang="en">When a naive pre-med student gets her first job at a nursing home, an unexpected friendship with Luis, an elderly Cuban musician, reignites her love of music and changes her life forever.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220419150000 +0000" stop="20220419164500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Neil Young: Heart of Gold</title>
+    <desc lang="en">Filmmaker Jonathan Demme captures the rocker in concert before a live audience at Ryman Auditorium in Nashville, Tenn.</desc>
+    <date>2006</date>
+  </programme>
+  <programme start="20220419164500 +0000" stop="20220419183000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Big Stone Gap</title>
+    <desc lang="en">A long-buried family secret disrupts the quiet life of a single, middle-aged woman (Ashley Judd) in 1978 Virginia.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220419183000 +0000" stop="20220419200000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Spy Kids 3-D: Game Over</title>
+    <desc lang="en">A boy tries to rescue his sister (Alexa Vega) inside a virtual-reality game created by a madman out to enslave children.</desc>
+    <date>2003</date>
+  </programme>
+  <programme start="20220419200000 +0000" stop="20220419213500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">The War With Grandpa</title>
+    <desc lang="en">Forced to give up his room to his grandfather, a scheming boy devises a series of outrageous pranks in an attempt to make him move out.</desc>
+    <date>2020</date>
+  </programme>
+  <programme start="20220419213500 +0000" stop="20220419231500 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Clue</title>
+    <desc lang="en">Col. Mustard, Miss Scarlet, Mrs. Peacock, and company solve a mansion murder based on the board game.</desc>
+    <date>1985</date>
+  </programme>
+  <programme start="20220419231500 +0000" stop="20220420005000 +0000" channel="showtime.family.zone.pacific.us">
+    <title lang="en">Aeon Flux</title>
+    <desc lang="en">In the last city on Earth, underground rebels dispatch their top assassin (Charlize Theron) to kill a government leader.</desc>
+    <date>2005</date>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="CrimeInvestigation.us">
     <title lang="en">I Solved a Murder</title>
@@ -17187,9 +16597,6 @@
     <sub-title lang="en">Billionaire Boys Club</sub-title>
     <desc lang="en">Marcia investigates if Billionaire Boys Club leader Joe Hunt was so obsessed with money and power that he became a cold-blooded killer, or if he was scammed by one of the world's best con artists.</desc>
   </programme>
-  <programme start="20220417091500 +0000" stop="20220417111500 +0000" channel="Antenna.us">
-    <title lang="en">Rouk Zouk</title>
-  </programme>
   <programme start="20220417111500 +0000" stop="20220417113000 +0000" channel="Antenna.us">
     <title lang="en">Gate Ant 1</title>
   </programme>
@@ -17335,10 +16742,6 @@
   <programme start="20220419235000 +0000" stop="20220420030000 +0000" channel="Antenna.us">
     <title lang="en">To Proino</title>
     <desc lang="en">Proiní periodikoú gia tin astrología, to mageírema, ti móda, to schediasmó, tin ygeía kai diasimótites.</desc>
-  </programme>
-  <programme start="20220417090000 +0000" stop="20220417110000 +0000" channel="ASPiRE.us">
-    <title lang="en">Stellar Music of Hope Easter Special</title>
-    <desc lang="en">Gospel music artists perform uplifting songs of hope and encouragement; Easter festivities and family fun; fashion and hair styles for Easter; ``Keep Hope Alive`` honor to Rev. Jesse L. Jackson; hosts Jonathan McReynolds and Koryn Hawthorne.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417130000 +0000" channel="ASPiRE.us">
     <title lang="en">Olympia</title>
@@ -18491,11 +17894,6 @@
     <sub-title lang="en">Housekeeper From Hell</sub-title>
     <desc lang="en">Martin and Gina (Martin Lawrence, Tisha Campbell) finally agree on a housekeeper (Marla Gibbs) but soon regret their choice.</desc>
   </programme>
-  <programme start="20220417103000 +0000" stop="20220417110000 +0000" channel="BETP.us">
-    <title lang="en">The Fresh Prince of Bel-Air</title>
-    <sub-title lang="en">Homeboy, Sweet Homeboy</sub-title>
-    <desc lang="en">Hilary (Karyn Parsons) falls hard for Ice Tray (Don Cheadle), Will's (Will Smith) visiting hometown friend.</desc>
-  </programme>
   <programme start="20220417110000 +0000" stop="20220417113000 +0000" channel="BETP.us">
     <title lang="en">The Fresh Prince of Bel-Air</title>
     <sub-title lang="en">Mistaken Identity</sub-title>
@@ -18911,11 +18309,6 @@
     <sub-title lang="en">Ring a Ding, Ding, Gone</sub-title>
     <desc lang="en">Martin (Martin Lawrence) loses his wedding band after the guys claim it repels single women. With Tisha Campbell, Thomas Mikal Ford and Carl Anthony Payne II.</desc>
   </programme>
-  <programme start="20220417103700 +0000" stop="20220417111500 +0000" channel="BET.Her.us">
-    <title lang="en">The Parkers</title>
-    <sub-title lang="en">Whassup With Heyyy?</sub-title>
-    <desc lang="en">Inspired by the entrepreneurial ``Whassup Guys,`` T, Nikki and Kim decide to sell T-shirts but land in court.</desc>
-  </programme>
   <programme start="20220417111500 +0000" stop="20220417115200 +0000" channel="BET.Her.us">
     <title lang="en">The Parkers</title>
     <sub-title lang="en">Scary Kim</sub-title>
@@ -19129,10 +18522,6 @@
     <title lang="en">The Parkers</title>
     <sub-title lang="en">Turkey Day Blues</sub-title>
     <desc lang="en">Kim, Nikki and professor Oglevee (Countess Vaughn, Mo'Nique, Dorien Wilson) end up at a homeless shelter on Thanksgiving.</desc>
-  </programme>
-  <programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="BET.Jams.us">
     <title lang="en">Music Playlist</title>
@@ -19371,10 +18760,6 @@
     <title lang="en">Music Playlist</title>
     <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
   </programme>
-  <programme start="20220417090000 +0000" stop="20220417110000 +0000" channel="BETSOUL.us">
-    <title lang="en">Diggin' In The Crates</title>
-    <desc lang="en">Throwing it back with old school R&amp;B and Hip-Hop.</desc>
-  </programme>
   <programme start="20220417110000 +0000" stop="20220417130000 +0000" channel="BETSOUL.us">
     <title lang="en">In Rotation</title>
     <desc lang="en">360 degrees of BET Soul.</desc>
@@ -19534,11 +18919,6 @@
   <programme start="20220419220000 +0000" stop="20220420000000 +0000" channel="BETSOUL.us">
     <title lang="en">Hit List: LOADING...</title>
     <desc lang="en">The weekly countdown of the current 20 hottest videos in R&amp;B and Soul.</desc>
-  </programme>
-  <programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="BravoP.us">
-    <title lang="en">Kandi &amp; The Gang</title>
-    <sub-title lang="en">He Looks Like a Snitch</sub-title>
-    <desc lang="en">Shawndreca begins her search for The Snitch, while Dom'Unique and Brandon decide their fate as a couple; Kandi and Todd hope a team building event will bring the gang back together; Brian's future at OLG continues to hang in the balance.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="BravoP.us">
     <title lang="en">Kandi &amp; The Gang</title>
@@ -21073,15 +20453,15 @@
     <sub-title lang="en">The Nightmare After Krustmas</sub-title>
     <desc lang="en">Krusty and his daughter spend Christmas with the Simpsons; Reverend Lovejoy tries to attract converts after church attendance drops; a spooky Christmas toy haunts Maggie.</desc>
   </programme>
-  <programme start="20220419183000 +0000" stop="20220416230000 +0000" channel="FXXP.HD.us">
+  <programme start="20220419183000 +0000" stop="20220417190000 +0000" channel="FXXP.HD.us">
     <title lang="en">The Simpsons</title>
     <sub-title lang="en">Pork and Burns</sub-title>
     <desc lang="en">Marge becomes obsessed with the Japanese way of life; Homer must find a new home for the family pig and Lisa must say goodbye to her saxophone.</desc>
   </programme>
-  <programme start="20220417090000 +0000" stop="20220417110000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Major League Fishing Big 5</title>
-    <sub-title lang="en">Tackle Warehouse Pro Circuit Stop 4 - Lake Eufaula</sub-title>
-    <desc lang="en">Stop 4 of the 2021 Tackle Warehouse Pro Circuit on Lake Eufaula from Eufaula, AL.</desc>
+  <programme start="20220417190000 +0000" stop="20220416230000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Bob's Burgers</title>
+    <sub-title lang="en">Better off Sled</sub-title>
+    <desc lang="en">Teenagers take over the Belchers' sledding territory, inciting an epic turf war; Bob steps in to help Linda, who's in a time crunch to get three scarves knitted before Christmas.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417113000 +0000" channel="World.Fishing.Network.us">
     <title lang="en">Force on Force</title>
@@ -21567,20 +20947,20 @@
     <sub-title lang="en">A Cold Windy Day</sub-title>
     <desc lang="en">Trey fishes by himself near his hometown in Southern Illinois after a massive cold front.</desc>
   </programme>
-  <programme start="20220419163000 +0000" stop="20220417183000 +0000" channel="World.Fishing.Network.us">
+  <programme start="20220419163000 +0000" stop="20220419170000 +0000" channel="World.Fishing.Network.us">
     <title lang="en">Fishing 411</title>
     <sub-title lang="en">Pre-Spawn Crankbait Trolling for Lake Erie Walleye</sub-title>
     <desc lang="en">Jake and Mark Romanack showcase the ins and outs of targeting pre-spawn walleye on Lake Erie.</desc>
   </programme>
-  <programme start="20220417183000 +0000" stop="20220416223000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Voodoo Crew</title>
-    <sub-title lang="en">The Making of a Captain</sub-title>
-    <desc lang="en">First Mate Dillon is starting to show signs of being ready to make the jump into the captains chair. So Trey and the whole Voodoo Crew want to give him the test of all tests to see if he's ready...fishing with the Pigman himself.</desc>
+  <programme start="20220419170000 +0000" stop="20220417190000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Jarrett Edwards Outdoors</title>
+    <sub-title lang="en">High Water Pike</sub-title>
+    <desc lang="en">Join Jarrett Edwards and Beau Meyer as they demonstrate techniques to catch pike in flooded conditions.</desc>
   </programme>
-  <programme start="20220417103000 +0000" stop="20220417110000 +0000" channel="Vice.us">
-    <title lang="en">Most Expensivest</title>
-    <sub-title lang="en">Mas Carisimo - Extended Cut</sub-title>
-    <desc lang="en">Miami is the heart of Latin culture in America. Your player partner, Dos Cadenas, hits the streets of Little Havana to dance, drink, and domino with los mejores.</desc>
+  <programme start="20220417190000 +0000" stop="20220416223000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Jokers Wild Off the Hook</title>
+    <sub-title lang="en">WA Walleye</sub-title>
+    <desc lang="en">Sparky goes walleye fishing with friends.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="Vice.us">
     <title lang="en">Dark Side of the 90s</title>
@@ -21880,11 +21260,6 @@
     <title lang="en">Devoured</title>
     <sub-title lang="en">The Codfather</sub-title>
     <desc lang="en">Carlos Rafael, nicknamed ``The Godfather,`` ran one of the largest commercial fishing operations in the U.S. until the IRS took him down for some pretty fishy business practices.</desc>
-  </programme>
-  <programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Unsung</title>
-    <sub-title lang="en">Regina Belle</sub-title>
-    <desc lang="en">Singer Regina Belle combines the voice of an angel with the down-home spirit of a Jersey girl to score hit after hit in the 1990s; her faith and fortitude are tested by a battle with brain cancer.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="Cleo.TV.us">
     <title lang="en">Unsung</title>
@@ -22366,15 +21741,15 @@
     <sub-title lang="en">Self Helpless</sub-title>
     <desc lang="en">Shelly reads a self-help book that encourages her to spend time with herself in order to get over her breakup.</desc>
   </programme>
-  <programme start="20220419220000 +0000" stop="20220416223000 +0000" channel="Cleo.TV.us">
+  <programme start="20220419220000 +0000" stop="20220419223000 +0000" channel="Cleo.TV.us">
     <title lang="en">Love That Girl</title>
     <sub-title lang="en">Remember the Time</sub-title>
     <desc lang="en">Secrets are revealed when Tyana finds out a new client's husband was ``the one that got away'' when she was in college.</desc>
   </programme>
-  <programme start="20220417103000 +0000" stop="20220417110000 +0000" channel="VH1.west.us">
-    <title lang="en">Cheaters</title>
-    <sub-title lang="en">Sylvia Vargas</sub-title>
-    <desc lang="en">Sylvia suspects her husband is being unfaithful.</desc>
+  <programme start="20220419223000 +0000" stop="20220419230000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Love That Girl</title>
+    <sub-title lang="en">Don't Stop Til You Get Enough</sub-title>
+    <desc lang="en">Tyana takes a walk on the wild side with real estate agent Chance Brown; Tyana must make a unfortunate decision.</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417113000 +0000" channel="VH1.west.us">
     <title lang="en">Cheaters</title>
@@ -22815,11 +22190,6 @@
     <title lang="en">Nick Cannon Presents: Wild 'n Out</title>
     <sub-title lang="en">Larry June</sub-title>
     <desc lang="en">Nick Cannon, Larry June battle it out in games: Turn Up For What, Hater In The House, Kick 'Em Out The Classroom, and the Wildstyle battle; Larry June performs ``Friday Activities.``.</desc>
-  </programme>
-  <programme start="20220417103000 +0000" stop="20220417110000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Target rich environment</title>
-    <sub-title lang="en">Ducks vs. Bucks</sub-title>
-    <desc lang="en">Craig is in pursuit of a monster Kansas whitetail, while Brett and Charles enjoy duck and goose hunting in the Sunflower State. Pity the coyotes as well......</desc>
   </programme>
   <programme start="20220417110000 +0000" stop="20220417113000 +0000" channel="The.Sportsman.Channel">
     <title lang="en">Catching Bass with Dustin Wilks</title>
@@ -23306,15 +22676,19 @@
     <sub-title lang="en">End of the World Crossbow</sub-title>
     <desc lang="en">Time for a challenge with a difference. Cheyenne has crafted out some awesome tests to put Jorg through his paces. And this time, he is being taken out of his comfort zone. No workshop, no power tools, no well researched plan.</desc>
   </programme>
-  <programme start="20220419120000 +0000" stop="20220417183000 +0000" channel="The.Sportsman.Channel">
+  <programme start="20220419120000 +0000" stop="20220419123000 +0000" channel="The.Sportsman.Channel">
     <title lang="en">On the Water With Hank Parker</title>
     <sub-title lang="en">Spinning Quitman</sub-title>
     <desc lang="en">Hank breaks out his adjustable wrench to piece the puzzle together for a day of largemouth bassin' at Lake Quitman, Texas.</desc>
   </programme>
-  <programme start="20220417183000 +0000" stop="20220416230000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Jim Shockey's Hunting Adventures</title>
-    <sub-title lang="en">The Outfit: Rogue River Outfitters, Part 1</sub-title>
-    <desc lang="en">Celebrate 25 years of outfitting with Team Shockey.</desc>
+  <programme start="20220419123000 +0000" stop="20220417190000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Scott Martin Challenge</title>
+    <sub-title lang="en">Islamorada Challenge with Roland Martin</sub-title>
+  </programme>
+  <programme start="20220417190000 +0000" stop="20220416230000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Dropped</title>
+    <sub-title lang="en">Peaks and Valleys</sub-title>
+    <desc lang="en">Chris and Casey hike the mountainside, but the steep slopes and shifting shale make the trek anything but easy; the brothers face energy depletion and exhaustion; they feel the pressure to find new food sources soon or go hungry.</desc>
   </programme>
   <programme start="20220417005000 +0000" stop="20220417015000 +0000" channel="BBCEarthHD.my">
     <title lang="en">Through the Seasons: China</title>
