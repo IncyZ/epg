@@ -240,88 +240,81 @@
     <display-name lang="en">TLC HD</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="I.D.us">
-    <title lang="en">48 Hours on ID</title>
-    <title lang="en">ERROR 500</title>
-    <sub-title lang="en">Linda's Story</sub-title>
-    <desc lang="en">For nearly 45 years, the murder of 11-year-old Linda O'Keefe continues to haunt California's Newport Beach Police Department; new technology and social media can turn the tide and help track down her killer; Tracy Smith investigates the cold case.</desc>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery/Crime</category>
-    <episode-num system="onscreen">S18 E10</episode-num>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="I.D.us">
-    <title lang="en">People Magazine Investigates</title>
-    <title lang="en">People Magazine Investigates S6 E4 Lying Eyes: Watch Full Episode Online</title>
-    <sub-title lang="en">Lying Eyes</sub-title>
-    <desc lang="en">The true stories behind crimes that transcended headlines and became part of popular culture are uncovered with first-hand interviews that reveal shocking twists, new evidence and unexpected resolutions.</desc>
+  <programme start="20220621160000 +0000" stop="20220621170000 +0000" channel="I.D.us">
+    <title lang="en">The Perfect Murder</title>
+    <title lang="en">The Perfect Murder S4 E6 The Devil Made Me Do It: Watch Full Episode Online</title>
+    <sub-title lang="en">The Devil Made Me Do It</sub-title>
+    <desc lang="en">When Robert Schwartz, a father of three, dies in a brutal murder in his own home made to look like a ritualistic killing, the investigation uncovers a killer much closer to home.</desc>
     <credits>
       <director>60 min</director>
       <director>TV14</director>
       <actor>60 min</actor>
       <actor>TV14</actor>
-      <actor>Series, Drama, Mystery/Crime, News</actor>
+      <actor>Series, Drama, Mystery/Crime, Docudrama</actor>
       <actor>Series</actor>
+      <actor>Kevin Kaufman</actor>
       <producer>60 min</producer>
       <producer>TV14</producer>
     </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Mystery/Crime</category>
-    <category lang="en">News</category>
-    <episode-num system="onscreen">S6 E4</episode-num>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="I.D.us">
-    <title lang="en">Fear Thy Neighbor</title>
-    <title lang="en">Fear Thy Neighbor S8 E2 Appalachian Vendetta: Watch Full Episode Online</title>
-    <sub-title lang="en">Appalachian Vendetta</sub-title>
-    <desc lang="en">Once-friendly neighbors on a mountain road become sworn enemies after one family calls police about a theft -- violating the unspoken tradition of leaving authorities out of disputes; years of conflict finally culminate with shots fired.</desc>
-    <credits>
-      <director>60 min</director>
-      <director>TV14</director>
-      <actor>60 min</actor>
-      <actor>TV14</actor>
-      <actor>Series, Mystery/Crime</actor>
-      <actor>Series</actor>
-      <actor>Brian Rice</actor>
-      <producer>60 min</producer>
-      <producer>TV14</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Series</category>
-    <category lang="en">Mystery/Crime</category>
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20220621012500 +0000" stop="20220621030000 +0000" channel="tmcxtraP.us">
-    <title lang="en">Mojave</title>
-    <desc lang="en">A down-and-out artist (Garrett Hedlund) has a dangerous and shocking encounter with an evil drifter (Oscar Isaac) in the desert, leading to terrifying consequences when the deadly stranger follows his unsuspecting victim home.</desc>
-    <date>2015</date>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621043500 +0000" channel="tmcxtraP.us">
-    <title lang="en">Spring Breakers</title>
-    <desc lang="en">Four college friends (Vanessa Hudgens, Selena Gomez) are arrested after robbing a restaurant to fund their spring-break trip. They land in more trouble when a drug and arms dealer bails them out to do some dirty work.</desc>
-    <date>2012</date>
-  </programme>
-  <programme start="20220621043500 +0000" stop="20220621061500 +0000" channel="tmcxtraP.us">
-    <title lang="en">Them That Follow</title>
-    <desc lang="en">Inside a snake-handling church deep in Appalachia, a forbidden relationship forces a pastor's daughter to confront her community's deadly tradition.</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20220621061500 +0000" stop="20220621074500 +0000" channel="tmcxtraP.us">
-    <title lang="en">Another Kind of Wedding</title>
-    <desc lang="en">Matthew and Louisa are about to celebrate the biggest day of their lives, but their wedding becomes the perfect venue for their dysfunctional families to confront what tore them apart in the first place.</desc>
     <date>2017</date>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery/Crime</category>
+    <category lang="en">Docudrama</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20220621170000 +0000" stop="20220621180000 +0000" channel="I.D.us">
+    <title lang="en">Welcome to Murdertown</title>
+    <title lang="en">Welcome to Murdertown S1 E5 Murder in Macks Creek: Watch Full Episode Online</title>
+    <sub-title lang="en">Murder in Macks Creek</sub-title>
+    <desc lang="en">In Mack's Creek, Mo., 42-year-old Trudy Darby is murdered, then two more local women go missing; silence reigns in town until a call out of the blue reveals that the killers are uncomfortably close to home.</desc>
+    <credits>
+      <director>60 min</director>
+      <director>TV14</director>
+      <actor>60 min</actor>
+      <actor>TV14</actor>
+      <actor>Documentary, Series, Drama, Mystery/Crime</actor>
+      <actor>Series</actor>
+      <producer>60 min</producer>
+      <producer>TV14</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery/Crime</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20220621180000 +0000" stop="20220621190000 +0000" channel="I.D.us">
+    <title lang="en">Welcome to Murdertown</title>
+    <title lang="en">Welcome to Murdertown S1 E4 A Killing in Kendrick: Watch Full Episode Online</title>
+    <sub-title lang="en">A Killing in Kendrick</sub-title>
+    <desc lang="en">Donna Fontaine and her boyfriend, Fred Palahniuk, are found shot dead in a burning building in remote Kendrick, Idaho; a conspiracy of silence protects the killer until his lovers crack and confess the damning evidence needed to convict him.</desc>
+    <credits>
+      <director>60 min</director>
+      <director>TV14</director>
+      <actor>60 min</actor>
+      <actor>TV14</actor>
+      <actor>Documentary, Series, Drama, Mystery/Crime</actor>
+      <actor>Series</actor>
+      <producer>60 min</producer>
+      <producer>TV14</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery/Crime</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
   </programme>
   <programme start="20220621074500 +0000" stop="20220621091500 +0000" channel="tmcxtraP.us">
     <title lang="en">Sisters With Transistors</title>
@@ -507,30 +500,6 @@
     <title lang="en">Monday</title>
     <desc lang="en">When Mickey is introduced to Chloe one hot summer night in Athens, the attraction between the pair is immediately palpable -- so palpable that before they know it they're waking up naked on the beach on Saturday morning.</desc>
     <date>2020</date>
-  </programme>
-  <programme start="20220621010500 +0000" stop="20220621023500 +0000" channel="showtime.family.zone.pacific.us">
-    <title lang="en">Black Sheep</title>
-    <desc lang="en">To head off political embarrassment, the aide (David Spade) of a gubernatorial candidate (Tim Matheson) shepherds his boss's uncouth brother (Chris Farley).</desc>
-    <date>1996</date>
-  </programme>
-  <programme start="20220621023500 +0000" stop="20220621040500 +0000" channel="showtime.family.zone.pacific.us">
-    <title lang="en">Dirty Dancing: Havana Nights</title>
-    <desc lang="en">Love blossoms between a young Cuban (Diego Luna) and an American teenager (Romola Garai) as they prepare for a New Year's Eve dance contest.</desc>
-    <date>2004</date>
-  </programme>
-  <programme start="20220621040500 +0000" stop="20220621050500 +0000" channel="showtime.family.zone.pacific.us">
-    <title lang="en">Perfect in '76</title>
-    <desc lang="en">Revisiting the '76 Hoosiers and renowned coach Bobby Knight, who led the Indiana team to a perfect 32-0 season and a national championship.</desc>
-  </programme>
-  <programme start="20220621050500 +0000" stop="20220621064000 +0000" channel="showtime.family.zone.pacific.us">
-    <title lang="en">Undercover Grandpa</title>
-    <desc lang="en">A shy young man turns to his grandfather and his grandfather's old war buddies to help him rescue the woman of his dreams from kidnappers.</desc>
-    <date>2016</date>
-  </programme>
-  <programme start="20220621064000 +0000" stop="20220621080500 +0000" channel="showtime.family.zone.pacific.us">
-    <title lang="en">Menashe</title>
-    <desc lang="en">Deep in the heart of New York's notoriously secretive Hasidic Jewish community, Menashe, a good-hearted but somewhat hapless grocery store clerk, struggles against tradition to keep custody of his only son after his wife passes away.</desc>
-    <date>2017</date>
   </programme>
   <programme start="20220621080500 +0000" stop="20220621093500 +0000" channel="showtime.family.zone.pacific.us">
     <title lang="en">Debunkers, Inc.</title>
@@ -739,32 +708,6 @@
     <title lang="en">Hitsville: The Making of Motown</title>
     <desc lang="en">Motown Records becomes the most successful label of all time after its formation in 1958 Detroit amid racial tension and the burgeoning civil rights movement.</desc>
     <date>2019</date>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="Shorts.TV">
-    <title lang="en">Hellish Homes</title>
-    <desc lang="en">Presenting ``Scratch,`` ``A Quiet Room in Walthamstow,`` and ``The Fear Inside.``.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="Shorts.TV">
-    <title lang="en">The Hot Ticket</title>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="Shorts.TV">
-    <title lang="en">Criminal Intent - The Heist</title>
-    <desc lang="en">Presenting a collection of shorts about heists; ``For Muriel,`` starring Mindy Sterling; ``Mommy Heist,`` and ``Donkeys.``.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621040000 +0000" channel="Shorts.TV">
-    <title lang="en">Breakfast With Shorts</title>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="Shorts.TV">
-    <title lang="en">Breakfast With Shorts</title>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="Shorts.TV">
-    <title lang="en">Breakfast With Shorts</title>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="Shorts.TV">
-    <title lang="en">Breakfast With Shorts</title>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="Shorts.TV">
-    <title lang="en">Breakfast With Shorts</title>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="Shorts.TV">
     <title lang="en">Animazing</title>
@@ -1048,52 +991,6 @@
   <programme start="20220623230000 +0000" stop="20220624000000 +0000" channel="Shorts.TV">
     <title lang="en">Pure Drama</title>
     <desc lang="en">Short films.</desc>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">The Big House</title>
-    <sub-title lang="en">Auburn</sub-title>
-    <desc lang="en">Liberal prison reformers found the State Penitentiary in Auburn, N.Y.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">The Big House</title>
-    <sub-title lang="en">Parchman</sub-title>
-    <desc lang="en">State Prison in Parchman, Miss., embodies the traditions and folk wisdom of the South.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">The Big House</title>
-    <sub-title lang="en">Maze Prison</sub-title>
-    <desc lang="en">Maze Prison, located near Belfast, Northern Ireland, holds both Catholic and Protestant prisoners, members of paramilitary groups like the Irish Republican Army.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">Shark Stratos - Shark's most advanced, innovative upright vacuum</title>
-    <desc lang="en">Shark's most advanced, innovative upright vacuum. Includes Odor Neutralizer Technology, DuoClean PowerFins HairPro &amp; self-cleaning brushroll. Take on all floor types in your home - with no hair wrap!</desc>
-  </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">Celebs Share Health Secrets</title>
-    <desc lang="en">Celebs share health secrets to living active lives, busy careers and aging gracefully with Dr. McQuillan and host, Ken Meares.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-  </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">Overcome Pain with Blair Underwood</title>
-    <desc lang="en">Award winning actor, producer Blair Underwood interviews Dr. Sharon McQuillan on pain and effects of inflammation in the US today.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">American Justice</title>
-    <sub-title lang="en">Kidnapped</sub-title>
-    <desc lang="en">The abductions of biathlete Kari Swenson and Exxon executive Sidney Reso are used to explore how law enforcement agencies respond to kidnappings.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">American Justice</title>
-    <sub-title lang="en">A Deadly Dose</sub-title>
-    <desc lang="en">In the face of inconclusive physical evidence, the character of the accused can sway a jury.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="CrimeInvestigation.us">
-    <title lang="en">Nightwatch</title>
-    <sub-title lang="en">Southern Comfort</sub-title>
-    <desc lang="en">Bystanders assist the first responders at a restaurant in the French Quarter and at the scene of a car accident; a tourist has to be coaxed into going to the hospital.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="CrimeInvestigation.us">
     <title lang="en">Nightwatch</title>
@@ -1457,13 +1354,6 @@
     <sub-title lang="en">Bad Company</sub-title>
     <desc lang="en">A young man is found dead on his front porch; the victim's girlfriend tells detectives that a visit by some friends turned violent.</desc>
   </programme>
-  <programme start="20220621030000 +0000" stop="20220621034000 +0000" channel="Antenna.us">
-    <title lang="en">Ant1 News</title>
-  </programme>
-  <programme start="20220621034000 +0000" stop="20220621070000 +0000" channel="Antenna.us">
-    <title lang="en">Kalimera Ellada</title>
-    <desc lang="en">Kai oi simantikés exelíxeis, kánoun tin anánki gia axiópisti enimérosi tou tileoptikoú.</desc>
-  </programme>
   <programme start="20220621070000 +0000" stop="20220621084500 +0000" channel="Antenna.us">
     <title lang="en">To Proino</title>
     <desc lang="en">Proiní periodikoú gia tin astrología, to mageírema, ti móda, to schediasmó, tin ygeía kai diasimótites.</desc>
@@ -1621,45 +1511,6 @@
   <programme start="20220623235000 +0000" stop="20220624030000 +0000" channel="Antenna.us">
     <title lang="en">To Proino</title>
     <desc lang="en">Proiní periodikoú gia tin astrología, to mageírema, ti móda, to schediasmó, tin ygeía kai diasimótites.</desc>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="ASPiRE.us">
-    <title lang="en">Emeril's Air Fryer Secret + FREE PANS</title>
-    <desc lang="en">Enjoy chef-quality meals right at home with Emeril Lagasse's Power AirFryer 360. 2 FREE pans included!</desc>
-  </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="ASPiRE.us">
-    <title lang="en">Emeril's Air Fryer Secret + FREE PANS</title>
-    <desc lang="en">Enjoy chef-quality meals right at home with Emeril Lagasse's Power AirFryer 360. 2 FREE pans included!</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="ASPiRE.us">
-    <title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
-    <desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-  </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="ASPiRE.us">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621023000 +0000" channel="ASPiRE.us">
-    <title lang="en">Beat the Heat!</title>
-    <desc lang="en">Enjoy Hours Of Cool, Refreshing Air! Simple To Set Up &amp; Use. Whisper Quiet. Compact &amp; Portable Air Cooler. Great For Offices, Garages, Outside &amp; More!</desc>
-  </programme>
-  <programme start="20220621023000 +0000" stop="20220621030000 +0000" channel="ASPiRE.us">
-    <title lang="en">True Crime: Identity Theft</title>
-    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621050000 +0000" channel="ASPiRE.us">
-    <title lang="en">Where's the Love?</title>
-    <desc lang="en">Two relationship experts (Lamman Rucker, Denise Boutté) try to keep up appearances when their own marriage begins to falter.</desc>
-    <date>2014</date>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621070000 +0000" channel="ASPiRE.us">
-    <title lang="en">The Love Letter</title>
-    <desc lang="en">An advice columnist (Keshia Knight Pulliam) uncovers her true feelings after writing an anonymous letter to herself.</desc>
-    <date>2013</date>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="ASPiRE.us">
-    <title lang="en">Urban Indie Film Block</title>
-    <sub-title lang="en">Lonely or Alone?</sub-title>
-    <desc lang="en">A word, a gesture or a look can make the difference in how important a person feels.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="ASPiRE.us">
     <title lang="en">G. Garvin Live!</title>
@@ -2011,41 +1862,130 @@
     <title lang="en">Whiter Teeth Now!</title>
     <desc lang="en">Dr. Martin Giniger's Power Swabs are conveniently designed to give you the ultimate home teeth whitening experience at a professional level, free from messy whitening strips and annoying trays.</desc>
   </programme>
-  <programme start="20220623003000 +0000" stop="20220620230000 +0000" channel="ASPiRE.us">
+  <programme start="20220623003000 +0000" stop="20220623010000 +0000" channel="ASPiRE.us">
     <title lang="en">Introducing Crepe Erase Advanced Formula!</title>
     <desc lang="en">Crepe Erase Advanced visibly transforms your skin with 9 super hydrators!Tune in to see how Courtney Thorne Smith &amp; Jane Seymour keep their skin sosmooth. Dr. Ordon shares how you can visibly treat &amp; repair the look ofcrepey skin. CrepeErase.com.</desc>
   </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="AXS.us">
-    <title lang="en">Rock Legends</title>
-    <sub-title lang="en">Folk Around the World</sub-title>
-    <desc lang="en">In the 1930s, orally transmitted music was the heritage of many; the genre enjoyed a resurgence during the Great Depression.</desc>
+  <programme start="20220623010000 +0000" stop="20220623013000 +0000" channel="ASPiRE.us">
+    <title lang="en">True Crime: Identity Theft</title>
+    <desc lang="en">Every 3 seconds an American's identity is stolen. Just how safe is your 401k? Your bank account? Your home? Your credit? Crime Reporter Tom Morris Jr. investigates the identity theft epidemic. Find out how you can help protect yourself with LifeLock.</desc>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="AXS.us">
-    <title lang="en">Aerosmith + Bon Jovi</title>
-    <desc lang="en">This collection gives you front-row seats to legendary performances by some of the biggest names in Rock Music history!</desc>
+  <programme start="20220623013000 +0000" stop="20220623020000 +0000" channel="ASPiRE.us">
+    <title lang="en">Beat the Heat!</title>
+    <desc lang="en">Enjoy Hours Of Cool, Refreshing Air! Simple To Set Up &amp; Use. Whisper Quiet. Compact &amp; Portable Air Cooler. Great For Offices, Garages, Outside &amp; More!</desc>
   </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="AXS.us">
-    <title lang="en">Aerosmith + Bon Jovi</title>
-    <desc lang="en">This collection gives you front-row seats to legendary performances by some of the biggest names in Rock Music history!</desc>
+  <programme start="20220623020000 +0000" stop="20220623023000 +0000" channel="ASPiRE.us">
+    <title lang="en">Slim Cycle</title>
+    <desc lang="en">Burn fat, lose weight &amp; sculpt your body all with one machine!</desc>
   </programme>
-  <programme start="20220621020000 +0000" stop="20220621050000 +0000" channel="AXS.us">
-    <title lang="en">Do You Forget Names? Dates? Try THIS Trick!</title>
-    <desc lang="en">Get whole-brain support with NeuroQ! NeuroQ is formulated to help maintain healthy brain function, clear thinking, and memory.</desc>
+  <programme start="20220623023000 +0000" stop="20220623030000 +0000" channel="ASPiRE.us">
+    <title lang="en">How to Tighten Crepey Skin</title>
+    <desc lang="en">Smooth, firm and lift the look of dry, wrinkly crepe paper-looking skin.</desc>
   </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="AXS.us">
-    <title lang="en">Live From Daryl's House</title>
-    <sub-title lang="en">Matchbox 20's Rob Thomas</sub-title>
-    <desc lang="en">Rob Thomas performs.</desc>
+  <programme start="20220623030000 +0000" stop="20220623050000 +0000" channel="ASPiRE.us">
+    <title lang="en">Saving Westbrook High</title>
+    <desc lang="en">Students, their parents and faculty face an uphill battle as they try to prevent their beloved school from closing due to budget cuts.</desc>
+    <date>2013</date>
   </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="AXS.us">
-    <title lang="en">Live From Daryl's House</title>
-    <sub-title lang="en">Sammy Hagar</sub-title>
-    <desc lang="en">Daryl joins Sammy Hagar in Cabo San Lucas, Mexico, at the Cabo Wabo Cantina.</desc>
+  <programme start="20220623050000 +0000" stop="20220623070000 +0000" channel="ASPiRE.us">
+    <title lang="en">Lyfe's Journey</title>
+    <desc lang="en">A family man makes a mistake that changes his life forever. Now he must start a journey to forgiveness that will bring him back to love, family and faith.</desc>
+    <date>2014</date>
   </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="AXS.us">
-    <title lang="en">Live From Daryl's House</title>
-    <sub-title lang="en">Smokey Robinson</sub-title>
-    <desc lang="en">Smokey Robinson performs.</desc>
+  <programme start="20220623070000 +0000" stop="20220623080000 +0000" channel="ASPiRE.us">
+    <title lang="en">Urban Indie Film Block</title>
+    <sub-title lang="en">The Other Side</sub-title>
+    <desc lang="en">There is always more than one way to see things.</desc>
+  </programme>
+  <programme start="20220623080000 +0000" stop="20220623083000 +0000" channel="ASPiRE.us">
+    <title lang="en">Just Angela</title>
+    <sub-title lang="en">Rating My Throwback Outfits</sub-title>
+    <desc lang="en">One of Angela's favorite luxuries is to work with a stylist to keep her in the cutest outfits no matter the occasion; from business meetings to photo shoots, Angela and her stylist, Shanelle, show what a full week of fashion looks like.</desc>
+  </programme>
+  <programme start="20220623083000 +0000" stop="20220623090000 +0000" channel="ASPiRE.us">
+    <title lang="en">Just Angela</title>
+    <sub-title lang="en">Mental Health Reset Routine</sub-title>
+    <desc lang="en">Angela talks about her history with anxiety and how she takes care of her mental health; spiritual coach Life Wave discusses various modalities including herbs, sound therapy, crystals, meditation, drinking tea and journaling.</desc>
+  </programme>
+  <programme start="20220623090000 +0000" stop="20220623093000 +0000" channel="ASPiRE.us">
+    <title lang="en">Just Angela</title>
+    <sub-title lang="en">How to Fund Your Businesses w/ Mahisha</sub-title>
+    <desc lang="en">It is no secret that Black-owned businesses are often underfunded and denied adequate capital; Mahisha Dellinger starts Curls with $30,000 of her personal savings after being denied a small business loan regardless of having great credit.</desc>
+  </programme>
+  <programme start="20220623093000 +0000" stop="20220623100000 +0000" channel="ASPiRE.us">
+    <title lang="en">Just Angela</title>
+    <sub-title lang="en">10 Quirks People Don't Know About Me</sub-title>
+    <desc lang="en">Angela counts down her top 10 quirks that people don't know about her, from chewing pills because she can't swallow them to some weird superstitions.</desc>
+  </programme>
+  <programme start="20220623100000 +0000" stop="20220623103000 +0000" channel="ASPiRE.us">
+    <title lang="en">Whose Line Is It Anyway?</title>
+    <sub-title lang="en">Keegan-Michael Key 4</sub-title>
+    <desc lang="en">Guest comic Keegan-Michael Key.</desc>
+  </programme>
+  <programme start="20220623103000 +0000" stop="20220623110000 +0000" channel="ASPiRE.us">
+    <title lang="en">Whose Line Is It Anyway?</title>
+    <sub-title lang="en">Karla Souza</sub-title>
+    <desc lang="en">Actress Karla Souza.</desc>
+  </programme>
+  <programme start="20220623110000 +0000" stop="20220623113000 +0000" channel="ASPiRE.us">
+    <title lang="en">Whose Line Is It Anyway?</title>
+    <sub-title lang="en">Yvette Nicole Brown</sub-title>
+    <desc lang="en">Actress Yvette Nicole Brown.</desc>
+  </programme>
+  <programme start="20220623113000 +0000" stop="20220623120000 +0000" channel="ASPiRE.us">
+    <title lang="en">Whose Line Is It Anyway?</title>
+    <sub-title lang="en">Kaitlin Doubleday</sub-title>
+    <desc lang="en">Actress Kaitlin Doubleday; comic Jonathan Mangum.</desc>
+  </programme>
+  <programme start="20220623120000 +0000" stop="20220623123000 +0000" channel="ASPiRE.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Moving on Out</sub-title>
+    <desc lang="en">The condition and location of Jr.'s new apartment shocks Jay, who cannot believe her new grandchild might live there.</desc>
+  </programme>
+  <programme start="20220623123000 +0000" stop="20220623130000 +0000" channel="ASPiRE.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Candy Wars</sub-title>
+    <desc lang="en">Michael loses sight of his daughter in his quest to sell the most chocolate bars during a school candy drive.</desc>
+  </programme>
+  <programme start="20220623130000 +0000" stop="20220623133000 +0000" channel="ASPiRE.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Jr. Sells His Car</sub-title>
+    <desc lang="en">Jr. and Vanessa shock everyone by selling the Impala after they finish restoring it; Franklin asks Michael how he can act more like a normal kid.</desc>
+  </programme>
+  <programme start="20220623133000 +0000" stop="20220623140000 +0000" channel="ASPiRE.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">The Anniversary Present</sub-title>
+    <desc lang="en">Michael and Jay try to hide their disappointment with their anniversary gifts; Claire hopes to prepare a gourmet dinner for her parents.</desc>
+  </programme>
+  <programme start="20220623140000 +0000" stop="20220623143000 +0000" channel="ASPiRE.us">
+    <title lang="en">In the House</title>
+    <sub-title lang="en">Not as Good as It Gets</sub-title>
+    <desc lang="en">Marion decides to sell the clinic; Tonia gets an offer from the WNBA.</desc>
+  </programme>
+  <programme start="20220623143000 +0000" stop="20220623150000 +0000" channel="ASPiRE.us">
+    <title lang="en">In the House</title>
+    <sub-title lang="en">There's Something About Tiffany</sub-title>
+    <desc lang="en">Tiffany decides to become intimate with Graham; Marion and Valerie go out on a date.</desc>
+  </programme>
+  <programme start="20220623150000 +0000" stop="20220623153000 +0000" channel="ASPiRE.us">
+    <title lang="en">In the House</title>
+    <sub-title lang="en">How Nana Got Her Groove Back</sub-title>
+    <desc lang="en">Marion tries to discourage Nana's fiance from marrying her; Tiffany eloped with Graham.</desc>
+  </programme>
+  <programme start="20220623153000 +0000" stop="20220623160000 +0000" channel="ASPiRE.us">
+    <title lang="en">In the House</title>
+    <sub-title lang="en">Cornbread, Marion and Me</sub-title>
+    <desc lang="en">Marion tells Brianna that he accidentally killed her pet fish.</desc>
+  </programme>
+  <programme start="20220623160000 +0000" stop="20220623163000 +0000" channel="ASPiRE.us">
+    <title lang="en">World Wide Nate: African Adventures</title>
+    <sub-title lang="en">Taking the Plunge - Bungee Jumping Over Victoria Falls</sub-title>
+    <desc lang="en">Nate zips, jumps and swings his way across one of the world's greatest natural wonders in Livingstone, Zambia: Victoria Falls.</desc>
+  </programme>
+  <programme start="20220623163000 +0000" stop="20220620230000 +0000" channel="ASPiRE.us">
+    <title lang="en">World Wide Nate: African Adventures</title>
+    <sub-title lang="en">Searching for the Endangered Mountain Gorilla in Rwanda</sub-title>
+    <desc lang="en">Nate takes a trip out to Volcanoes National Park in hopes of catching a glimpse of the animals in their natural habitat.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621103000 +0000" channel="AXS.us">
     <title lang="en">The Legend of Zorro</title>
@@ -2342,81 +2282,6 @@
   <programme start="20220623230000 +0000" stop="20220624000000 +0000" channel="AXS.us">
     <title lang="en">IMPACT in 60</title>
     <sub-title lang="en">Juventud Guerrera</sub-title>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="BET.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Hook, Lie &amp; Sink Her</sub-title>
-    <desc lang="en">Kevin meets a celebrity on an online dating match site; JB and Faizon Love have a physical grudge match.</desc>
-  </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="BET.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Outdated</sub-title>
-    <desc lang="en">Another shot at love for Kevin on Wayne Brady's late night talk show; Bobby Brown's shot at stardom while Nelly rebukes him.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="BET.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Doing the Bump</sub-title>
-    <desc lang="en">The new couple is getting tons of advice; Boris prepares for the stage play's opening despite the fact that he cannot sing.</desc>
-  </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="BET.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Scattered Shower</sub-title>
-    <desc lang="en">Tisha and Nicole join forces with Bridgette for Selita's celebrity super-shower; Selita's baby bump and secret.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621023000 +0000" channel="BET.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Storm Showers</sub-title>
-    <desc lang="en">A red carpet kicks off the events of Kevin and Selita's baby shower special; a Bridgette and Nadine confrontation.</desc>
-  </programme>
-  <programme start="20220621023000 +0000" stop="20220621030000 +0000" channel="BET.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">The Bump Stops Here</sub-title>
-    <desc lang="en">A VIP Gymboree reception for Kevin and Selita; Selita's ``baby bump`` is not real; Trina tries to book Kevin to host the Oscars.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621033700 +0000" channel="BET.us">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title lang="en">Meet the Postponement</sub-title>
-    <desc lang="en">After the Colonel's near death experience, he decides to postpone the wedding.</desc>
-  </programme>
-  <programme start="20220621033700 +0000" stop="20220621041300 +0000" channel="BET.us">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title lang="en">Meet the Super Christian</sub-title>
-    <desc lang="en">The Colonel takes his heart attack as a sign and moves in with Brown.</desc>
-  </programme>
-  <programme start="20220621041300 +0000" stop="20220621045000 +0000" channel="BET.us">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title lang="en">Meet the Farewell</sub-title>
-    <desc lang="en">Cora's class plans a farewell party as she receives some disturbing news.</desc>
-  </programme>
-  <programme start="20220621045000 +0000" stop="20220621052200 +0000" channel="BET.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">He Works Hard for the Money</sub-title>
-    <desc lang="en">Kyle (T.C. Carson) becomes a boy toy for a seasoned and spicy actress (Eartha Kitt) in order to handle her business.</desc>
-  </programme>
-  <programme start="20220621052200 +0000" stop="20220621055500 +0000" channel="BET.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">Baby I'm Back ... Again</sub-title>
-    <desc lang="en">Scared that Khadijah (Queen Latifah) is enjoying the dating scene a little too much, Scooter (Cress Williams) proposes. With Erika Alexander, Kim Fields Freeman and Kim Coles.</desc>
-  </programme>
-  <programme start="20220621055500 +0000" stop="20220621062700 +0000" channel="BET.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Sophisticated Ladies</sub-title>
-    <desc lang="en">Gina and Pam (Tisha Campbell, Tichina Arnold) attempt to elevate their careers by joining the Ladies League of Detroit. Guest stars Roxanne Reese, Simbi Khali, Ann Weldon and Ethel Ayler.</desc>
-  </programme>
-  <programme start="20220621062700 +0000" stop="20220621070000 +0000" channel="BET.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Nuttin' Goin' On But the Rent</sub-title>
-    <desc lang="en">Martin (Martin Lawrence) and his friends are snowed in at Martin's apartment with no gas, water or electricity. With Tisha Campbell, Tichina Arnold, Thomas Mikal Ford and Carl Anthony Payne II.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="BET.us">
-    <title lang="en">black-ish</title>
-    <sub-title lang="en">Crazy Mom</sub-title>
-    <desc lang="en">When Dre takes over ``mom`` duties for a week, the praise he gets from everyone at the kids' school inspires him to try to outdo everyone..</desc>
-  </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="BET.us">
-    <title lang="en">black-ish</title>
-    <sub-title lang="en">Crime and Punishment</sub-title>
-    <desc lang="en">Rainbow and Dre agree they will no longer spank their children, but when Jack disobeys, the kids wonder if their parents will go back on their word.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="BET.us">
     <title lang="en">Martin</title>
@@ -2797,76 +2662,6 @@
     <sub-title lang="en">The Bodyguard</sub-title>
     <desc lang="en">Gina and Pam (Tisha Campbell, Tichina Arnold) are forced to enter the Witness Protection Program with Otis (Martin Lawrence) as their bodyguard.</desc>
   </programme>
-  <programme start="20220621003600 +0000" stop="20220621011200 +0000" channel="BETP.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Feast or Famine</sub-title>
-    <desc lang="en">The men decide they are better cooks than Gina and Pam (Tisha Campbell, Tichina Arnold), creating a Thanksgiving battle of the sexes. With Martin Lawrence and Thomas Mikal Ford.</desc>
-  </programme>
-  <programme start="20220621011200 +0000" stop="20220621014800 +0000" channel="BETP.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Lockin' Boots</sub-title>
-    <desc lang="en">Gina secretly withdraws $600 from the joint account she shares with Martin to pay off unpaid parking fines.</desc>
-  </programme>
-  <programme start="20220621014800 +0000" stop="20220621022400 +0000" channel="BETP.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Go Tell It on the Martin</sub-title>
-    <desc lang="en">Martin celebrates Christmas, Hanukkah and Kwanzaa on his cable show; Santa threatens to blow up the station.</desc>
-  </programme>
-  <programme start="20220621022400 +0000" stop="20220621030000 +0000" channel="BETP.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">'Xpress Yourself</sub-title>
-    <desc lang="en">Martin's boss hires Gina (Tisha Campbell) as a consultant for Martin's (Martin Lawrence) cable program, ``Word on the Street.'' With Tichina Arnold and Thomas Mikal Ford.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="BETP.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Hook, Lie &amp; Sink Her</sub-title>
-    <desc lang="en">Kevin meets a celebrity on an online dating match site; JB and Faizon Love have a physical grudge match.</desc>
-  </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="BETP.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Outdated</sub-title>
-    <desc lang="en">Another shot at love for Kevin on Wayne Brady's late night talk show; Bobby Brown's shot at stardom while Nelly rebukes him.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="BETP.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Doing the Bump</sub-title>
-    <desc lang="en">The new couple is getting tons of advice; Boris prepares for the stage play's opening despite the fact that he cannot sing.</desc>
-  </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="BETP.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Scattered Shower</sub-title>
-    <desc lang="en">Tisha and Nicole join forces with Bridgette for Selita's celebrity super-shower; Selita's baby bump and secret.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="BETP.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">Storm Showers</sub-title>
-    <desc lang="en">A red carpet kicks off the events of Kevin and Selita's baby shower special; a Bridgette and Nadine confrontation.</desc>
-  </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="BETP.us">
-    <title lang="en">Real Husbands of Hollywood</title>
-    <sub-title lang="en">The Bump Stops Here</sub-title>
-    <desc lang="en">A VIP Gymboree reception for Kevin and Selita; Selita's ``baby bump`` is not real; Trina tries to book Kevin to host the Oscars.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621063700 +0000" channel="BETP.us">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title lang="en">Meet the Postponement</sub-title>
-    <desc lang="en">After the Colonel's near death experience, he decides to postpone the wedding.</desc>
-  </programme>
-  <programme start="20220621063700 +0000" stop="20220621071300 +0000" channel="BETP.us">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title lang="en">Meet the Super Christian</sub-title>
-    <desc lang="en">The Colonel takes his heart attack as a sign and moves in with Brown.</desc>
-  </programme>
-  <programme start="20220621071300 +0000" stop="20220621075000 +0000" channel="BETP.us">
-    <title lang="en">Tyler Perry's Meet the Browns</title>
-    <sub-title lang="en">Meet the Farewell</sub-title>
-    <desc lang="en">Cora's class plans a farewell party as she receives some disturbing news.</desc>
-  </programme>
-  <programme start="20220621075000 +0000" stop="20220621082200 +0000" channel="BETP.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">He Works Hard for the Money</sub-title>
-    <desc lang="en">Kyle (T.C. Carson) becomes a boy toy for a seasoned and spicy actress (Eartha Kitt) in order to handle her business.</desc>
-  </programme>
   <programme start="20220621082200 +0000" stop="20220621085500 +0000" channel="BETP.us">
     <title lang="en">Living Single</title>
     <sub-title lang="en">Baby I'm Back ... Again</sub-title>
@@ -3246,45 +3041,6 @@
     <sub-title lang="en">Cole on Ice</sub-title>
     <desc lang="en">When Cole (Carl Anthony Payne II) loses his job at the airport, Martin (Martin Lawrence) offers him a position at the cable station. Guest star: Charles Barkley.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="BET.Her.us">
-    <title lang="en">The Parkers</title>
-    <sub-title lang="en">Three's a Shag</sub-title>
-    <desc lang="en">Kim finds herself without a date when she declines Hakeem's invitation to an ``Austin Powers`` party.</desc>
-  </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="BET.Her.us">
-    <title lang="en">The Parkers</title>
-    <sub-title lang="en">Kimberlale</sub-title>
-    <desc lang="en">A boutique owner orders one of Kim's fashion designs, but filling the order may mean putting college on hold.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="BET.Her.us">
-    <title lang="en">BET Her Playlist</title>
-    <sub-title lang="en">Fresh Faces</sub-title>
-    <desc lang="en">New music from up-and-coming R&amp;B artists.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="BET.Her.us">
-    <title lang="en">Strictly R&amp;B</title>
-    <desc lang="en">Playlist of R&amp;B jams from artists old and new; curated for her.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621040000 +0000" channel="BET.Her.us">
-    <title lang="en">Morning Glow</title>
-    <desc lang="en">Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="BET.Her.us">
-    <title lang="en">Morning Glow</title>
-    <desc lang="en">Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="BET.Her.us">
-    <title lang="en">Morning Glow</title>
-    <desc lang="en">Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="BET.Her.us">
-    <title lang="en">Morning Glow</title>
-    <desc lang="en">Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="BET.Her.us">
-    <title lang="en">Morning Glow</title>
-    <desc lang="en">Brightening up the morning with this mix of music videos featuring jams from yesterday and today; curated for her.</desc>
-  </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="BET.Her.us">
     <title lang="en">The Parkers</title>
     <sub-title lang="en">Quarantine</sub-title>
@@ -3525,37 +3281,6 @@
     <title lang="en">The Little Richard Story</title>
     <desc lang="en">The flamboyant musician (Leon) experiences highs and lows through his music career, including confronting his father's murderer.</desc>
     <date>2000</date>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621040000 +0000" channel="BET.Jams.us">
-    <title lang="en">Timbaland Tuesday</title>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="BET.Jams.us">
-    <title lang="en">Music Playlist</title>
-    <desc lang="en">Rap, R&amp;B, hip-hop, and soul music.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="BET.Jams.us">
     <title lang="en">Music Playlist</title>
@@ -3798,26 +3523,6 @@
   <programme start="20220623230000 +0000" stop="20220624000000 +0000" channel="BET.Jams.us">
     <title lang="en">Throwback Thursday</title>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621030000 +0000" channel="BETSOUL.us">
-    <title lang="en">In Rotation</title>
-    <desc lang="en">360 degrees of BET Soul.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621040000 +0000" channel="BETSOUL.us">
-    <title lang="en">In Rotation</title>
-    <desc lang="en">360 degrees of BET Soul.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="BETSOUL.us">
-    <title lang="en">30 Years of Black Men In Music</title>
-    <sub-title lang="en">2012</sub-title>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="BETSOUL.us">
-    <title lang="en">The Calming</title>
-    <desc lang="en">Slow jams, chill tunes, and calm vibes from favorite R&amp;B and Soul artists.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621080000 +0000" channel="BETSOUL.us">
-    <title lang="en">Hit List: LOADING...</title>
-    <desc lang="en">The weekly countdown of the current 20 hottest videos in R&amp;B and Soul.</desc>
-  </programme>
   <programme start="20220621080000 +0000" stop="20220621100000 +0000" channel="BETSOUL.us">
     <title lang="en">Chronicled</title>
     <desc lang="en">A music video timeline of an artist's career from beginning to now.</desc>
@@ -4021,42 +3726,6 @@
   <programme start="20220623220000 +0000" stop="20220624000000 +0000" channel="BETSOUL.us">
     <title lang="en">Hit List: LOADING...</title>
     <desc lang="en">The weekly countdown of the current 20 hottest videos in R&amp;B and Soul.</desc>
-  </programme>
-  <programme start="20220621003000 +0000" stop="20220621023000 +0000" channel="BravoP.us">
-    <title lang="en">Coyote Ugly</title>
-    <desc lang="en">A woman (Piper Perabo) finds her dreams of singing sidelined by the notoriety she receives as a New York City barmaid.</desc>
-    <date>2000</date>
-  </programme>
-  <programme start="20220621023000 +0000" stop="20220621033000 +0000" channel="BravoP.us">
-    <title lang="en">Below Deck Sailing Yacht</title>
-    <sub-title lang="en">All Roads Lead to Gaisy</sub-title>
-    <desc lang="en">As the guests return from the wedding ceremony, the crew tries to cap off a great season with the perfect reception dinner, and Marcos strives to wow the guests with his best meal yet.</desc>
-  </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="BravoP.us">
-    <title lang="en">Watch What Happens Live With Andy Cohen</title>
-    <sub-title lang="en">Best of One-on-Ones: Part 1</sub-title>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="BravoP.us">
-    <title lang="en">The Kelly Clarkson Show</title>
-    <desc lang="en">Kelly sings ``Crash Into Me``; Idaho Potato perfume; Anna Chlumsky; Cam; Anjelah Johnson-Reyes; medical vehicle; dad gets the balloon; Blessing Offor performs; guest host Jay Leno.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="BravoP.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-  </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="BravoP.us">
-    <title lang="en">Celebs Share Health Secrets</title>
-    <desc lang="en">Celebs share health secrets to living active lives, busy careers and aging gracefully with Dr. McQuillan and host, Ken Meares.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="BravoP.us">
-    <title lang="en">The Real Housewives of Beverly Hills</title>
-    <sub-title lang="en">Dubai Daze</sub-title>
-    <desc lang="en">The women explore the city of Dubai, driving through sand dunes, shopping at a souk market and experiencing an Arabian Nights-style dinner, which includes meat from unlikely animals.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="BravoP.us">
-    <title lang="en">The Real Housewives of Dubai</title>
-    <sub-title lang="en">Sand Dunes and Don'ts</sub-title>
-    <desc lang="en">The city of gold: Dubai; the elite social circles of this town include tech entrepreneurs, including Sara Al Madani, and fashion moguls, such as Lesa Milan; as Caroline Stanbury celebrates her engagement on a yacht, sandstorms begin to gather.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="BravoP.us">
     <title lang="en">The Real Housewives of Dubai</title>
@@ -4363,46 +4032,6 @@
     <title lang="en">Southern Charm</title>
     <sub-title lang="en">Great Ex-pectations</sub-title>
     <desc lang="en">After a tumultuous year, the Charleston crew is back and ready for a fresh start; Kathryn throws herself a 30th birthday party to celebrate another decade and a clean slate with a new man by her side.</desc>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">The Waltons</title>
-    <sub-title lang="en">The Beginning</sub-title>
-    <desc lang="en">A new minister (Kip Niven) arouses Corabeth's suspicions and gives advice when Toni decides she can't wed Jason because she's Jewish.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Dr. Quinn, Medicine Woman</title>
-    <sub-title lang="en">Happy Birthday</sub-title>
-    <desc lang="en">A lonely Dr. Mike believes the whole town feels sorry for her as she prepares to celebrate another birthday as an unmarried woman.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Dr. Quinn, Medicine Woman</title>
-    <sub-title lang="en">Rite of Passage</sub-title>
-    <desc lang="en">Dr. Mike is at odds with Matthew when he announces his decision to forgo a university education and marry Ingrid.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621040000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">The Preacher Takes a Wife</sub-title>
-    <desc lang="en">Mrs. Oleson demands the Rev. Alden's resignation when she discovers a woman parishioner spent the night in his room.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">The Little House Years</sub-title>
-    <desc lang="en">Gathered for a holiday, the Ingalls tell Albert how they came to Walnut Grove.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">The Little House Years</sub-title>
-    <desc lang="en">Gathered for a holiday, the Ingalls tell Albert how they came to Walnut Grove.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Little House on the Prairie</title>
-    <sub-title lang="en">The Little House Years</sub-title>
-    <desc lang="en">Gathered for a holiday, the Ingalls tell Albert how they came to Walnut Grove.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="HallmarkDrama.us">
-    <title lang="en">Matlock</title>
-    <sub-title lang="en">The Heist</sub-title>
-    <desc lang="en">When Ben's old friend tracks bank robbers, the former FBI agent's rusty skills get him arrested for murder.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="HallmarkDrama.us">
     <title lang="en">Matlock</title>
@@ -4724,46 +4353,6 @@
     <sub-title lang="en">The Star</sub-title>
     <desc lang="en">Grandpa interprets a shooting star that crash-landed at the Baldwins as an omen of his death.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Monk</title>
-    <sub-title lang="en">Mr. Monk and the Really, Really Dead Guy</sub-title>
-    <desc lang="en">Monk uses his detective skills to find the mysterious ``Six Way Killer.``.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Monk</title>
-    <sub-title lang="en">Mr. Monk Goes to the Hospital</sub-title>
-    <desc lang="en">Monk finds himself in danger when he investigates the death of a doctor.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Monk</title>
-    <sub-title lang="en">Mr. Monk and His Biggest Fan</sub-title>
-    <desc lang="en">Monk's biggest fan is accused of a bizarre crime, and she turns to her idol for help.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621040000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Monk</title>
-    <sub-title lang="en">Mr. Monk and the Rapper</sub-title>
-    <desc lang="en">Monk helps a rapper clear his name after he is accused of murder.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621050000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Murder, She Wrote</title>
-    <sub-title lang="en">Deadpan</sub-title>
-    <desc lang="en">When the feud of two drama critics ends in murder, Jessica has a full cast of suspects, including the surviving critic.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621060000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Murder, She Wrote</title>
-    <sub-title lang="en">The Body Politic</sub-title>
-    <desc lang="en">Jessica is caught in a game of deadly politics when a close friend's campaign is threatened by scandal.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621070000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Murder, She Wrote</title>
-    <sub-title lang="en">J.B. ... As in Jailbird</sub-title>
-    <desc lang="en">When Jessica is arrested for murder, secret agent Michael Haggerty (Len Cariou) and her nephew Grady conspire to keep her safely in jail while they seek the real killer.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621080000 +0000" channel="HallmarkMoviesMysteries.us">
-    <title lang="en">Murder, She Wrote</title>
-    <sub-title lang="en">A Little Night Work</sub-title>
-    <desc lang="en">Jessica attends a fund-raiser for a New York publisher, and he is found dead, and his wife's diamond necklace is missing from his safe.</desc>
-  </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="HallmarkMoviesMysteries.us">
     <title lang="en">Diagnosis Murder</title>
     <sub-title lang="en">Standing Eight Count</sub-title>
@@ -5044,58 +4633,6 @@
     <desc lang="en">Three reunited sisters discover their late father planned one last scavenger hunt -- an annual holiday tradition when they were young. As their sisterly bond gets rekindled, they soon learn important lessons about what they want in life and in love.</desc>
     <date>2021</date>
   </programme>
-  <programme start="20220621001300 +0000" stop="20220621021300 +0000" channel="FXP.us">
-    <title lang="en">Zombieland: Double Tap</title>
-    <desc lang="en">Post-apocalyptic warriors Tallahassee, Columbus, Wichita and Little Rock must rely on their wits and weapons more than ever as they find themselves in a relentless battle against smarter, faster and seemingly indestructible zombies.</desc>
-    <date>2019</date>
-  </programme>
-  <programme start="20220621021300 +0000" stop="20220621025700 +0000" channel="FXP.us">
-    <title lang="en">Breeders</title>
-    <sub-title lang="en">No Way Back</sub-title>
-    <desc lang="en">Paul takes his parents on a day-trip to the countryside to re-create a cherished memory; the revelation of a number of secrets leaves all three of them reeling.</desc>
-  </programme>
-  <programme start="20220621025700 +0000" stop="20220621032700 +0000" channel="FXP.us">
-    <title lang="en">Mom</title>
-    <sub-title lang="en">A Small Nervous Breakdown and a Misplaced Fork</sub-title>
-    <desc lang="en">Christy goes on a date for the first time since getting sober; Bonnie decides to teach Roscoe how to gamble.</desc>
-  </programme>
-  <programme start="20220621032700 +0000" stop="20220621033400 +0000" channel="FXP.us">
-    <title lang="en">FXM Presents</title>
-    <desc lang="en">An examination of the process of making movies follows a production from script to screen.</desc>
-  </programme>
-  <programme start="20220621033400 +0000" stop="20220621040000 +0000" channel="FXP.us">
-    <title lang="en">BACK PAIN RELIEF NOW!</title>
-    <desc lang="en">Join the millions of people who have found BACK PAIN RELIEF with Teeter FitSpine Inversion Tables.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="FXP.us">
-    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
-    <desc lang="en">HairClub is the leader in hair loss and hair health solutions for men &amp; women. Guiding clients through their hair loss journey for over 40 years! It starts with a complementary, personalized hair health analysis and consultation. Let's Talk.</desc>
-  </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="FXP.us">
-    <title lang="en">Car accident? Free Legal Consultation</title>
-    <desc lang="en">Legal professionals standing by to answer viewer questions.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="FXP.us">
-    <title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
-    <desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-  </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="FXP.us">
-    <title lang="en">Car accident? Free Legal Consultation</title>
-    <desc lang="en">Legal professionals standing by to answer the viewers questions.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="FXP.us">
-    <title lang="en">Cindy Crawford and Ellen Pompeo share secrets</title>
-    <desc lang="en">Join Cindy Crawford and Ellen Pompeo as they discuss their busy lives and the breakthrough skin care discovery that keeps them looking their best. Take a trip to the stunning French countryside to see a rare French melon that defies aging.</desc>
-  </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="FXP.us">
-    <title lang="en">BACK PAIN RELIEF NOW!</title>
-    <desc lang="en">Join the millions of people who have found BACK PAIN RELIEF with Teeter FitSpine Inversion Tables.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="FXP.us">
-    <title lang="en">Mom</title>
-    <sub-title lang="en">Loathing and Tube Socks</sub-title>
-    <desc lang="en">Everyone around Christy tests her patience; Bonnie comes face-to-face with a former rival.</desc>
-  </programme>
   <programme start="20220621073000 +0000" stop="20220621103000 +0000" channel="FXP.us">
     <title lang="en">Little Women</title>
     <desc lang="en">In the years after the Civil War, Jo March and her two sisters return home when shy sister Beth develops a devastating illness that forever changes all of their lives.</desc>
@@ -5282,66 +4819,6 @@
     <title lang="en">The Old Man</title>
     <sub-title lang="en">III</sub-title>
     <desc lang="en">Forced to flee, Chase finally tells Zoe the truth about his past, but it might be too late.</desc>
-  </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="FXXP.HD.us">
-    <title lang="en">Futurama</title>
-    <sub-title lang="en">Xmas Story</sub-title>
-    <desc lang="en">Fry discovers that Santa Claus is an 8-foot robot who menaces people on Christmas Eve in the year 3000.</desc>
-  </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="FXXP.HD.us">
-    <title lang="en">Futurama</title>
-    <sub-title lang="en">Why Must I Be a Crustacean in Love?</sub-title>
-    <desc lang="en">When Dr. Zoidberg returns to his home planet for mating season, Fry gives him a tutorial in 20th-century love.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="FXXP.HD.us">
-    <title lang="en">Futurama</title>
-    <sub-title lang="en">The Lesser of Two Evils</sub-title>
-    <desc lang="en">The Professor hires a Bender look-alike to guard a jeweled tiara for the Miss Universe contest, but it disappears.</desc>
-  </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="FXXP.HD.us">
-    <title lang="en">Futurama</title>
-    <sub-title lang="en">Put Your Head on My Shoulders</sub-title>
-    <desc lang="en">When Fry's head is grafted onto Amy's body, they are forced to spend Valentine's Day together. Voices of Billy West, Katey Sagal, John Di Maggio and Lauren Tom.</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621023100 +0000" channel="FXXP.HD.us">
-    <title lang="en">Archer</title>
-    <sub-title lang="en">Motherless Child</sub-title>
-    <desc lang="en">Archer must help a mysterious stranger find his birth mother.</desc>
-  </programme>
-  <programme start="20220621023100 +0000" stop="20220621030200 +0000" channel="FXXP.HD.us">
-    <title lang="en">Archer</title>
-    <sub-title lang="en">Bel Panto: Part I</sub-title>
-    <desc lang="en">A group of party crashers ruin a fundraiser.</desc>
-  </programme>
-  <programme start="20220621030200 +0000" stop="20220621033200 +0000" channel="FXXP.HD.us">
-    <title lang="en">Archer</title>
-    <sub-title lang="en">Bel Panto: Part II</sub-title>
-    <desc lang="en">Lana and Archer go missing when a hostage situation goes out of control.</desc>
-  </programme>
-  <programme start="20220621033200 +0000" stop="20220621040200 +0000" channel="FXXP.HD.us">
-    <title lang="en">Archer</title>
-    <sub-title lang="en">Double Indecency</sub-title>
-    <desc lang="en">Cyril, Krieger, Pam and Cheryl battle to determine the sexiest among them.</desc>
-  </programme>
-  <programme start="20220621040200 +0000" stop="20220621043000 +0000" channel="FXXP.HD.us">
-    <title lang="en">Emeril's Air Fryer Secret + FREE PANS</title>
-    <desc lang="en">Enjoy chef-quality meals right at home with Emeril Lagasse's Power AirFryer 360. 2 FREE pans included!</desc>
-  </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="FXXP.HD.us">
-    <title lang="en">NEW Easiest &amp; Fastest Way to do Makeup</title>
-    <desc lang="en">NEW GetBreeze.com Look younger instantly w/ using 10 times less makeup, best coverage &amp; color match.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="FXXP.HD.us">
-    <title lang="en">The PiYo Craze from Beachbody!</title>
-    <desc lang="en">Define your body with PiYo. Chalene Johnson's new lower-impact workout series combining the muscle-sculpting benefits of Pilates, Yoga, and fluid motion all-in-one!</desc>
-  </programme>
-  <programme start="20220621053000 +0000" stop="20220621063000 +0000" channel="FXXP.HD.us">
-    <title lang="en">BACK PAIN RELIEF NOW!</title>
-    <desc lang="en">Join the millions of people who have found BACK PAIN RELIEF with Teeter FitSpine Inversion Tables.</desc>
-  </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="FXXP.HD.us">
-    <title lang="en">Blink wire-free home security cameras help protect what matters</title>
-    <desc lang="en">An Amazon Company, Blink battery-powered smart home security cameras allow you to see, hear, and speak right from your phone. Day or night, rain or shine, Blink Outdoor and Indoor can be placed almost anywhere to bring you peace of mind.</desc>
   </programme>
   <programme start="20220621070000 +0000" stop="20220621090000 +0000" channel="FXXP.HD.us">
     <title lang="en">The Shallows</title>
@@ -5686,75 +5163,149 @@
     <sub-title lang="en">Fingers-loose</sub-title>
     <desc lang="en">Tina faces a hall-monitor crisis when she falls in love with a new underground trend; Bob and Linda try to come up with a way for Teddy to sneak food into a movie theater.</desc>
   </programme>
-  <programme start="20220623010000 +0000" stop="20220620230000 +0000" channel="FXXP.HD.us">
+  <programme start="20220623010000 +0000" stop="20220623013000 +0000" channel="FXXP.HD.us">
     <title lang="en">Futurama</title>
     <sub-title lang="en">The Deep South</sub-title>
     <desc lang="en">When the ship sinks during a fishing trip, leaking caffeine spawns a civilization of mermaids and mermen.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Force on Force</title>
-    <sub-title lang="en">Force on Force Semi Final Rd 1</sub-title>
-    <desc lang="en">In this epsiode of Strike King's Force on Force presented by Skeeter Boats, it's Semi Final Round 1.</desc>
+  <programme start="20220623013000 +0000" stop="20220623020000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Futurama</title>
+    <sub-title lang="en">Bender Gets Made</sub-title>
+    <desc lang="en">Bender is recruited by the robot mafia to participate in a Zuban cigar heist. Voices of Billy West, Katey Sagal, John Di Maggio, Phil LaMarr and Tress MacNeille.</desc>
   </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">The Hunt for Monster Bass</title>
-    <sub-title lang="en">The Monster Bass of the Year</sub-title>
-    <desc lang="en">Follow Ott as he fights his way through the biggest bass of the season to earn his biggest reward yet.</desc>
+  <programme start="20220623020000 +0000" stop="20220623023000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Archer</title>
+    <sub-title lang="en">Archer Dreamland: Berenice</sub-title>
+    <desc lang="en">A mysterious woman hires Archer to fake her death, but he is unable to rise to the occasion.</desc>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621030000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Major League Fishing Cups</title>
-    <sub-title lang="en">Patriot/Summit Cup Major League Lessons</sub-title>
-    <desc lang="en">Top finishers of the 2021 Patriot Cup and Summit Cup share the tricks and techniques that helped them put fish in the boat and crush the competition.</desc>
+  <programme start="20220623023000 +0000" stop="20220623030000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Archer</title>
+    <sub-title lang="en">Archer Dreamland: Jane Doe</sub-title>
+    <desc lang="en">Archer tries to escape from jail with the help of a crazed heiress and a dysfunctional jazz quartet.</desc>
   </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">The Obsession of Carter Andrews</title>
-    <sub-title lang="en">Robinson Crusoe, Part 1</sub-title>
-    <desc lang="en">Carter and old friend Julio Meza head to the Juan Fernandez Archipelago situated 400 miles off the coast of Chile in search of a giant kingfish yellowtail, fishing around the famed Robinson Crusoe Island.</desc>
+  <programme start="20220623030000 +0000" stop="20220623033100 +0000" channel="FXXP.HD.us">
+    <title lang="en">Archer</title>
+    <sub-title lang="en">Archer Dreamland: Ladyfingers</sub-title>
+    <desc lang="en">While investigating a kidnapping, Archer reveals too much about Figgis and Krieger reveals too much about his past.</desc>
   </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Livin' the Dream With Captain Jimmy Nelson</title>
-    <sub-title lang="en">FL Keys Permit Fishing</sub-title>
-    <desc lang="en">Capt. Jimmy and Luiza are in Islamorada, Florida fishing for permit with their long time friend, Capt Dave Jones.</desc>
+  <programme start="20220623033100 +0000" stop="20220623040100 +0000" channel="FXXP.HD.us">
+    <title lang="en">Archer</title>
+    <sub-title lang="en">Archer Dreamland: Sleepers Wake</sub-title>
+    <desc lang="en">Dutch becomes a new man while Archer's ransom exchange goes up in smoke.</desc>
   </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Bill Dance Saltwater</title>
-    <sub-title lang="en">3,...2...,1,...Splashdown</sub-title>
-    <desc lang="en">Schools of redfish barrel toward topwater lures in Brevard County along the Space Coast.</desc>
+  <programme start="20220623040100 +0000" stop="20220623043000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Car accident? Free Legal Consultation</title>
+    <desc lang="en">Legal professionals standing by to answer the viewers questions.</desc>
   </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">The Seahunter</title>
-    <sub-title lang="en">It's Been Awhile</sub-title>
-    <desc lang="en">Charlie Schiffer of Seahunter Boats invites Rob Fordyce sailfishing off Charlie's new 45 center console.</desc>
+  <programme start="20220623043000 +0000" stop="20220623050000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Car Accident? Free Legal Consultation.</title>
+    <desc lang="en">Legal professionals standing by to answer the viewers' questions.</desc>
   </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">BigWater Adventures</title>
-    <sub-title lang="en">Inshore Action at Tropic Star Lodge</sub-title>
-    <desc lang="en">Fast action and big fish at Panama's Tropic Star Lodge. Big roosterfish, topwater tuna, and exploring the Zane Grey Reef.</desc>
+  <programme start="20220623050000 +0000" stop="20220623053000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid programming.</desc>
   </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Into the Blue</title>
-    <sub-title lang="en">The Tuna Difference</sub-title>
-    <desc lang="en">Capt. Scott Walker and Capt. Steve Rodger give us the many differences between the tunas but the one common thing is they are great to eat.</desc>
+  <programme start="20220623053000 +0000" stop="20220623060000 +0000" channel="FXXP.HD.us">
+    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
+    <desc lang="en">HairClub is the leader in hair loss and hair health solutions for men &amp; women. Guiding clients through their hair loss journey for over 40 years! It starts with a complementary, personalized hair health analysis and consultation. Let's Talk.</desc>
   </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Sweetwater</title>
-    <sub-title lang="en">Touring the TVA</sub-title>
-    <desc lang="en">Joey takes a trip up to Miles' neck of the woods, and the two pick apart the legendary Nickajack and Chickamauga Lakes.</desc>
+  <programme start="20220623060000 +0000" stop="20220623063000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Hair Regrowth Secrets</title>
+    <desc lang="en">With the help of powerful amino acids, Xcellerate35 promotes hair development by strengthening the follicle and shaft for increased volume, density, and length.</desc>
   </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Facts of Fishing</title>
-    <sub-title lang="en">Top Tactics II</sub-title>
-    <desc lang="en">It's all about top tactics at Facts of Fishing, how Dave caught them this year and what made them munch.</desc>
+  <programme start="20220623063000 +0000" stop="20220623070000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Car Repair Secrets!</title>
+    <desc lang="en">Thinking of Investing? Find out how investing in your car could save you thousands!</desc>
   </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Fishing With Roland Martin</title>
-    <sub-title lang="en">Potomac River Largemouth</sub-title>
-    <desc lang="en">Roland and Ken Penrod cast buzzbaits, crankbaits, worms and frogs for scrappy 2-4 lb largemouth bass and catch a couple snakeheads as a bonus. Roland uses a light weight Jon boat and an electric motor to fish a couple miles of Everglades canals.</desc>
+  <programme start="20220623070000 +0000" stop="20220623090000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Darkest Minds</title>
+    <desc lang="en">When teens mysteriously develop powerful new abilities, they are declared a threat by the government and detained. Betrayed by the adults in power, they must use their collective powers to wage a resistance and take back their future.</desc>
+    <date>2018</date>
   </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="World.Fishing.Network.us">
-    <title lang="en">Fishing University</title>
-    <sub-title lang="en">Wheeler Lake, Rogersville, AL featuring SPRO Lures</sub-title>
-    <desc lang="en">Charlie and Ray welcome Shin Fukae, Japanese and FLW Tour Pro, and his wife, Miyu Fukae, as they seek huge Wheeler Lake bass in Alabama.</desc>
+  <programme start="20220623090000 +0000" stop="20220623110000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The House With a Clock in Its Walls</title>
+    <desc lang="en">Ten-year-old Lewis goes to live with his uncle in a creaky old house that contains a mysterious ticktock noise. When Lewis accidentally awakens the dead, the town's sleepy facade magically springs to life with a secret world of witches and warlocks.</desc>
+    <date>2018</date>
+  </programme>
+  <programme start="20220623110000 +0000" stop="20220623113000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Futurama</title>
+    <sub-title lang="en">Bender Should Not Be Allowed on Television</sub-title>
+    <desc lang="en">A new group, Fathers Against Rude Television (or F.A.R.T.), protests Bender's character on the soap opera ``All My Circuits.``.</desc>
+  </programme>
+  <programme start="20220623113000 +0000" stop="20220623120000 +0000" channel="FXXP.HD.us">
+    <title lang="en">Futurama</title>
+    <sub-title lang="en">Jurassic Bark</sub-title>
+    <desc lang="en">Fry spots his petrified dog, Seymour, among the artifacts in an exhibit at the Museum of Natural History; Bender perceives Seymour as a threat to his friendship with Fry and gets his own robo-puppy.</desc>
+  </programme>
+  <programme start="20220623120000 +0000" stop="20220623123000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Cleveland Show</title>
+    <sub-title lang="en">Terry Unmarried</sub-title>
+    <desc lang="en">When Cleveland discovers that he and his wife are not married and that his best friend, Terry, is gay and in a relationship, they all decide to go to Vermont for a double wedding; Cleveland Jr. tries to get Rallo to break a nasty habit.</desc>
+  </programme>
+  <programme start="20220623123000 +0000" stop="20220623130000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Cleveland Show</title>
+    <sub-title lang="en">The Blue, the Gray and the Brown</sub-title>
+    <desc lang="en">When Cleveland's efforts to save the town's drive-in movie theater are noticed by the Stoolbend Preservation Society, he is invited to a private dinner where he learns about the town's legacy.</desc>
+  </programme>
+  <programme start="20220623130000 +0000" stop="20220623133000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Cleveland Show</title>
+    <sub-title lang="en">The Way the Cookie Crumbles</sub-title>
+    <desc lang="en">Cleveland discovers his parents have been selling his belongings because they lost their life savings to a scam artist; Rallo gets a toy microphone.</desc>
+  </programme>
+  <programme start="20220623133000 +0000" stop="20220623140000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Cleveland Show</title>
+    <sub-title lang="en">To Live and Die in Va</sub-title>
+    <desc lang="en">Lester appears to take his own life after losing his life savings; Rallo opens his own barbershop.</desc>
+  </programme>
+  <programme start="20220623140000 +0000" stop="20220623143000 +0000" channel="FXXP.HD.us">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Queasy Rider</sub-title>
+    <desc lang="en">Bikers (guest stars Jennifer Aniston and David Herman) urge Hank and Peggy to attend a week-long motorcycle rally. Jamie Kennedy also guest stars.</desc>
+  </programme>
+  <programme start="20220623143000 +0000" stop="20220623150000 +0000" channel="FXXP.HD.us">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Board Games</sub-title>
+    <desc lang="en">Peggy opposes Minh's run for the school board; Bobby and Connie find themselves taking sides in the dispute.</desc>
+  </programme>
+  <programme start="20220623150000 +0000" stop="20220623153000 +0000" channel="FXXP.HD.us">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">An Officer and a Gentle Boy</sub-title>
+    <desc lang="en">Hank sends Bobby to a military academy, where Cotton tries to break the boy's spirit.</desc>
+  </programme>
+  <programme start="20220623153000 +0000" stop="20220623160000 +0000" channel="FXXP.HD.us">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">The Miseducation of Bobby Hill</sub-title>
+    <desc lang="en">Hank introduces Bobby to the world of propane and propane accessories; Bill straps weather balloons to a chair in an attempt to fly.</desc>
+  </programme>
+  <programme start="20220623160000 +0000" stop="20220623163000 +0000" channel="FXXP.HD.us">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">The Good Buck</sub-title>
+    <desc lang="en">Buck turns to Luanne for Bible tutoring after his past catches up with him and his wife asks for a divorce.</desc>
+  </programme>
+  <programme start="20220623163000 +0000" stop="20220623170000 +0000" channel="FXXP.HD.us">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">I Never Promised You an Organic Garden</sub-title>
+    <desc lang="en">Peggy secretly uses pesticides in the school's organic garden.</desc>
+  </programme>
+  <programme start="20220623170000 +0000" stop="20220623173000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Saddlesore Galactica</sub-title>
+    <desc lang="en">Bart and Homer discover that horse racing is a treacherous business after they rescue a horse from the state fair.</desc>
+  </programme>
+  <programme start="20220623173000 +0000" stop="20220623180000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Alone Again, Natura-Diddily</sub-title>
+    <desc lang="en">When someone passes away, the Simpsons console a grieving friend.</desc>
+  </programme>
+  <programme start="20220623180000 +0000" stop="20220623183000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Missionary: Impossible</sub-title>
+    <desc lang="en">Homer is forced to become a missionary on a remote island after he pledges a large sum of money to PBS.</desc>
+  </programme>
+  <programme start="20220623183000 +0000" stop="20220620230000 +0000" channel="FXXP.HD.us">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Pygmoelian</sub-title>
+    <desc lang="en">Plastic surgery transforms Moe into a ladies' man.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="World.Fishing.Network.us">
     <title lang="en">Lake Commandos</title>
@@ -6127,67 +5678,130 @@
     <sub-title lang="en">Brown Rockets</sub-title>
     <desc lang="en">Jimmy is catching smallmouth bass in NY with Boyd Walker.</desc>
   </programme>
-  <programme start="20220622220000 +0000" stop="20220620230000 +0000" channel="World.Fishing.Network.us">
+  <programme start="20220622220000 +0000" stop="20220622223000 +0000" channel="World.Fishing.Network.us">
     <title lang="en">The Next Bite</title>
     <sub-title lang="en">Winter Musky Techniques: Truly for the Hardcore Angler!</sub-title>
     <desc lang="en">John Hoyer toughs out a winter musky bite; cold water muskies are the best.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="Baby.TV.us">
-    <title lang="en">Baby TV's Night Time Melodies</title>
-    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music.</desc>
+  <programme start="20220622223000 +0000" stop="20220622230000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Ultimate Catch</title>
+    <sub-title lang="en">Fishin Steinhatchee</sub-title>
+    <desc lang="en">Captain Eric Ciocher with guest Captain Mike Farmer head out on the Gulf of Mexico to catch trout and reds.</desc>
   </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="Baby.TV.us">
-    <title lang="en">Sweet Dreams</title>
-    <desc lang="en">Relaxing songs and stories accompanied by soft calming music.</desc>
+  <programme start="20220622230000 +0000" stop="20220622233000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">National Walleye Tour</title>
+    <sub-title lang="en">NWT Championship - Ottertail Lake, Minnesota - Part 1</sub-title>
+    <desc lang="en">National Walleye Tour heads to Ottertail Lake, Minnesota with 40 of the top pro anglers and 40 of the top co-anglers to kick-off the 2021 championship event.</desc>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="Baby.TV.us">
-    <title lang="en">Good Night Hugs</title>
-    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music.</desc>
+  <programme start="20220622233000 +0000" stop="20220623000000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Bass Pro Shops Fisherman's Handbook</title>
+    <sub-title lang="en">Fine Tuning Your Fishing Electronics</sub-title>
+    <desc lang="en">Great insight from the top technicians at Garmin about how to get the most out of electronics when it comes to mounting them on a boat and using them on the water.</desc>
   </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="Baby.TV.us">
-    <title lang="en">Dreamy Nights</title>
-    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
+  <programme start="20220623000000 +0000" stop="20220623003000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Guide's Tails</title>
+    <sub-title lang="en">Panama Blast</sub-title>
+    <desc lang="en">Capt. Ed Zyak and Capt. Jamie Wilkinson explore the open waters of the Emerald Coast.</desc>
   </programme>
-  <programme start="20220621020000 +0000" stop="20220621023000 +0000" channel="Baby.TV.us">
-    <title lang="en">Moon and Stars</title>
-    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for nighttime programming.</desc>
+  <programme start="20220623003000 +0000" stop="20220623010000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Adventure Guides Fishing</title>
+    <sub-title lang="en">Return to the River</sub-title>
+    <desc lang="en">John Dietsch goes back to the Bitterroot River at Triple Creek Ranch in Montana.</desc>
   </programme>
-  <programme start="20220621023000 +0000" stop="20220621030000 +0000" channel="Baby.TV.us">
-    <title lang="en">Soothing Sounds</title>
+  <programme start="20220623010000 +0000" stop="20220623013000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Bill Dance Outdoors</title>
+    <sub-title lang="en">A Different Way to Get There</sub-title>
+    <desc lang="en">There's always another way, no matter what the topic is; Bill covers multiple tips and tricks to landing huge largemouth bass.</desc>
   </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="Baby.TV.us">
-    <title lang="en">From Night to Day</title>
-    <desc lang="en">Relaxing songs and stories.</desc>
+  <programme start="20220623013000 +0000" stop="20220623020000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Jimmy Houston Outdoors</title>
+    <sub-title lang="en">Brown Rockets</sub-title>
+    <desc lang="en">Jimmy is catching smallmouth bass in NY with Boyd Walker.</desc>
   </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="Baby.TV.us">
-    <title lang="en">From Night to Day</title>
-    <desc lang="en">Relaxing songs and stories accompanied by soft calming music and images.</desc>
+  <programme start="20220623020000 +0000" stop="20220623023000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">The Next Bite</title>
+    <sub-title lang="en">Winter Musky Techniques: Truly for the Hardcore Angler!</sub-title>
+    <desc lang="en">John Hoyer toughs out a winter musky bite; cold water muskies are the best.</desc>
   </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="Baby.TV.us">
-    <title lang="en">Rise &amp; Shine with BabyTV Friends</title>
+  <programme start="20220623023000 +0000" stop="20220623030000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Ultimate Catch</title>
+    <sub-title lang="en">Fishin Steinhatchee</sub-title>
+    <desc lang="en">Captain Eric Ciocher with guest Captain Mike Farmer head out on the Gulf of Mexico to catch trout and reds.</desc>
   </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="Baby.TV.us">
-    <title lang="en">Rise &amp; Shine with BabyTV Friends</title>
+  <programme start="20220623030000 +0000" stop="20220623033000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">The Obsession of Carter Andrews</title>
+    <sub-title lang="en">Robinson Crusoe Pt. 3</sub-title>
+    <desc lang="en">The quest at Robinson Crusoe continues as our host Rudy Aravena puts the guys on a wide open yellowtail bite while an encounter with an interesting fellow on the island gets Carter dreaming of treasure.</desc>
   </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="Baby.TV.us">
-    <title lang="en">Good-Morning Stretch</title>
+  <programme start="20220623033000 +0000" stop="20220623040000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Livin' the Dream With Captain Jimmy Nelson</title>
+    <sub-title lang="en">Private Island Escape</sub-title>
+    <desc lang="en">Capt. Jimmy and Luiza are living in luxury this week in Middle Cay, Bahamas to do some lobstering and end the day fishing inshore.</desc>
   </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="Baby.TV.us">
-    <title lang="en">Good-Morning Stretch</title>
+  <programme start="20220623040000 +0000" stop="20220623043000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Bill Dance Saltwater</title>
+    <sub-title lang="en">Three Really Good Friends Having Fun, Part One</sub-title>
+    <desc lang="en">Bill Dance and his friends Bob Bagby and Capt. Peter Deeks catch big snook and trout on the Indian River.</desc>
   </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="Baby.TV.us">
-    <title lang="en">Start your day with BabyTV's Friends</title>
+  <programme start="20220623043000 +0000" stop="20220623050000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">The Seahunter</title>
+    <sub-title lang="en">Whatever Bites</sub-title>
+    <desc lang="en">Rob Fordyce and Peter Lopez ride out to the surrounding waters off The Florida Keys to try their luck with offshore and nearshore bites.</desc>
   </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="Baby.TV.us">
-    <title lang="en">Flip and Flash and other stories</title>
+  <programme start="20220623050000 +0000" stop="20220623053000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">BigWater Adventures</title>
+    <sub-title lang="en">Bayou Bulls in Venice, Louisiana</sub-title>
+    <desc lang="en">Venice, Louisiana is known for its year-round fishery. The bull redfish bite is always on with Captain David Iverson.</desc>
   </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="Baby.TV.us">
-    <title lang="en">Teeny and Tiny's Classroom</title>
-    <desc lang="en">Come sing along with Teeny and Tiny as they hum a tune, solve riddles, and play guessing games.</desc>
+  <programme start="20220623053000 +0000" stop="20220623060000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Into the Blue</title>
+    <sub-title lang="en">Key West Gulf</sub-title>
+    <desc lang="en">Capt. Steve Rodger and Capt. Scott Walker head to the gulf where they must be ready for birds and predators.</desc>
   </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="Baby.TV.us">
-    <title lang="en">Art, Activity &amp; Music Time</title>
-    <desc lang="en">Cuddlies,Songs &amp; Rhymes,In the Animal World,Lale Ki Lolu,Charlie &amp; the Shapes,Little Lola Visits the City,Gee-Raffa.</desc>
+  <programme start="20220623060000 +0000" stop="20220623063000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Sweetwater</title>
+    <sub-title lang="en">The Sweetwater Challenge</sub-title>
+    <desc lang="en">Miles and Joey hit the Kissimmee Chain in central Florida for a friendly competition day on the water. Biggest bass, heaviest limit, and most catches! Who will win?</desc>
+  </programme>
+  <programme start="20220623063000 +0000" stop="20220623070000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Facts of Fishing</title>
+    <sub-title lang="en">The Salmon Slayer</sub-title>
+    <desc lang="en">If you've seen the show before you know how much Dave likes doing his voices, well today is no different. Add in an excessively hot tweed hat and some questionable family history and we get Dave the Irish Salmon Slayer.</desc>
+  </programme>
+  <programme start="20220623070000 +0000" stop="20220623073000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Fishing With Roland Martin</title>
+    <sub-title lang="en">Lake Okeechobee Bluegills</sub-title>
+    <desc lang="en">Roland and Steve catch over 100 bluegills on beetle spins from the shallow beds on Lake Okeechobee. A few bass were caught in between.</desc>
+  </programme>
+  <programme start="20220623073000 +0000" stop="20220623080000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Fishing University</title>
+    <sub-title lang="en">Lake Amistad, Del Rio, TX featuring Raymarine</sub-title>
+    <desc lang="en">Charlie and Ray welcome Gary Childress and Mike Rickey as they demonstrate their newest Honda Marine offerings on Lake Amistad, Texas.</desc>
+  </programme>
+  <programme start="20220623080000 +0000" stop="20220623083000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Lake Commandos</title>
+    <sub-title lang="en">Brutal Cold--Giant Bass</sub-title>
+    <desc lang="en">Tournament angler Brett Seide and Steve Pennaz hit a larger natural lake during a wicked fall cold front to see who can put the most bass in the boat.</desc>
+  </programme>
+  <programme start="20220623083000 +0000" stop="20220623090000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Zona's Awesome Fishing Show</title>
+    <sub-title lang="en">Keith Combs - Texas</sub-title>
+    <desc lang="en">Like Zona's Awesome Fishing Show, fishing is unpredictable. Mark Zona fishes with the best anglers on the planet to catch anything wearing fins.</desc>
+  </programme>
+  <programme start="20220623090000 +0000" stop="20220623093000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">The Obsession of Carter Andrews</title>
+    <sub-title lang="en">Robinson Crusoe Pt. 3</sub-title>
+    <desc lang="en">The quest at Robinson Crusoe continues as our host Rudy Aravena puts the guys on a wide open yellowtail bite while an encounter with an interesting fellow on the island gets Carter dreaming of treasure.</desc>
+  </programme>
+  <programme start="20220623093000 +0000" stop="20220621160000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Livin' the Dream With Captain Jimmy Nelson</title>
+    <sub-title lang="en">Private Island Escape</sub-title>
+    <desc lang="en">Capt. Jimmy and Luiza are living in luxury this week in Middle Cay, Bahamas to do some lobstering and end the day fishing inshore.</desc>
+  </programme>
+  <programme start="20220621160000 +0000" stop="20220620230000 +0000" channel="World.Fishing.Network.us">
+    <title lang="en">Training Up the Next Generation</title>
+    <sub-title lang="en">Best of 2021 with Trey McKinney</sub-title>
+    <desc lang="en">Trey shares some valuable tips he has learned from Greg Vinson, Alex Davis, Sam George, Keith Poche and Scott Canterbury.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="Baby.TV.us">
     <title lang="en">Magical First Discoveries</title>
@@ -6430,69 +6044,129 @@
   <programme start="20220622170000 +0000" stop="20220622173000 +0000" channel="Baby.TV.us">
     <title lang="en">Family Fun Time &amp; Rhymes</title>
   </programme>
-  <programme start="20220622173000 +0000" stop="20220620230000 +0000" channel="Baby.TV.us">
+  <programme start="20220622173000 +0000" stop="20220622180000 +0000" channel="Baby.TV.us">
     <title lang="en">Family Fun Time &amp; Rhymes</title>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621010000 +0000" channel="Vice.us">
-    <title lang="en">How to Rob a Bank</title>
-    <sub-title lang="en">$17 Million and Change</sub-title>
-    <desc lang="en">Stuck in a dead-end job, David Ghantt decides to take destiny into his own hands and commits the second largest bank heist in US history, stealing over $17 million.</desc>
+  <programme start="20220622180000 +0000" stop="20220622183000 +0000" channel="Baby.TV.us">
+    <title lang="en">Art, Creativity &amp; Music with BabyTV</title>
+    <desc lang="en">Maya &amp; Yaya,Songs &amp; Rhymes,In the Toy World,Let's Dance,Dancing at the Park,Songs &amp; Rhymes,Songs &amp; Rhymes,Stitches,Nico &amp; Bianca,Songs &amp; Rhymes,Songs &amp; Rhymes.</desc>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621020000 +0000" channel="Vice.us">
-    <title lang="en">How to Rob a Bank</title>
-    <sub-title lang="en">$7 Million by Air</sub-title>
-    <desc lang="en">For Cuban exile Karls Monzon and his crew, stealing $7 million from Miami Airport is the easy part, keeping it proves far harder, as the gang spirals out of control.</desc>
+  <programme start="20220622183000 +0000" stop="20220622190000 +0000" channel="Baby.TV.us">
+    <title lang="en">Classical Music &amp; Soothing Stories</title>
   </programme>
-  <programme start="20220621020000 +0000" stop="20220621030000 +0000" channel="Vice.us">
-    <title lang="en">How to Rob a Bank</title>
-    <sub-title lang="en">70k Lost in a Day</sub-title>
-    <desc lang="en">Bank manager Louis Early Jr reunites with his long-lost father, a career criminal, and he becomes the inside man in a series of daring family-run heists.</desc>
+  <programme start="20220622190000 +0000" stop="20220622193000 +0000" channel="Baby.TV.us">
+    <title lang="en">Relax and Unwind</title>
+    <desc lang="en">Programming for infants and toddlers, designed for learning and fun.</desc>
   </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="Vice.us">
-    <title lang="en">Home Title Theft is Real! Home Title Lock Protects Your Title 24/7</title>
-    <desc lang="en">When a criminal fraudulently transfers your home title to a fake identity and steals your title, no one will notify you. Not your county, not the police, not even your bank. Home Title Lock protects your title 24/7 from this this fast-growing crime.</desc>
+  <programme start="20220622193000 +0000" stop="20220622200000 +0000" channel="Baby.TV.us">
+    <title lang="en">Relax and Unwind</title>
   </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="Vice.us">
-    <title lang="en">Hair Regrowth Secrets</title>
-    <desc lang="en">With the help of powerful amino acids, Xcellerate35 promotes hair development by strengthening the follicle and shaft for increased volume, density, and length.</desc>
+  <programme start="20220622200000 +0000" stop="20220622203000 +0000" channel="Baby.TV.us">
+    <title lang="en">Sweet Dreams</title>
+    <desc lang="en">Relaxing songs and stories accompanied by soft calming music.</desc>
   </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="Vice.us">
-    <title lang="en">Larry King's Prostate Report - Secrets To Prostate Health Revealed</title>
-    <desc lang="en">Larry King Investigates Prostate Supplements to determine which products work and which ones don't work and why. A must watch for all men over 45.</desc>
+  <programme start="20220622203000 +0000" stop="20220622210000 +0000" channel="Baby.TV.us">
+    <title lang="en">Sweet Dreams</title>
+    <desc lang="en">Relaxing songs and stories accompanied by soft calming music.</desc>
   </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="Vice.us">
-    <title lang="en">Shark Stratos - Shark's most advanced, innovative upright vacuum</title>
-    <desc lang="en">Shark's most advanced, innovative upright vacuum. Includes Odor Neutralizer Technology, DuoClean PowerFins HairPro &amp; self-cleaning brushroll. Take on all floor types in your home - with no hair wrap!</desc>
+  <programme start="20220622210000 +0000" stop="20220622213000 +0000" channel="Baby.TV.us">
+    <title lang="en">Dreamy Nights</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
   </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="Vice.us">
-    <title lang="en">That's Delicious</title>
-    <sub-title lang="en">The Wild Flavors of London</sub-title>
-    <desc lang="en">Action Bronson, Meyhem Lauren, and The Alchemist get right to the point of London food with Turkish kebabs, noveaux Indian, pubs, and some Nigerian with a side of friendship.</desc>
+  <programme start="20220622213000 +0000" stop="20220622220000 +0000" channel="Baby.TV.us">
+    <title lang="en">Dreamy Nights</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
   </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="Vice.us">
-    <title lang="en">That's Delicious</title>
-    <sub-title lang="en">Back to Paris</sub-title>
-    <desc lang="en">Action and crew take Paris by storm, eating and drinking at all the new instant classics such as French breakfast with an Asian twist, yakitori tasting menus, and boozey bistrot lunches.</desc>
+  <programme start="20220622220000 +0000" stop="20220622223000 +0000" channel="Baby.TV.us">
+    <title lang="en">Dreamy Nights</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music.</desc>
   </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="Vice.us">
-    <title lang="en">That's Delicious</title>
-    <sub-title lang="en">Irish Tacos and Jerk Lamb</sub-title>
-    <desc lang="en">All the best Mexican, Jamaican, and cheese expected from a food show in Dublin.</desc>
+  <programme start="20220622223000 +0000" stop="20220622230000 +0000" channel="Baby.TV.us">
+    <title lang="en">Dreamy Nights</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
   </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="Vice.us">
-    <title lang="en">That's Delicious</title>
-    <sub-title lang="en">A Spanish Wine Tour</sub-title>
-    <desc lang="en">Action sends Meyhem and The Alchemist on the wine journey of a lifetime around Spain.</desc>
+  <programme start="20220622230000 +0000" stop="20220622233000 +0000" channel="Baby.TV.us">
+    <title lang="en">Dreamy Nights</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
   </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="Vice.us">
-    <title lang="en">That's Delicious</title>
-    <sub-title lang="en">America's Food Capital</sub-title>
-    <desc lang="en">Hoagies; pizza; many flavors from Israel; block party -- the Philly, FTD style.</desc>
+  <programme start="20220622233000 +0000" stop="20220623000000 +0000" channel="Baby.TV.us">
+    <title lang="en">Moon and Stars</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for nighttime programming.</desc>
   </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="Vice.us">
-    <title lang="en">That's Delicious</title>
-    <sub-title lang="en">Two for One's in NYC</sub-title>
-    <desc lang="en">Action and the gang suggest two places in three of their favorite neighborhoods in New York City; pizza and vegan Jamaican, wine and tacos, and a Peking duck.</desc>
+  <programme start="20220623000000 +0000" stop="20220623003000 +0000" channel="Baby.TV.us">
+    <title lang="en">Baby TV's Night Time Melodies</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music.</desc>
+  </programme>
+  <programme start="20220623003000 +0000" stop="20220623010000 +0000" channel="Baby.TV.us">
+    <title lang="en">Sweet Dreams</title>
+    <desc lang="en">Relaxing songs and stories accompanied by soft calming music.</desc>
+  </programme>
+  <programme start="20220623010000 +0000" stop="20220623013000 +0000" channel="Baby.TV.us">
+    <title lang="en">Good Night Hugs</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
+  </programme>
+  <programme start="20220623013000 +0000" stop="20220623020000 +0000" channel="Baby.TV.us">
+    <title lang="en">Dreamy Nights</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for night time programming.</desc>
+  </programme>
+  <programme start="20220623020000 +0000" stop="20220623023000 +0000" channel="Baby.TV.us">
+    <title lang="en">Moon and Stars</title>
+    <desc lang="en">Calming visuals of abstract objects and nature, accompanied by soothing music for nighttime programming.</desc>
+  </programme>
+  <programme start="20220623023000 +0000" stop="20220623030000 +0000" channel="Baby.TV.us">
+    <title lang="en">Soothing Sounds</title>
+  </programme>
+  <programme start="20220623030000 +0000" stop="20220623033000 +0000" channel="Baby.TV.us">
+    <title lang="en">From Night to Day</title>
+    <desc lang="en">Relaxing songs and stories.</desc>
+  </programme>
+  <programme start="20220623033000 +0000" stop="20220623040000 +0000" channel="Baby.TV.us">
+    <title lang="en">From Night to Day</title>
+    <desc lang="en">Relaxing songs and stories accompanied by soft calming music and images.</desc>
+  </programme>
+  <programme start="20220623040000 +0000" stop="20220623043000 +0000" channel="Baby.TV.us">
+    <title lang="en">Rise &amp; Shine with BabyTV Friends</title>
+    <desc lang="en">Charlie &amp; the Alphabet,Songs &amp; Rhymes,Mini Matinee,Beep Beep,Dino &amp; the Egg Hunt,The Post Train.</desc>
+  </programme>
+  <programme start="20220623043000 +0000" stop="20220623050000 +0000" channel="Baby.TV.us">
+    <title lang="en">Rise &amp; Shine with BabyTV Friends</title>
+  </programme>
+  <programme start="20220623050000 +0000" stop="20220623053000 +0000" channel="Baby.TV.us">
+    <title lang="en">Good Morning Stretch</title>
+    <desc lang="en">Designed for infants and toddlers to learn while having fun.</desc>
+  </programme>
+  <programme start="20220623053000 +0000" stop="20220623060000 +0000" channel="Baby.TV.us">
+    <title lang="en">Good-Morning Stretch</title>
+  </programme>
+  <programme start="20220623060000 +0000" stop="20220623063000 +0000" channel="Baby.TV.us">
+    <title lang="en">Start your day with BabyTV's Friends</title>
+  </programme>
+  <programme start="20220623063000 +0000" stop="20220623070000 +0000" channel="Baby.TV.us">
+    <title lang="en">Flip and Flash and other stories</title>
+  </programme>
+  <programme start="20220623070000 +0000" stop="20220623073000 +0000" channel="Baby.TV.us">
+    <title lang="en">Teeny &amp; Tiny's Classroom</title>
+  </programme>
+  <programme start="20220623073000 +0000" stop="20220623080000 +0000" channel="Baby.TV.us">
+    <title lang="en">Art, Activity &amp; Music Time</title>
+    <desc lang="en">Cuddlies,Songs &amp; Rhymes,In the Animal World,Lale Ki Lolu,Charlie &amp; the Shapes,Little Lola Visits the City,Gee-Raffa.</desc>
+  </programme>
+  <programme start="20220623080000 +0000" stop="20220623083000 +0000" channel="Baby.TV.us">
+    <title lang="en">Magical First Discoveries</title>
+    <desc lang="en">Infants and toddlers have fun while learning.</desc>
+  </programme>
+  <programme start="20220623083000 +0000" stop="20220623090000 +0000" channel="Baby.TV.us">
+    <title lang="en">Imagination Playground</title>
+    <desc lang="en">Programming for infants and toddlers, designed for learning and fun.</desc>
+  </programme>
+  <programme start="20220623090000 +0000" stop="20220623093000 +0000" channel="Baby.TV.us">
+    <title lang="en">Exploring with Songs &amp; Rhymes</title>
+  </programme>
+  <programme start="20220623093000 +0000" stop="20220621160000 +0000" channel="Baby.TV.us">
+    <title lang="en">Flip and Flash and other stories</title>
+  </programme>
+  <programme start="20220621160000 +0000" stop="20220620230000 +0000" channel="Baby.TV.us">
+    <title lang="en">Play &amp; Learn with Oliver</title>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621090000 +0000" channel="Vice.us">
     <title lang="en">Top Gear</title>
@@ -6832,82 +6506,6 @@
     <sub-title lang="en">United States of Oil and Gas</sub-title>
     <desc lang="en">Jamali investigates the oil and gas industry in Oklahoma, spending time with Native American activists standing up against Big Oil and the oilmen happy to keep the status quo.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Tia Mowry's Quick Fix</title>
-    <sub-title lang="en">My Wedding Story and Marriage Q&amp;A</sub-title>
-    <desc lang="en">Do you hear church bells? Join Tia as shares the story of her magical wedding, then does a marriage Q&amp;A featuring a special guest - her husband Cory!</desc>
-  </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="Cleo.TV.us">
-    <title lang="en">All Things Adrienne With Adrienne Houghton</title>
-    <sub-title lang="en">Never Have I</sub-title>
-    <desc lang="en">Adrienne's spilling it all in this classic game of Never Have I Ever.</desc>
-  </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
-  </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Relieve your foot pain with WalkFit!</title>
-    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
-  </programme>
-  <programme start="20220621020000 +0000" stop="20220621023000 +0000" channel="Cleo.TV.us">
-    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
-    <desc lang="en">HairClub is the leader in hair loss and hair health solutions for men &amp; women. Guiding clients through their hair loss journey for over 40 years! It starts with a complementary, personalized hair health analysis and consultation. Let's Talk.</desc>
-  </programme>
-  <programme start="20220621023000 +0000" stop="20220621030000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Relief from Inflammation</title>
-    <desc lang="en">Connie Craig-Carrol &amp; Founder Ken Meares investigates Omega XL, the ultimate all-natural solution for joint pain from inflammation.</desc>
-  </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Eve</title>
-    <sub-title lang="en">The Lyin', the Witch and the Wardrobe</sub-title>
-    <desc lang="en">Unable to fit into her own dress, Shelly decides to wear a customer's dress to the Black and White Ball with Jalen, only to be caught by the client.</desc>
-  </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Eve</title>
-    <sub-title lang="en">The Price of Friendship</sub-title>
-    <desc lang="en">Shelly and Janie argue over lottery winnings, putting their longstanding friendship at risk.</desc>
-  </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="Cleo.TV.us">
-    <title lang="en">One on One</title>
-    <sub-title lang="en">Waiting for Huffman</sub-title>
-    <desc lang="en">Breanna is ecstatic about being hired to assist a famous talk-show host until she discovers the real reason she got the job.</desc>
-  </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="Cleo.TV.us">
-    <title lang="en">One on One</title>
-    <sub-title lang="en">It's Beginning to Look a Lot Like ... Venice</sub-title>
-    <desc lang="en">Breanna and Arnaz try to get their roommates into the holiday spirit.</desc>
-  </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="Cleo.TV.us">
-    <title lang="en">One on One</title>
-    <sub-title lang="en">Missing Daddy Express</sub-title>
-    <desc lang="en">When Breanna's grades start to slide, Flex visits her to discuss her priorities.</desc>
-  </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="Cleo.TV.us">
-    <title lang="en">One on One</title>
-    <sub-title lang="en">Fame and the Older Woman</sub-title>
-    <desc lang="en">D-Mack falls for his French tutor and obsesses when he thinks she is seeing another man.</desc>
-  </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Girlfriends</title>
-    <sub-title lang="en">Howdy Partner</sub-title>
-    <desc lang="en">Joan and William compete for the senior partner position; Toni is asked to take an HIV test.</desc>
-  </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Girlfriends</title>
-    <sub-title lang="en">Happy Valentine's Day, Baby?</sub-title>
-    <desc lang="en">Ellis sends Joan on a scavenger hunt for Valentine's Day; Toni questions Todd's intentions. Kevin Eubanks guest stars.</desc>
-  </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Girlfriends</title>
-    <sub-title lang="en">Sex, Lies and Books</sub-title>
-    <desc lang="en">Maya goes on a blind date; Joan's book club comprises Bebe Moore Campbell, Jackie Collins, Suzanne de Passe and Marcia R. Clark.</desc>
-  </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="Cleo.TV.us">
-    <title lang="en">Girlfriends</title>
-    <sub-title lang="en">A Stiff Good Man Is Easy to Find</sub-title>
-    <desc lang="en">William mixes business with pleasure when he returns to his old firm as a consultant. Anne-Marie Johnson guest stars.</desc>
-  </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="Cleo.TV.us">
     <title lang="en">Love That Girl</title>
     <sub-title lang="en">Keep It in the Closet</sub-title>
@@ -7239,90 +6837,171 @@
     <sub-title lang="en">Dump Me? Dump You!</sub-title>
     <desc lang="en">Arnaz and Breanna's breakup becomes ugly when their roommates twist the facts and it becomes a fight over who dumped whom.</desc>
   </programme>
-  <programme start="20220622153000 +0000" stop="20220620230000 +0000" channel="Cleo.TV.us">
+  <programme start="20220622153000 +0000" stop="20220622160000 +0000" channel="Cleo.TV.us">
     <title lang="en">One on One</title>
     <sub-title lang="en">California Girl</sub-title>
     <desc lang="en">Arnaz decides to spend a weekend away with Rachel; Cash and D-Mack pose as innkeepers to lure two Australian women.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="VH1.west.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">Friends Like These</sub-title>
-    <desc lang="en">A friend (Charnele Brown) from Khadijah's (Queen Latifah) college days visits and takes advantage of her success. Arsenio Hall guest stars as himself.</desc>
+  <programme start="20220622160000 +0000" stop="20220622163000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">Runaway Bridesmaid</sub-title>
+    <desc lang="en">Joan is jealous of Toni's recent engagement, and she takes out her frustration on Ellis; Toni anticipates getting gifts from her friends.</desc>
   </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="VH1.west.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">Who's the Boss</sub-title>
-    <desc lang="en">Synclaire (Kim Coles) offers to run the magazine while Overton and Kyle (John Henton, T.C. Carson) nurse Khadijah (Queen Latifah) back to health.</desc>
+  <programme start="20220622163000 +0000" stop="20220622170000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">Single Mama Drama</sub-title>
+    <desc lang="en">The gang feels threatened by Maya's budding friendship with another single mother (guest star Terri J. Vaughn).</desc>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="VH1.west.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">Five Card Stud</sub-title>
-    <desc lang="en">After Regine (Kim Fields) dates Kyle's (T.C. Carson) boss (Bobby Hosea), he overhears the man maligning her reputation.</desc>
+  <programme start="20220622170000 +0000" stop="20220622173000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">The Pact</sub-title>
+    <desc lang="en">An old college friend (guest star Kimberly Elise) confides she contracted AIDS from Joan's ex-boyfriend.</desc>
   </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="VH1.west.us">
-    <title lang="en">Living Single</title>
-    <sub-title lang="en">Love Is a Many Splintered Thing</sub-title>
-    <desc lang="en">Khadijah (Queen Latifah) neglects her roommates when she becomes involved in a new romance. Guest star: Adam Lazarre-White. With Kim Fields.</desc>
+  <programme start="20220622173000 +0000" stop="20220622180000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">Where Everybody Knows My Name</sub-title>
+    <desc lang="en">Maya goes out celebrating with her girlfriends and runs into her ex-husband, Darnell, and his new female friend.</desc>
   </programme>
-  <programme start="20220621020000 +0000" stop="20220621023000 +0000" channel="VH1.west.us">
-    <title lang="en">The Wayans Bros.</title>
-    <sub-title lang="en">Getting It</sub-title>
-    <desc lang="en">After becoming desperately lonely men, Shawn and Marlon (Shawn and Marlon Wayans) head to a church bazaar in search of women. With John Witherspoon.</desc>
+  <programme start="20220622180000 +0000" stop="20220622183000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Decor Remixed</title>
+    <sub-title lang="en">Raina's Bedroom</sub-title>
+    <desc lang="en">Dominique and Dre transform Dre's sister Raina and her husband Jarrod's bedroom. After a terrifying experience left Raina unwilling to redesign the room herself, it's now up to Dominique and Dre to create a peaceful retreat where Raina and Jarrod...</desc>
   </programme>
-  <programme start="20220621023000 +0000" stop="20220621030000 +0000" channel="VH1.west.us">
-    <title lang="en">The Wayans Bros.</title>
-    <sub-title lang="en">Who's in Charge Here?</sub-title>
-    <desc lang="en">Shawn and Marlon (Shawn and Marlon Wayans) are forced to take over operations at the diner when Pops (John Witherspoon) succumbs to the flu.</desc>
+  <programme start="20220622183000 +0000" stop="20220622184500 +0000" channel="Cleo.TV.us">
+    <title lang="en">New Soul Kitchen Remix</title>
+    <sub-title lang="en">All About the Po' Boy</sub-title>
+    <desc lang="en">Chef Jernard lays out one of his classic New Orleans favorites. He makes both a Shrimp &amp; Oyster Po'Boy with creamy Remoulade Sauce and all the fixings.</desc>
   </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="VH1.west.us">
-    <title lang="en">The Wayans Bros.</title>
-    <sub-title lang="en">The Odd Couples</sub-title>
-    <desc lang="en">Marlon and Shawn grow tired of each other's bad habits, forcing them to seek out others to room with.</desc>
+  <programme start="20220622184500 +0000" stop="20220622190000 +0000" channel="Cleo.TV.us">
+    <title lang="en">New Soul Kitchen Remix</title>
+    <sub-title lang="en">Easy Fix Pasta</sub-title>
+    <desc lang="en">This episode is all about expanding your palate when it comes to pasta. Chef Jernard is taking a rigatoni pasta and topping with the flavors that are found in a Gyro. It's Gyro Rigatoni with Taziki Sauce.</desc>
   </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="VH1.west.us">
-    <title lang="en">The Wayans Bros.</title>
-    <sub-title lang="en">Hearts and Flowers</sub-title>
-    <desc lang="en">Shawn is left dateless on Valentine's Day when Marlon steals his girlfriend; Dee mistakes Pops for her secret admirer.</desc>
+  <programme start="20220622190000 +0000" stop="20220622200000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Life Therapy</title>
+    <sub-title lang="en">Understanding My Race Card</sub-title>
+    <desc lang="en">Dawn Borden-Pressley, a mixed-race woman, says she feels stuck in the middle, between her white side and her Black side; A.J. helps Dawn forge a better relationship with her mother and husband and provides tools for dealing with her identity crisis.</desc>
   </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Beauty and the Beast</sub-title>
-    <desc lang="en">Martin (Martin Lawrence) tries to regain his pride after Gina (Tisha Campbell) blasts him for a recent broadcast.</desc>
+  <programme start="20220622200000 +0000" stop="20220622203000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Cooking for Real</title>
+    <sub-title lang="en">I Have An App For That</sub-title>
+    <desc lang="en">Shrimp in garlic pepperoni sauce; pizza bites; one bite smores.</desc>
   </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Gift Rapper</sub-title>
-    <desc lang="en">Martin and Gina's (Martin Lawrence, Tisha Campbell) difference of opinion regarding anniversaries becomes a topic for his radio show.</desc>
+  <programme start="20220622203000 +0000" stop="20220622210000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Cooking for Real</title>
+    <sub-title lang="en">Wonton Be Startin'</sub-title>
+    <desc lang="en">Easy shrimp pot stickers; pork fried dirty rice; quick veggie stir fry.</desc>
   </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Things I Do for Love</sub-title>
-    <desc lang="en">Tommy's (Tommy Ford) new relationship prompts Martin (Martin Lawrence) to plan a romantic evening with Gina (Tisha Campbell).</desc>
+  <programme start="20220622210000 +0000" stop="20220622213000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Eve</title>
+    <sub-title lang="en">Break Up to Make-Up</sub-title>
+    <desc lang="en">Rita threatens to leave the partnership when Shelly and Janie refuse to let her be the new face of DivaStyle.</desc>
   </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Boys Are Us</sub-title>
-    <desc lang="en">Martin (Martin Lawrence) fears his male callers won't respect him if they learn Gina (Tisha Campbell) makes more money.</desc>
+  <programme start="20220622213000 +0000" stop="20220622220000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Eve</title>
+    <sub-title lang="en">Model Behavior</sub-title>
+    <desc lang="en">Shelly and Janie learn their former partner will be modeling for their biggest competitor as they prepare to unveil their new clothing line.</desc>
   </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Dead Men Don't Flush</sub-title>
-    <desc lang="en">Martin faces an unexpected dilemma when a plumber (Michael Hagerty) apparently dies in his apartment.</desc>
+  <programme start="20220622220000 +0000" stop="20220622223000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Love That Girl</title>
+    <sub-title lang="en">Magic Del</sub-title>
+    <desc lang="en">Imunique convinces Delroy to be part of her bachelor auction; Jasmine joins Latrell's basketball team and becomes MVP.</desc>
   </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Forever Sheneneh</sub-title>
-    <desc lang="en">Martin (Martin Lawrence) fears for his job when Sheneneh (Martin Lawrence) wins a date with his celebrity guest (Christopher ``Kid'' Reid).</desc>
+  <programme start="20220622223000 +0000" stop="20220622230000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Love That Girl</title>
+    <sub-title lang="en">Happy Hold Up Day</sub-title>
+    <desc lang="en">The gang gets taken hostage on Christmas Eve.</desc>
   </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">I'm Not Your Superwoman</sub-title>
-    <desc lang="en">When Martin (Martin Lawrence) comes down with a cold, he expects Gina (Tisha Campbell) to drop everything to look after him.</desc>
+  <programme start="20220622230000 +0000" stop="20220622233000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Born Again Virgin</title>
+    <sub-title lang="en">Jenna's Double D's</sub-title>
+    <desc lang="en">Jenna is torn between Donovan and her new boyfriend; Kelly hangs out with Beverly for a night; Tara meet Enrique's daughter.</desc>
   </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="VH1.west.us">
-    <title lang="en">Martin</title>
-    <sub-title lang="en">Woman With a Past</sub-title>
-    <desc lang="en">Martin (Martin Lawrence) is jealous when he learns his in-studio guest (singer Keith Washington) is Gina's (Tisha Campbell) ex-boyfriend.</desc>
+  <programme start="20220622233000 +0000" stop="20220623000000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Born Again Virgin</title>
+    <sub-title lang="en">Call a Spade a Spade</sub-title>
+    <desc lang="en">Donovan needs a partner for his annual spades tournament; Kelly placates her sister and agrees to go on a blind date.</desc>
+  </programme>
+  <programme start="20220623000000 +0000" stop="20220623003000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Tia Mowry's Quick Fix</title>
+    <sub-title lang="en">Thanksgiving Collard Greens, Cornbread and Mac and Cheese</sub-title>
+    <desc lang="en">Hope you're hungry, because Tia is cooking up some family famous Thanksgiving sides today! First, she's making her collard greens and cornbread, then her family's favorite mac and cheese.</desc>
+  </programme>
+  <programme start="20220623003000 +0000" stop="20220623010000 +0000" channel="Cleo.TV.us">
+    <title lang="en">All Things Adrienne With Adrienne Houghton</title>
+    <sub-title lang="en">Glittery Holiday Makeup</sub-title>
+    <desc lang="en">Adrienne gets in the festive spirit with a glittery glam look that's perfect for any holiday occasion.</desc>
+  </programme>
+  <programme start="20220623010000 +0000" stop="20220623013000 +0000" channel="Cleo.TV.us">
+    <title lang="en">James Brown, Aretha Franklin, The Temptations</title>
+    <desc lang="en">The pioneers of soul sing their biggest and best hits from the golden age of soul music - the late '50s through the late '60s. These are the all-time classics by the true legends from this unforgettable era of soul!</desc>
+  </programme>
+  <programme start="20220623013000 +0000" stop="20220623020000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Relieve your foot pain with WalkFit!</title>
+    <desc lang="en">WalkFit® Platinum - A Customizable Orthotic to Relieve Your Body Pain at an Unbeatable Price. Over 25 million people have improved the quality of their lives!</desc>
+  </programme>
+  <programme start="20220623020000 +0000" stop="20220623023000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Alopecia Secrets</title>
+    <desc lang="en">Discover the science behind rapid hair growth for Alopecia and Male Pattern Baldness with ScalpMED.</desc>
+  </programme>
+  <programme start="20220623023000 +0000" stop="20220623030000 +0000" channel="Cleo.TV.us">
+    <title lang="en">KILL COVID-19 WITH CLEANBOSS!</title>
+    <desc lang="en">Bye Bye Bacteria! Farewell to Germs, COVID-19, Grease &amp; Grime in your home with CleanBoss! Wipe away the worst messes in your home and keep your children &amp; pets safe. Bad viruses, bacteria, fungus mold &amp; allergens don't stand a chance with CleanBoss!</desc>
+  </programme>
+  <programme start="20220623030000 +0000" stop="20220623033000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Eve</title>
+    <sub-title lang="en">Janie, Shut Up!</sub-title>
+    <desc lang="en">When Janie vents about her mother-in-law on a popular radio show, she ends up revealing more information than she intended.</desc>
+  </programme>
+  <programme start="20220623033000 +0000" stop="20220623040000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Eve</title>
+    <sub-title lang="en">Brit Better Have My Money</sub-title>
+    <desc lang="en">During an interview with a local news reporter, the women learn that the manufacturer of their new clothing line runs a sweat shop.</desc>
+  </programme>
+  <programme start="20220623040000 +0000" stop="20220623043000 +0000" channel="Cleo.TV.us">
+    <title lang="en">One on One</title>
+    <sub-title lang="en">Recipe for Disaster</sub-title>
+    <desc lang="en">Trying to prove that she is over Arnaz, Breanna introduces him to a girl at a party.</desc>
+  </programme>
+  <programme start="20220623043000 +0000" stop="20220623050000 +0000" channel="Cleo.TV.us">
+    <title lang="en">One on One</title>
+    <sub-title lang="en">The Reel World</sub-title>
+    <desc lang="en">Cash gets more than he bargained for when he tries to make a movie based on his roommates' lives.</desc>
+  </programme>
+  <programme start="20220623050000 +0000" stop="20220623053000 +0000" channel="Cleo.TV.us">
+    <title lang="en">One on One</title>
+    <sub-title lang="en">Double Trouble</sub-title>
+    <desc lang="en">Breanna changes her rules about bringing dates back to the house; Kevin and Darius arrive in L.A. for business.</desc>
+  </programme>
+  <programme start="20220623053000 +0000" stop="20220623060000 +0000" channel="Cleo.TV.us">
+    <title lang="en">One on One</title>
+    <sub-title lang="en">I Love L.A</sub-title>
+    <desc lang="en">Arnaz is jealous when Breanna uses a boyfriend test to determine whether to date Calvin, until D-Mack's sister (Brandy) returns from Paris.</desc>
+  </programme>
+  <programme start="20220623060000 +0000" stop="20220623063000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">Too Much Sharin'</sub-title>
+    <desc lang="en">When Joan discovers that William and her boss Sharon are secretly dating, she gets caught in the middle; Toni seeks advice for her wedding night.</desc>
+  </programme>
+  <programme start="20220623063000 +0000" stop="20220623070000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">The Wedding</sub-title>
+    <desc lang="en">Toni's plans for a glamorous wedding at a rented Malibu mansion prove to be too much for her girlfriends and fiance; Maya makes the moves on Toni's brother, Antoine (Russell Hornsby).</desc>
+  </programme>
+  <programme start="20220623070000 +0000" stop="20220623073000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">The Wedding</sub-title>
+    <desc lang="en">Toni's plans for a glamorous wedding at a rented Malibu mansion prove to be too much for her girlfriends and fiance; Maya makes the moves on Toni's brother, Antoine (Russell Hornsby).</desc>
+  </programme>
+  <programme start="20220623073000 +0000" stop="20220621160000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">Blood Is Thicker Than Liquor</sub-title>
+    <desc lang="en">Toni's mother (Jenifer Lewis) becomes tipsy when meeting Todd's family for the first time; Maya flirts with William's new friend, Evan.</desc>
+  </programme>
+  <programme start="20220621160000 +0000" stop="20220620230000 +0000" channel="Cleo.TV.us">
+    <title lang="en">Girlfriends</title>
+    <sub-title lang="en">Howdy Partner</sub-title>
+    <desc lang="en">Joan and William compete for the senior partner position; Toni is asked to take an HIV test.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="VH1.west.us">
     <title lang="en">The Fresh Prince of Bel-Air</title>
@@ -7689,87 +7368,140 @@
     <sub-title lang="en">Do the Fight Thing</sub-title>
     <desc lang="en">Martin (Martin Lawrence) is reluctant when Stan (Garrett Morris) encourages him to invite Gina (Tisha Campbell) back on his show.</desc>
   </programme>
-  <programme start="20220623043000 +0000" stop="20220620230000 +0000" channel="VH1.west.us">
+  <programme start="20220623043000 +0000" stop="20220623050000 +0000" channel="VH1.west.us">
     <title lang="en">Martin</title>
     <sub-title lang="en">I Saw Gina Kissing Santa Claus</sub-title>
     <desc lang="en">Martin (Martin Lawrence) reluctantly agrees to play Santa for Tommy's (Thomas Mikal Ford) Big Brothers program.</desc>
   </programme>
-  <programme start="20220621000000 +0000" stop="20220621003000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Fur Life TV</title>
-    <sub-title lang="en">Living the Fur Life</sub-title>
-    <desc lang="en">Host Bryan Flowers shares his secrets on living the Fur Life.</desc>
+  <programme start="20220623050000 +0000" stop="20220623053000 +0000" channel="VH1.west.us">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Break-Up</sub-title>
+    <desc lang="en">Martin (Martin Lawrence) becomes dramatically depressed when a minor quarrel with Gina (Tisha Campbell) escalates into a breakup. Richard Pryor guest stars.</desc>
   </programme>
-  <programme start="20220621003000 +0000" stop="20220621010000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Own the Season</title>
-    <sub-title lang="en">Lefty Finally Meets His Match</sub-title>
-    <desc lang="en">Art and an old whitetail nicknamed ``Lefty`` have a long history together; after many years, the chase comes to an end.</desc>
+  <programme start="20220623053000 +0000" stop="20220623060000 +0000" channel="VH1.west.us">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Break-Up</sub-title>
+    <desc lang="en">Tension grows when Gina (Tisha Campbell) dates Pam's (Tichina Arnold) cousin (David Alan Grier) and runs into Martin and his new girlfriend (Martin Lawrence, Lark Voorhies).</desc>
   </programme>
-  <programme start="20220621010000 +0000" stop="20220621013000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">The Gunfather</title>
-    <sub-title lang="en">Breathe Baby Breathe</sub-title>
-    <desc lang="en">The big gun shows up at the store, stressing Lou to the breaking point.</desc>
+  <programme start="20220623060000 +0000" stop="20220623063000 +0000" channel="VH1.west.us">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">The Break-Up</sub-title>
+    <desc lang="en">Billy Dee Williams guest stars on Martin's (Martin Lawrence) radio show and gives him advice about Gina (Tisha Campbell).</desc>
   </programme>
-  <programme start="20220621013000 +0000" stop="20220621020000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Let's Fish</title>
-    <sub-title lang="en">Largemouth Bass Toledo Bend Reservoir, TX</sub-title>
+  <programme start="20220623063000 +0000" stop="20220623070000 +0000" channel="VH1.west.us">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Credit Card Blues</sub-title>
+    <desc lang="en">Martin (Martin Lawrence) is arrested for credit card fraud and his friends scramble to come up with bail money.</desc>
   </programme>
-  <programme start="20220621020000 +0000" stop="20220621023000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Into the Blue</title>
-    <sub-title lang="en">Half and Half</sub-title>
-    <desc lang="en">Capt. Scott Walker and Capt. Steve Rodger head out for an adventure and dinner in search for tile fish and cobias.</desc>
+  <programme start="20220623070000 +0000" stop="20220623073000 +0000" channel="VH1.west.us">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Jerome's in the House</sub-title>
+    <desc lang="en">Pam (Tichina Arnold) turns down a serious offer from Cole (Carl Payne) to go on a wild date with Jerome (Martin Lawrence).</desc>
   </programme>
-  <programme start="20220621023000 +0000" stop="20220621030000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Two Conchs Sports Fishing TV</title>
-    <sub-title lang="en">Magnums with Capt. Kurt</sub-title>
-    <desc lang="en">Tucker and JC Carlson head to South Mobile County, Alabama, to catch magnum-sized red snapper and cobia with Capt. Kurt Tillman and the Two Conchs crew.</desc>
+  <programme start="20220623073000 +0000" stop="20220623080000 +0000" channel="VH1.west.us">
+    <title lang="en">Martin</title>
+    <sub-title lang="en">Your Arms Are Too Short to Box With Martin</sub-title>
+    <desc lang="en">Martin (Martin Lawrence) learns about discrimination when he contends with an angry group of little people. Guest stars: Bushwick Bill, Alexander Folk.</desc>
   </programme>
-  <programme start="20220621030000 +0000" stop="20220621033000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Catching Bass with Dustin Wilks</title>
-    <sub-title lang="en">Speeding Through Post Spawn</sub-title>
-    <desc lang="en">Action packed show with many good tips for using unconventional lures to catch bass that have recently spawned.</desc>
+  <programme start="20220623080000 +0000" stop="20220623083000 +0000" channel="VH1.west.us">
+    <title lang="en">The Fresh Prince of Bel-Air</title>
+    <sub-title lang="en">Reality Bites</sub-title>
+    <desc lang="en">Will (Will Smith) blows his top when Nicky's favorite TV character (Monty Hoffman) refuses to appear at a mall. With Ross Bagley.</desc>
   </programme>
-  <programme start="20220621033000 +0000" stop="20220621040000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">The Ontario Experience</title>
-    <sub-title lang="en">The Best of Ontario</sub-title>
-    <desc lang="en">The crew showcase some of their best of fishing and hunting moments in Ontario.</desc>
+  <programme start="20220623083000 +0000" stop="20220623090000 +0000" channel="VH1.west.us">
+    <title lang="en">The Fresh Prince of Bel-Air</title>
+    <sub-title lang="en">Grumpy Young Men</sub-title>
+    <desc lang="en">Will's date falls for Carlton; Philip and Hilary teach Ashley to drive.</desc>
   </programme>
-  <programme start="20220621040000 +0000" stop="20220621043000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Ducks Unlimited TV</title>
-    <sub-title lang="en">Best of 2020-2021 Season</sub-title>
-    <desc lang="en">A mixed bag collection of the best moment of the challenging but rewarding 2020-2021 waterfowl season. An exciting recap with bonus footage.</desc>
+  <programme start="20220623090000 +0000" stop="20220623093000 +0000" channel="VH1.west.us">
+    <title lang="en">The Fresh Prince of Bel-Air</title>
+    <sub-title lang="en">Fresh Prince, The Movie</sub-title>
+    <desc lang="en">Will (Will Smith) is sent to the backwoods of Alabama by the FBI's Witness Protection Program. With James Avery.</desc>
   </programme>
-  <programme start="20220621043000 +0000" stop="20220621050000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Winchester Deadly Passion</title>
-    <sub-title lang="en">Montana Peak Rut</sub-title>
-    <desc lang="en">Hunting the peak of the rut in Montana is one of the most exciting whitetail hunts out there. Melissa is on the ground, rattling and bringing in one buck after another.</desc>
+  <programme start="20220623093000 +0000" stop="20220623100000 +0000" channel="VH1.west.us">
+    <title lang="en">The Fresh Prince of Bel-Air</title>
+    <sub-title lang="en">Will's Misery</sub-title>
+    <desc lang="en">Will (Will Smith) courts pain when he dates the new sorority pledge (Alexia Robinson); Geoffrey (Joseph Marcell) has a job-related injury.</desc>
   </programme>
-  <programme start="20220621050000 +0000" stop="20220621053000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Winchester &amp; Drury's Natural Born</title>
-    <sub-title lang="en">Out in Front</sub-title>
-    <desc lang="en">A trio of camermen gets in front of the lens to harvests bucks in Iowa and Missouri.</desc>
+  <programme start="20220623100000 +0000" stop="20220623103000 +0000" channel="VH1.west.us">
+    <title lang="en">The Fresh Prince of Bel-Air</title>
+    <sub-title lang="en">Father Knows Best</sub-title>
+    <desc lang="en">Ashley (Tatyana M. Ali) turns to Will (Will Smith) for help after she drops out of Bel-Air Academy to attend public school.</desc>
   </programme>
-  <programme start="20220621053000 +0000" stop="20220621060000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Mountain Top Outdoors</title>
-    <sub-title lang="en">Time with Dad</sub-title>
+  <programme start="20220623103000 +0000" stop="20220623110000 +0000" channel="VH1.west.us">
+    <title lang="en">The Fresh Prince of Bel-Air</title>
+    <sub-title lang="en">Soooooooul Train</sub-title>
+    <desc lang="en">Carlton and Will (Alfonso Ribeiro, Will Smith) compete against each other in a dance contest. With Don Cornelius.</desc>
   </programme>
-  <programme start="20220621060000 +0000" stop="20220621063000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Everything Eichler</title>
-    <sub-title lang="en">Turkey Success</sub-title>
-    <desc lang="en">Trent tries to overcome his bad luck on turkeys. Jeb takes care of some chores before heading out with his crossbow.</desc>
+  <programme start="20220623110000 +0000" stop="20220623113500 +0000" channel="VH1.west.us">
+    <title lang="en">The Wayans Bros.</title>
+    <sub-title lang="en">Romeo &amp; J'Leeta</sub-title>
+    <desc lang="en">Pops (John Witherspoon) feuds with his restaurant rival, Rick (guest star Earl Billings), while Shawn (Shawn Wayans) romances Rick's daughter, J'Leeta (guest star Tracey Cherelle Jones).</desc>
   </programme>
-  <programme start="20220621063000 +0000" stop="20220621070000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">North American Whitetail</title>
-    <sub-title lang="en">Stan the Man</sub-title>
-    <desc lang="en">We look back on years of epic hunts in celebration of veteran whitetailer, our great friend and colleague Stan Potts.</desc>
+  <programme start="20220623113500 +0000" stop="20220623120500 +0000" channel="VH1.west.us">
+    <title lang="en">The Wayans Bros.</title>
+    <sub-title lang="en">Ho's on First</sub-title>
+    <desc lang="en">Shawn (Shawn Wayans) faces a dilemma upon learning that Marlon's (Marlon Wayans) new girlfriend (guest star Angelle Brooks) has a bad reputation.</desc>
   </programme>
-  <programme start="20220621070000 +0000" stop="20220621073000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">Sweetwater</title>
-    <sub-title lang="en">The Search for Florida Spawners</sub-title>
+  <programme start="20220623120500 +0000" stop="20220623123500 +0000" channel="VH1.west.us">
+    <title lang="en">The Wayans Bros.</title>
+    <sub-title lang="en">Dating Service</sub-title>
+    <desc lang="en">Shawn starts an escort service employing his male friends and family.</desc>
   </programme>
-  <programme start="20220621073000 +0000" stop="20220621080000 +0000" channel="The.Sportsman.Channel">
-    <title lang="en">The Fishmonger</title>
-    <sub-title lang="en">San Diego, The Tuna Capital of the World</sub-title>
-    <desc lang="en">In 1960, San Diego was the tuna capital of the world. Environmental and regulatory challenges made life tougher on commercial fishermen there. Today, they're fighting to regain their spot as a major commercial fishing port.</desc>
+  <programme start="20220623123500 +0000" stop="20220623130500 +0000" channel="VH1.west.us">
+    <title lang="en">The Wayans Bros.</title>
+    <sub-title lang="en">The Kiss</sub-title>
+    <desc lang="en">Shawn and Dee (Shawn Wayans, Anna Maria Horsford) get together at a concert by Missy ``Misdemeanor'' Elliott, for dancing and more.</desc>
+  </programme>
+  <programme start="20220623130500 +0000" stop="20220623134000 +0000" channel="VH1.west.us">
+    <title lang="en">The Wayans Bros.</title>
+    <sub-title lang="en">The High Life</sub-title>
+    <desc lang="en">Shawn (Shawn Wayans) suspects Marlon's (Marlon Wayans) new movie-star friend is having a bad influence on his brother.</desc>
+  </programme>
+  <programme start="20220623134000 +0000" stop="20220623141500 +0000" channel="VH1.west.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Jr.'s Risky Business</sub-title>
+    <desc lang="en">A furious Michael considers throwing Jr. out of the house after catching him in a compromising position with his girlfriend (Meagan Good).</desc>
+  </programme>
+  <programme start="20220623141500 +0000" stop="20220623144500 +0000" channel="VH1.west.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Jury Duty</sub-title>
+    <desc lang="en">Michael and Jay end up serving on the same jury together; Michael suspects he has been the victim of jury tampering.</desc>
+  </programme>
+  <programme start="20220623144500 +0000" stop="20220623151500 +0000" channel="VH1.west.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Here Come Da Judge</sub-title>
+    <desc lang="en">Michael calls a family court session when Jr. battles Claire over ownership of a discovered wallet containing $500.</desc>
+  </programme>
+  <programme start="20220623151500 +0000" stop="20220623154500 +0000" channel="VH1.west.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Claire's Permit</sub-title>
+    <desc lang="en">Michael's fears come true when he tries to teach Claire how to drive.</desc>
+  </programme>
+  <programme start="20220623154500 +0000" stop="20220623162000 +0000" channel="VH1.west.us">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Sharon's Picture</sub-title>
+    <desc lang="en">Jay wonders why Michael saved a picture of an attractive ex-girlfriend; Franklin cannot admit Aretha is as good a singer as he is a pianist.</desc>
+  </programme>
+  <programme start="20220623162000 +0000" stop="20220623190000 +0000" channel="VH1.west.us">
+    <title lang="en">Drumline: A New Beat</title>
+    <desc lang="en">A young woman (Alexandra Shipp) aspires to become a trailblazing leader in her school's marching band.</desc>
+    <date>2014</date>
+  </programme>
+  <programme start="20220623190000 +0000" stop="20220623210000 +0000" channel="VH1.west.us">
+    <title lang="en">How High</title>
+    <desc lang="en">Two stoners (Method Man, Redman) get into Harvard University after magic marijuana enables them to ace their tests.</desc>
+    <date>2001</date>
+  </programme>
+  <programme start="20220623210000 +0000" stop="20220623230000 +0000" channel="VH1.west.us">
+    <title lang="en">How High 2</title>
+    <desc lang="en">Two young entrepreneurs set out on a hash-fueled journey across Atlanta seeking funds for their on-demand munchies delivery business.</desc>
+    <date>2019</date>
+  </programme>
+  <programme start="20220623230000 +0000" stop="20220623233000 +0000" channel="VH1.west.us">
+    <title lang="en">Nick Cannon Presents: Wild 'n Out</title>
+    <sub-title lang="en">Marsai Martin</sub-title>
+    <desc lang="en">Nick Cannon and a celebrity guest will lead two teams of improv regulars in an all-out comedy battle before a live audience.</desc>
   </programme>
   <programme start="20220621080000 +0000" stop="20220621083000 +0000" channel="The.Sportsman.Channel">
     <title lang="en">Project Dreamboat Florida Sportsman</title>
@@ -8098,142 +7830,172 @@
     <sub-title lang="en">Stan the Man</sub-title>
     <desc lang="en">We look back on years of epic hunts in celebration of veteran whitetailer, our great friend and colleague Stan Potts.</desc>
   </programme>
-  <programme start="20220622173000 +0000" stop="20220620230000 +0000" channel="The.Sportsman.Channel">
+  <programme start="20220622173000 +0000" stop="20220622180000 +0000" channel="The.Sportsman.Channel">
     <title lang="en">Whitetail Properties</title>
     <sub-title lang="en">Successful Food Plot Setup &amp; Strategy</sub-title>
     <desc lang="en">How to setup and successfully hunt food plots.</desc>
   </programme>
-  <programme start="20220621002000 +0800" stop="20220621011000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Futurescape With James Woods (S1)</title>
-    <desc lang="en">Imagine a world where your most intimate memory is public domain.</desc>
+  <programme start="20220622180000 +0000" stop="20220622183000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Buckventures</title>
+    <sub-title lang="en">Prepared</sub-title>
+    <desc lang="en">With the world becoming more &amp; more dangerous, you can never be too prepared. Jeff &amp; Gracie Danker walk us through a self defense course taught by real professionals that could save your life.</desc>
   </programme>
-  <programme start="20220621011000 +0800" stop="20220621020000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Into The Universe With Stephen Hawking (S1)</title>
-    <desc lang="en">Hawking considers one of the most important mysteries facing humankind, the possibility of aliens. He leads us on a journey rendered in eye-popping detail.</desc>
+  <programme start="20220622183000 +0000" stop="20220622190000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Bowhunter TV</title>
+    <sub-title lang="en">Whitetail Learning Curve</sub-title>
+    <desc lang="en">Whitetails are always teaching us new lessons, but you must pay attention in class.</desc>
   </programme>
-  <programme start="20220621020000 +0800" stop="20220621025000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S10)</title>
-    <desc lang="en">The two Voyager spacecraft have travelled farther than any human-made object in history, and as they reach interstellar space, experts explore their most astonishing discoveries and how their extended operation has transformed into the ultimate mission.</desc>
+  <programme start="20220622190000 +0000" stop="20220622193000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">THE LIFE at Table Mountain</title>
+    <sub-title lang="en">Bulls and Bucks</sub-title>
+    <desc lang="en">This week hunters set out in search of big bull elk and mule deer.</desc>
   </programme>
-  <programme start="20220621025000 +0800" stop="20220621034000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
-    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
+  <programme start="20220622193000 +0000" stop="20220622200000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">The Bearded Buck</title>
+    <sub-title lang="en">Utah Mountain Lion</sub-title>
+    <desc lang="en">Jerry, Austin, and their good friend, Bob, travel to Utah on a bucket list hunt to chase mountain lions. But with tracking conditions going from bad to worse, they will need luck on their side in order to fill their tags.</desc>
   </programme>
-  <programme start="20220621034000 +0800" stop="20220621043000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S9)</title>
-    <desc lang="en">The Rosetta mission was a ground-breaking expedition to land on a comet for the very first time.</desc>
+  <programme start="20220622200000 +0000" stop="20220622203000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">North American Whitetail</title>
+    <sub-title lang="en">Stan the Man</sub-title>
+    <desc lang="en">We look back on years of epic hunts in celebration of veteran whitetailer, our great friend and colleague Stan Potts.</desc>
   </programme>
-  <programme start="20220621043000 +0800" stop="20220621053000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">We're creating the ultimate bucket list. We'll learn how to cook bread with a volcano, build underwater hotel rooms, and go eyeball-to-eyeball with Great Whites.</desc>
+  <programme start="20220622203000 +0000" stop="20220622210000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Whitetail Properties</title>
+    <sub-title lang="en">Successful Food Plot Setup &amp; Strategy</sub-title>
+    <desc lang="en">How to setup and successfully hunt food plots.</desc>
   </programme>
-  <programme start="20220621053000 +0800" stop="20220621060000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How It's Made (S8)</title>
-    <desc lang="en">Find out how Dial Thermometers, Hummus, Spent Fuel Containers, and Straw Sombreros are made.</desc>
+  <programme start="20220622210000 +0000" stop="20220622213000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Buckventures</title>
+    <sub-title lang="en">Prepared</sub-title>
+    <desc lang="en">With the world becoming more &amp; more dangerous, you can never be too prepared. Jeff &amp; Gracie Danker walk us through a self defense course taught by real professionals that could save your life.</desc>
   </programme>
-  <programme start="20220621060000 +0800" stop="20220621065000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Futurescape With James Woods (S1)</title>
-    <desc lang="en">Imagine a world where your most intimate memory is public domain.</desc>
+  <programme start="20220622213000 +0000" stop="20220622220000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Bowhunter TV</title>
+    <sub-title lang="en">Whitetail Learning Curve</sub-title>
+    <desc lang="en">Whitetails are always teaching us new lessons, but you must pay attention in class.</desc>
   </programme>
-  <programme start="20220621065000 +0800" stop="20220621074000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S9)</title>
-    <desc lang="en">The Rosetta mission was a ground-breaking expedition to land on a comet for the very first time.</desc>
+  <programme start="20220622220000 +0000" stop="20220622223000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">THE LIFE at Table Mountain</title>
+    <sub-title lang="en">Bulls and Bucks</sub-title>
+    <desc lang="en">This week hunters set out in search of big bull elk and mule deer.</desc>
   </programme>
-  <programme start="20220621074000 +0800" stop="20220621083000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Into The Universe With Stephen Hawking (S1)</title>
-    <desc lang="en">Hawking considers one of the most important mysteries facing humankind, the possibility of aliens. He leads us on a journey rendered in eye-popping detail.</desc>
+  <programme start="20220622223000 +0000" stop="20220622230000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">The Bearded Buck</title>
+    <sub-title lang="en">Utah Mountain Lion</sub-title>
+    <desc lang="en">Jerry, Austin, and their good friend, Bob, travel to Utah on a bucket list hunt to chase mountain lions. But with tracking conditions going from bad to worse, they will need luck on their side in order to fill their tags.</desc>
   </programme>
-  <programme start="20220621083000 +0800" stop="20220621092000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S10)</title>
-    <desc lang="en">The two Voyager spacecraft have travelled farther than any human-made object in history, and as they reach interstellar space, experts explore their most astonishing discoveries and how their extended operation has transformed into the ultimate mission.</desc>
+  <programme start="20220622230000 +0000" stop="20220622233000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">MeatEater</title>
+    <sub-title lang="en">South Texas Nilgai</sub-title>
+    <desc lang="en">Steve and Jesse hunt nilgai, a large Indian antelope; the duo butchers a beast and dig into nose-to-tail dishes.</desc>
   </programme>
-  <programme start="20220621092000 +0800" stop="20220621101000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
-    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
+  <programme start="20220622233000 +0000" stop="20220623000000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Big Deer TV</title>
+    <sub-title lang="en">Honey Brake Bucks</sub-title>
+    <desc lang="en">Mike travels to central Louisiana to check out a secret spot for heavyweight whitetails.</desc>
   </programme>
-  <programme start="20220621101000 +0800" stop="20220621110000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">We're creating the ultimate bucket list. We'll learn how to cook bread with a volcano, build underwater hotel rooms, and go eyeball-to-eyeball with Great Whites.</desc>
+  <programme start="20220623000000 +0000" stop="20220623003000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Major League Bowhunter</title>
+    <sub-title lang="en">Upland Fun</sub-title>
+    <desc lang="en">This week we're in Kansas and Matt Duff is showing the viewer one of his biggest passions, Upland hunting with his bird dogs, Ace and Birdie.</desc>
   </programme>
-  <programme start="20220621110000 +0800" stop="20220621115000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Futurescape With James Woods (S1)</title>
-    <desc lang="en">Imagine a world where your most intimate memory is public domain.</desc>
+  <programme start="20220623003000 +0000" stop="20220623010000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">The Sporting Chef</title>
+    <sub-title lang="en">Kinda Cajun</sub-title>
+    <desc lang="en">It's all about the roux and Chef Leysath shows how to make it happen, along with his recipes for Duck Gumbo and a Wild Game Muffuletta. Also on the show, Susie Jimenez, Stacy Lyn, John Wallace, Cee Dub and Buddy.</desc>
   </programme>
-  <programme start="20220621115000 +0800" stop="20220621124000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S9)</title>
-    <desc lang="en">The Rosetta mission was a ground-breaking expedition to land on a comet for the very first time.</desc>
+  <programme start="20220623010000 +0000" stop="20220623013000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Handguns and Defensive Weapons</title>
+    <sub-title lang="en">Home Defense</sub-title>
+    <desc lang="en">Jim, Rich and Scott review guns and accessories that work well for home defense. Scott runs the one-shot-draw drill, and in Zeroing In Jim explains the importance of rotating defensive handgun ammunition.</desc>
   </programme>
-  <programme start="20220621124000 +0800" stop="20220621133000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Into The Universe With Stephen Hawking (S1)</title>
-    <desc lang="en">Hawking considers one of the most important mysteries facing humankind, the possibility of aliens. He leads us on a journey rendered in eye-popping detail.</desc>
+  <programme start="20220623013000 +0000" stop="20220623020000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Saltwater Experience</title>
+    <sub-title lang="en">Richard Black Slam</sub-title>
   </programme>
-  <programme start="20220621133000 +0800" stop="20220621142000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S10)</title>
-    <desc lang="en">The two Voyager spacecraft have travelled farther than any human-made object in history, and as they reach interstellar space, experts explore their most astonishing discoveries and how their extended operation has transformed into the ultimate mission.</desc>
+  <programme start="20220623020000 +0000" stop="20220623023000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Bill Dance Saltwater</title>
+    <sub-title lang="en">Times I'll Never Forget Theophile 2</sub-title>
+    <desc lang="en">Friends for life - Bill looks back on all the tremendous fishin' trips he shared with his dear friend Theophile Bourgeois. Part 2.</desc>
   </programme>
-  <programme start="20220621142000 +0800" stop="20220621151000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
-    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
+  <programme start="20220623023000 +0000" stop="20220623030000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Fishing With Roland Martin</title>
+    <sub-title lang="en">Fishing the Mohawk Indian Reservation</sub-title>
+    <desc lang="en">Will Clute guides Roland and friends for two-to-six lb. smallmouth on the Mohank Indian Reservation. They catch fish on senkos, spinnerbaits and top water.</desc>
   </programme>
-  <programme start="20220621151000 +0800" stop="20220621160000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Futurescape With James Woods (S1)</title>
-    <desc lang="en">Imagine a world where your most intimate memory is public domain.</desc>
+  <programme start="20220623030000 +0000" stop="20220623033000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">On the Water with Hank Parker</title>
+    <sub-title lang="en">On The Bay</sub-title>
+    <desc lang="en">Hank hooks up with his World Record holder buddy, Dale Stroschein for some terrific Walleye and Smallmouth action in Green Bay, Wisconsin.</desc>
   </programme>
-  <programme start="20220621160000 +0800" stop="20220621165000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">We're creating the ultimate bucket list. We'll learn how to cook bread with a volcano, build underwater hotel rooms, and go eyeball-to-eyeball with Great Whites.</desc>
+  <programme start="20220623033000 +0000" stop="20220623040000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Grace Camo and Lace</title>
+    <sub-title lang="en">Predator Hunt</sub-title>
   </programme>
-  <programme start="20220621165000 +0800" stop="20220621174000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S9)</title>
-    <desc lang="en">The Rosetta mission was a ground-breaking expedition to land on a comet for the very first time.</desc>
+  <programme start="20220623040000 +0000" stop="20220623043000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">THE LIFE at Table Mountain</title>
+    <sub-title lang="en">Bulls and Bucks</sub-title>
+    <desc lang="en">This week hunters set out in search of big bull elk and mule deer.</desc>
   </programme>
-  <programme start="20220621174000 +0800" stop="20220621183000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Into The Universe With Stephen Hawking (S1)</title>
-    <desc lang="en">Hawking considers one of the most important mysteries facing humankind, the possibility of aliens. He leads us on a journey rendered in eye-popping detail.</desc>
+  <programme start="20220623043000 +0000" stop="20220623050000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Small Town Hunting</title>
+    <sub-title lang="en">South Texas Strutters</sub-title>
+    <desc lang="en">March in Texas is a special time for turkey hunters. Lots of turkeys, lots of gobbling, and lots of tags means for a heck of a week to be in Texas.</desc>
   </programme>
-  <programme start="20220621183000 +0800" stop="20220621192000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S10)</title>
-    <desc lang="en">The two Voyager spacecraft have travelled farther than any human-made object in history, and as they reach interstellar space, experts explore their most astonishing discoveries and how their extended operation has transformed into the ultimate mission.</desc>
+  <programme start="20220623050000 +0000" stop="20220623053000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Army Buck Hunters</title>
+    <sub-title lang="en">Force on Force Semi Final Rd 2</sub-title>
+    <desc lang="en">Army Buck Hunter Tashina Appling vs. Air Force Buck Hunter John Carroll.</desc>
   </programme>
-  <programme start="20220621192000 +0800" stop="20220621201000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Futurescape With James Woods (S1)</title>
-    <desc lang="en">Throughout history, men have built empires and held the lives of millions in their hands, but the one thing they couldn't conquer was death.</desc>
+  <programme start="20220623053000 +0000" stop="20220623060000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Night Crew</title>
+    <sub-title lang="en">The Uninvited</sub-title>
+    <desc lang="en">Night Crew travels to help a friend get rid of unwanted guests at Prairie Hill.</desc>
   </programme>
-  <programme start="20220621201000 +0800" stop="20220621203400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Street Science (S1)</title>
-    <desc lang="en">Kevin and his team of science experts use a racecar to put a new twist on an old magic trick and show what it takes to build homemade hovercrafts.</desc>
+  <programme start="20220623060000 +0000" stop="20220623063000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">MeatEater</title>
+    <sub-title lang="en">South Texas Nilgai</sub-title>
+    <desc lang="en">Steve and Jesse hunt nilgai, a large Indian antelope; the duo butchers a beast and dig into nose-to-tail dishes.</desc>
   </programme>
-  <programme start="20220621203400 +0800" stop="20220621210000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How To Build...Everything (S1)</title>
-    <desc lang="en">In this episode: the simple, easy steps to build your very own Solar Car, Skyscraper, and Hydroelectric Power Plant.</desc>
+  <programme start="20220623063000 +0000" stop="20220623070000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Heartland Waterfowl</title>
+    <sub-title lang="en">Spring Fling</sub-title>
+    <desc lang="en">It's the first week of May and Team HW is back in Saskatchewan for Spring Snow Geese. The guys battle ever changing weather conditions but eventually find their niche.</desc>
   </programme>
-  <programme start="20220621210000 +0800" stop="20220621212400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How Do They Do It? (S9)</title>
-    <desc lang="en">The inhabitants of Becal have a secret, but keep it under your hat. They think the best Panama hats in the world have never even been to Panama.</desc>
+  <programme start="20220623070000 +0000" stop="20220623073000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Lund The Ultimate Fishing Experience</title>
+    <sub-title lang="en">Gussy's Off Season Adventures</sub-title>
+    <desc lang="en">Bassmaster Elite Pro Jeff Gustafson and his wife Shelby spend some quality time off the road?hunting and fishing.</desc>
   </programme>
-  <programme start="20220621212400 +0800" stop="20220621215000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How Do They Do It? (S9)</title>
-    <desc lang="en">If small is beautiful then an old warehouse in the heart of Hamburg is home to one of the most stunning sights on earth.</desc>
+  <programme start="20220623073000 +0000" stop="20220623080000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">LongShot TV</title>
+    <sub-title lang="en">Black Bass Trappin'</sub-title>
+    <desc lang="en">The crew heads to the seas for bass trapping and grouper fishing.</desc>
   </programme>
-  <programme start="20220621215000 +0800" stop="20220621221400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How It's Made (S7)</title>
-    <desc lang="en">Find out how Fly Fishing Reels, House Paint, Weaving Looms, and Ice Makers are made.</desc>
+  <programme start="20220623080000 +0000" stop="20220623083000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Hook the Future</title>
+    <sub-title lang="en">Hawks Cay Yellowtail</sub-title>
+    <desc lang="en">Capt George Cambell delivers a day of fun on the reef for anglers Makenna and Tyler, catching tasty yellowtails out of Hawks Cay Resort.</desc>
   </programme>
-  <programme start="20220621221400 +0800" stop="20220621224000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How It's Made (S7)</title>
-    <desc lang="en">Find out how Graphite Pencil Leads, Clarinets, and Special Effects are made.</desc>
+  <programme start="20220623083000 +0000" stop="20220623090000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Jarrett Edwards Outdoors</title>
+    <sub-title lang="en">Colorado River Memories</sub-title>
+    <desc lang="en">Join Jarrett Edwards and touring pro Roy Hawk as they fish a variety of soft plastics for Colorado River bass.</desc>
   </programme>
-  <programme start="20220621224000 +0800" stop="20220621233000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S9)</title>
-    <desc lang="en">New discoveries reveal an astonishing supermassive black hole that was born during the earliest days of the cosmos.</desc>
+  <programme start="20220623090000 +0000" stop="20220623093000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">The Bearded Buck</title>
+    <sub-title lang="en">Utah Mountain Lion</sub-title>
+    <desc lang="en">Jerry, Austin, and their good friend, Bob, travel to Utah on a bucket list hunt to chase mountain lions. But with tracking conditions going from bad to worse, they will need luck on their side in order to fill their tags.</desc>
   </programme>
-  <programme start="20220621233000 +0800" stop="20220621233000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">Our experts taste-test a 100-year-old cracker, witness a real-life transformer car, and listen to guitars played underwater.</desc>
+  <programme start="20220623093000 +0000" stop="20220621160000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Mountain Top Outdoors</title>
+    <sub-title lang="en">Time with Dad</sub-title>
   </programme>
-  <programme start="20220621233000 +0800" stop="20220622002000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">Our experts taste-test a 100-year-old cracker, witness a real-life transformer car, and listen to guitars played underwater.</desc>
+  <programme start="20220621160000 +0000" stop="20220620230000 +0000" channel="The.Sportsman.Channel">
+    <title lang="en">Crossroads With The Burtons</title>
+    <sub-title lang="en">It's Been a Long Ride!</sub-title>
+    <desc lang="en">Jeb and Ward watch an episode of 'Crossroads' with fans; Jeb provides insight on the future of his NASCAR career.</desc>
   </programme>
   <programme start="20220622002000 +0800" stop="20220622011000 +0800" channel="DiscoveryScienceHD.my">
     <title lang="en">Futurescape With James Woods (S1)</title>
@@ -8510,5 +8272,129 @@
   <programme start="20220623224000 +0800" stop="20220623233000 +0800" channel="DiscoveryScienceHD.my">
     <title lang="en">How The Universe Works (S9)</title>
     <desc lang="en">The hidden kingdom of microscopic alien organisms shapes the universe as much as galaxies, stars, and planets.</desc>
+  </programme>
+  <programme start="20220623233000 +0800" stop="20220623233000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S5)</title>
+    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
+  </programme>
+  <programme start="20220623233000 +0800" stop="20220624002000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S5)</title>
+    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
+  </programme>
+  <programme start="20220624002000 +0800" stop="20220624011000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Futurescape With James Woods (S1)</title>
+    <desc lang="en">21st Century explorers have set sail on an age of discovery that eclipses anything dreamed of by Columbus.</desc>
+  </programme>
+  <programme start="20220624011000 +0800" stop="20220624020000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Unexplained And Unexplored (S1)</title>
+    <desc lang="en">Mysterious new evidence suggests the Knights Templar fled Europe and rebuilt their fearsome warrior order in the Americas a century before Columbus.</desc>
+  </programme>
+  <programme start="20220624020000 +0800" stop="20220624025000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Hunting Atlantis (S1)</title>
+    <desc lang="en">Stel and Jess search ancient underwater ruins off the coast of Greece and follow the trade routes of Minoan civilization to a circular island and the heart of a volcano.</desc>
+  </programme>
+  <programme start="20220624025000 +0800" stop="20220624034000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">The Ancient Life (S1)</title>
+    <desc lang="en">The Angkor region in Cambodia is home to one of the most enchanting monuments ever built, the temple of Angkor Wat, until it was abandoned.</desc>
+  </programme>
+  <programme start="20220624034000 +0800" stop="20220624043000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S9)</title>
+    <desc lang="en">The hidden kingdom of microscopic alien organisms shapes the universe as much as galaxies, stars, and planets.</desc>
+  </programme>
+  <programme start="20220624043000 +0800" stop="20220624053000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S5)</title>
+    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
+  </programme>
+  <programme start="20220624053000 +0800" stop="20220624060000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S8)</title>
+    <desc lang="en">ind out how Kelp Caviar, Luxury Sailboats, Dental Crowns, and High-Performance Engines are made.</desc>
+  </programme>
+  <programme start="20220624060000 +0800" stop="20220624065000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Futurescape With James Woods (S1)</title>
+    <desc lang="en">21st Century explorers have set sail on an age of discovery that eclipses anything dreamed of by Columbus.</desc>
+  </programme>
+  <programme start="20220624065000 +0800" stop="20220624074000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S9)</title>
+    <desc lang="en">The hidden kingdom of microscopic alien organisms shapes the universe as much as galaxies, stars, and planets.</desc>
+  </programme>
+  <programme start="20220624074000 +0800" stop="20220624083000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Unexplained And Unexplored (S1)</title>
+    <desc lang="en">Mysterious new evidence suggests the Knights Templar fled Europe and rebuilt their fearsome warrior order in the Americas a century before Columbus.</desc>
+  </programme>
+  <programme start="20220624083000 +0800" stop="20220624092000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Hunting Atlantis (S1)</title>
+    <desc lang="en">Stel and Jess search ancient underwater ruins off the coast of Greece and follow the trade routes of Minoan civilization to a circular island and the heart of a volcano.</desc>
+  </programme>
+  <programme start="20220624092000 +0800" stop="20220624101000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">The Ancient Life (S1)</title>
+    <desc lang="en">The Angkor region in Cambodia is home to one of the most enchanting monuments ever built, the temple of Angkor Wat, until it was abandoned.</desc>
+  </programme>
+  <programme start="20220624101000 +0800" stop="20220624110000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S5)</title>
+    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
+  </programme>
+  <programme start="20220624110000 +0800" stop="20220624115000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Futurescape With James Woods (S1)</title>
+    <desc lang="en">21st Century explorers have set sail on an age of discovery that eclipses anything dreamed of by Columbus.</desc>
+  </programme>
+  <programme start="20220624115000 +0800" stop="20220624124000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S9)</title>
+    <desc lang="en">The hidden kingdom of microscopic alien organisms shapes the universe as much as galaxies, stars, and planets.</desc>
+  </programme>
+  <programme start="20220624124000 +0800" stop="20220624133000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Unexplained And Unexplored (S1)</title>
+    <desc lang="en">Mysterious new evidence suggests the Knights Templar fled Europe and rebuilt their fearsome warrior order in the Americas a century before Columbus.</desc>
+  </programme>
+  <programme start="20220624133000 +0800" stop="20220624142000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Hunting Atlantis (S1)</title>
+    <desc lang="en">Stel and Jess search ancient underwater ruins off the coast of Greece and follow the trade routes of Minoan civilization to a circular island and the heart of a volcano.</desc>
+  </programme>
+  <programme start="20220624142000 +0800" stop="20220624151000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">The Ancient Life (S1)</title>
+    <desc lang="en">The Angkor region in Cambodia is home to one of the most enchanting monuments ever built, the temple of Angkor Wat, until it was abandoned.</desc>
+  </programme>
+  <programme start="20220624151000 +0800" stop="20220624160000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Futurescape With James Woods (S1)</title>
+    <desc lang="en">21st Century explorers have set sail on an age of discovery that eclipses anything dreamed of by Columbus.</desc>
+  </programme>
+  <programme start="20220624160000 +0800" stop="20220624165000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S5)</title>
+    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
+  </programme>
+  <programme start="20220624165000 +0800" stop="20220624174000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S9)</title>
+    <desc lang="en">The hidden kingdom of microscopic alien organisms shapes the universe as much as galaxies, stars, and planets.</desc>
+  </programme>
+  <programme start="20220624174000 +0800" stop="20220624183000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Unexplained And Unexplored (S1)</title>
+    <desc lang="en">Mysterious new evidence suggests the Knights Templar fled Europe and rebuilt their fearsome warrior order in the Americas a century before Columbus.</desc>
+  </programme>
+  <programme start="20220624183000 +0800" stop="20220624192000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Hunting Atlantis (S1)</title>
+    <desc lang="en">Stel and Jess search ancient underwater ruins off the coast of Greece and follow the trade routes of Minoan civilization to a circular island and the heart of a volcano.</desc>
+  </programme>
+  <programme start="20220624192000 +0800" stop="20220624201000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Futurescape With James Woods (S1)</title>
+    <desc lang="en">Science stands at the brink of unlocking our primal instincts.</desc>
+  </programme>
+  <programme start="20220624201000 +0800" stop="20220624203400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">The Mind Control Freaks (S1)</title>
+    <desc lang="en">Pete and Alex test how comfortable unsuspecting workers will be when they have to work alongside a dead body.</desc>
+  </programme>
+  <programme start="20220624203400 +0800" stop="20220624210000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Outrageous Acts Of Psych (S1)</title>
+    <desc lang="en">Watch what happens when walking on water makes you feel woozy, when your mind transports soda, and when you're forced to hear a couple's conversation about sausages.</desc>
+  </programme>
+  <programme start="20220624210000 +0800" stop="20220624215000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Redesign My Brain (S2)</title>
+    <desc lang="en">In this new season, Todd will continue his incredible journey to prove that the brain can be trained to meet the challenges of modern life.</desc>
+  </programme>
+  <programme start="20220624215000 +0800" stop="20220624224000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Machines Of Glory (S1)</title>
+    <desc lang="en">Three crews of America's top operators go head to head four extraordinary challenges: playing poker with skid steers and crushing cars with dozers to see who is best!</desc>
+  </programme>
+  <programme start="20220624224000 +0800" stop="20220624233000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S9)</title>
+    <desc lang="en">An explosion in the discovery of exoplanets is challenging everything we know about our universe.</desc>
   </programme>
 </tv>
