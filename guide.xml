@@ -240,209 +240,81 @@
     <display-name lang="en">TLC HD</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
-  <programme start="20220708170000 +0000" stop="20220708180000 +0000" channel="I.D.us">
-    <title lang="en">Murder in the Heartland</title>
-    <title lang="en">Murder in the Heartland S3 E7 Mother of It All: Watch Full Episode Online</title>
-    <sub-title lang="en">Mother of It All</sub-title>
-    <desc lang="en">A lively slumber party turns into a nightmare when a loving mother, her young daughter, and her daughter's friend are murdered.</desc>
+  <programme start="20220710110000 +0000" stop="20220710120000 +0000" channel="I.D.us">
+    <title lang="en">48 Hours on ID</title>
+    <title lang="en">48 Hours on ID S16 E5 The Hollywood Ripper: Watch Full Episode Online</title>
+    <sub-title lang="en">The Hollywood Ripper</sub-title>
+    <desc lang="en">This is a two-hour, ten year, investigation of Michael Gargiulo, the serial killer known as The Hollywood Ripper; Gargiulo is accused of murdering three women and trying to kill another who lived to bear witness against him.</desc>
     <credits>
       <director>60 min</director>
       <director>TV14</director>
       <actor>60 min</actor>
       <actor>TV14</actor>
-      <actor>Documentary, Series, Entertainment, Drama, Mystery/Crime</actor>
+      <actor>Series, Drama, Mystery/Crime</actor>
       <actor>Series</actor>
-      <actor>Brenden Clark</actor>
+      <actor>Maureen Maher</actor>
       <producer>60 min</producer>
       <producer>TV14</producer>
     </credits>
-    <date>2021</date>
-    <category lang="en">Documentary</category>
+    <date>2020</date>
     <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
     <category lang="en">Drama</category>
     <category lang="en">Mystery/Crime</category>
-    <episode-num system="onscreen">S3 E7</episode-num>
+    <episode-num system="onscreen">S16 E5</episode-num>
     <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220708180000 +0000" stop="20220708190000 +0000" channel="I.D.us">
-    <title lang="en">Murder in the Heartland</title>
-    <title lang="en">Murder in the Heartland S3 E11 Serial Killer in the Making: Watch Full Episode Online</title>
-    <sub-title lang="en">Serial Killer in the Making</sub-title>
-    <desc lang="en">Beloved wife and cardiac nurse Lorie Kirkley goes missing from the safety of her home in what appears to be a burglary gone wrong; several strange clues are found.</desc>
+  <programme start="20220710120000 +0000" stop="20220710130000 +0000" channel="I.D.us">
+    <title lang="en">48 Hours on ID</title>
+    <title lang="en">48 Hours on ID S16 E6 The Hollywood Ripper on Trial: Watch Full Episode Online</title>
+    <sub-title lang="en">The Hollywood Ripper on Trial</sub-title>
+    <desc lang="en">examining the 10-year investigation of Michael Gargiulo, the serial killer known as The Hollywood Ripper; Gargiulo is accused of murdering three women and trying to kill another who lived to bear witness against him.</desc>
     <credits>
       <director>60 min</director>
       <director>TV14</director>
       <actor>60 min</actor>
       <actor>TV14</actor>
-      <actor>Documentary, Series, Entertainment, Drama, Mystery/Crime</actor>
+      <actor>Series, Drama, Mystery/Crime</actor>
       <actor>Series</actor>
-      <actor>Brenden Clark</actor>
+      <actor>Maureen Maher</actor>
       <producer>60 min</producer>
       <producer>TV14</producer>
     </credits>
-    <date>2021</date>
-    <category lang="en">Documentary</category>
+    <date>2020</date>
     <category lang="en">Series</category>
-    <category lang="en">Entertainment</category>
     <category lang="en">Drama</category>
     <category lang="en">Mystery/Crime</category>
-    <episode-num system="onscreen">S3 E11</episode-num>
+    <episode-num system="onscreen">S16 E6</episode-num>
     <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20220708190000 +0000" stop="20220708200000 +0000" channel="I.D.us">
-    <title lang="en">Murder in the Heartland</title>
-    <title lang="en">Murder in the Heartland S2 E2 The Friends You Keep: Watch Full Episode Online</title>
-    <sub-title lang="en">The Friends You Keep</sub-title>
-    <desc lang="en">Jill Walker finds her daughter, Emma, cold to the touch in her own bed; quickly ruling out suicide, investigators search for a suspicious man in black caught on a neighbor's home surveillance camera.</desc>
+  <programme start="20220710130000 +0000" stop="20220710140000 +0000" channel="I.D.us">
+    <title lang="en">The Perfect Murder</title>
+    <title lang="en">The Perfect Murder S5 E6 Whidbey Island Mystery: Watch Full Episode Online</title>
+    <sub-title lang="en">Whidbey Island Mystery</sub-title>
+    <desc lang="en">At Christmastime, Russel Douglas is found shot to death in his car on a deserted road on Whidbey Island north of Seattle; it's the start of a case that will take a decade to solve and leave many with lingering questions.</desc>
     <credits>
       <director>60 min</director>
       <director>TV14</director>
       <actor>60 min</actor>
       <actor>TV14</actor>
-      <actor>Documentary, Series, Drama, Mystery/Crime</actor>
+      <actor>Series, Drama, Mystery/Crime, Docudrama</actor>
       <actor>Series</actor>
-      <actor>Josh Pins</actor>
+      <actor>Kevin Kaufman</actor>
       <producer>60 min</producer>
       <producer>TV14</producer>
     </credits>
-    <date>2019</date>
-    <category lang="en">Documentary</category>
+    <date>2018</date>
     <category lang="en">Series</category>
     <category lang="en">Drama</category>
     <category lang="en">Mystery/Crime</category>
-    <episode-num system="onscreen">S2 E2</episode-num>
+    <category lang="en">Docudrama</category>
+    <episode-num system="onscreen">S5 E6</episode-num>
     <rating system="MPAA">
       <value>TV14</value>
     </rating>
-  </programme>
-  <programme start="20220709002000 +0800" stop="20220709011000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Killers Of The Cosmos (S1)</title>
-    <desc lang="en">Welcome to an all new genre, cosmic noir! We're looking through the universe through a hard-boiled pulp filter- and it's a scary place.</desc>
-  </programme>
-  <programme start="20220709011000 +0800" stop="20220709020000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S7)</title>
-    <desc lang="en">Neutron stars are strange that defy the laws of physics, and new discoveries reveal that these bizarre nightmares are far more deadly than we ever thought.</desc>
-  </programme>
-  <programme start="20220709020000 +0800" stop="20220709025000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
-    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
-  </programme>
-  <programme start="20220709025000 +0800" stop="20220709043000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Unearthed: Seven Wonders (S1)</title>
-    <desc lang="en">The seven engineering marvels that are regarded as the modern wonders of America set the benchmark for structural innovation.</desc>
-  </programme>
-  <programme start="20220709043000 +0800" stop="20220709053000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Moon Machines (S1)</title>
-    <desc lang="en">The competitors are ROBOTS,autonomous, unmanned cars using strategies from GPS, lasers, video cameras and laptops to monitor their surroundings.</desc>
-  </programme>
-  <programme start="20220709053000 +0800" stop="20220709060000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Sci Fi Science (S1)</title>
-    <desc lang="en">Teleportation is sci-fi's most exciting way to travel, zapping a person's molecules through space on a transporter beam right out of Star Trek.</desc>
-  </programme>
-  <programme start="20220709060000 +0800" stop="20220709065000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
-    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
-  </programme>
-  <programme start="20220709065000 +0800" stop="20220709083000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Unearthed: Seven Wonders (S1)</title>
-    <desc lang="en">The seven engineering marvels that are regarded as the modern wonders of America set the benchmark for structural innovation.</desc>
-  </programme>
-  <programme start="20220709083000 +0800" stop="20220709092000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Moon Machines (S1)</title>
-    <desc lang="en">The competitors are ROBOTS,autonomous, unmanned cars using strategies from GPS, lasers, video cameras and laptops to monitor their surroundings.</desc>
-  </programme>
-  <programme start="20220709092000 +0800" stop="20220709094400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">The Mind Control Freaks (S1)</title>
-    <desc lang="en">Lewis demonstrates that pain is all in the mind by allowing some ladies to block out the heat from eating super-hot chillies.</desc>
-  </programme>
-  <programme start="20220709094400 +0800" stop="20220709101000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Outrageous Acts Of Psych (S1)</title>
-    <desc lang="en">Watch what happens when a stunt driver takes a driver's test, a stranger gets too close for comfort, and a guy narrates people's lives walking down the street.</desc>
-  </programme>
-  <programme start="20220709101000 +0800" stop="20220709110000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
-  </programme>
-  <programme start="20220709110000 +0800" stop="20220709115000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Silicon Valley The Untold Story (S1)</title>
-    <desc lang="en">Silicon Valley is a magnet for the world's greatest innovators, and the truth behind its rise reveals the powerful forces that made the region what it is today.</desc>
-  </programme>
-  <programme start="20220709115000 +0800" stop="20220709121400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Street Science (S1)</title>
-    <desc lang="en">Kevin and his team of experts explore the strange science behind oobleck, a bizarre material that can behave as both a solid and a liquid.</desc>
-  </programme>
-  <programme start="20220709121400 +0800" stop="20220709124000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How To Build...Everything (S1)</title>
-    <desc lang="en">In this episode: the simple, easy steps to build your very own Rocketship, Hovercraft, and MRI Scanner.</desc>
-  </programme>
-  <programme start="20220709124000 +0800" stop="20220709130400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How Do They Do It? (S9)</title>
-    <desc lang="en">In this series, discover how the latex produced by the chicle tree is turned into chewing gum and how the complex engine of a Formula 1 Racing Car is assembled.</desc>
-  </programme>
-  <programme start="20220709130400 +0800" stop="20220709133000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How Do They Do It? (S9)</title>
-    <desc lang="en">Vanilla may be a byword for plain and uninteresting, but the story of the spice that creates the world's favourite ice cream flavour is anything but bland.</desc>
-  </programme>
-  <programme start="20220709133000 +0800" stop="20220709142000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Super Factories: Food Edition</title>
-    <desc lang="en">Special access to state-of-the-art factories reveals the secrets of how America's favorite foods are made.</desc>
-  </programme>
-  <programme start="20220709142000 +0800" stop="20220709151000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Unexplained And Unexplored (S1)</title>
-    <desc lang="en">New evidence suggests the Maya civilization did not suddenly vanish, but instead, that they survived and resettled in the United States.</desc>
-  </programme>
-  <programme start="20220709151000 +0800" stop="20220709160000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Hunting Atlantis (S1)</title>
-    <desc lang="en">Stel and Jess dig into unexplored archeological sites along the Adriatic coast of Croatia.</desc>
-  </programme>
-  <programme start="20220709160000 +0800" stop="20220709165000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">The Ancient Life (S1)</title>
-    <desc lang="en">Deep in the Guatemalan jungle the Ancient Maya built an advanced civilization of towering pyramids, &amp; a massive network of paved roads before they mysteriously vanished.</desc>
-  </programme>
-  <programme start="20220709165000 +0800" stop="20220709174000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Killers Of The Cosmos (S1)</title>
-    <desc lang="en">Welcome to an all new genre, cosmic noir! We're looking through the universe through a hard-boiled pulp filter- and it's a scary place.</desc>
-  </programme>
-  <programme start="20220709174000 +0800" stop="20220709183000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">How The Universe Works (S7)</title>
-    <desc lang="en">Neutron stars are strange that defy the laws of physics, and new discoveries reveal that these bizarre nightmares are far more deadly than we ever thought.</desc>
-  </programme>
-  <programme start="20220709183000 +0800" stop="20220709192000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
-    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
-  </programme>
-  <programme start="20220709192000 +0800" stop="20220709210000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Unearthed: Seven Wonders (S1)</title>
-    <desc lang="en">The seven engineering marvels that are regarded as the modern wonders of America set the benchmark for structural innovation.</desc>
-  </programme>
-  <programme start="20220709210000 +0800" stop="20220709215000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Moon Machines (S1)</title>
-    <desc lang="en">The competitors are ROBOTS,autonomous, unmanned cars using strategies from GPS, lasers, video cameras and laptops to monitor their surroundings.</desc>
-  </programme>
-  <programme start="20220709215000 +0800" stop="20220709221400 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">The Mind Control Freaks (S1)</title>
-    <desc lang="en">Lewis demonstrates that pain is all in the mind by allowing some ladies to block out the heat from eating super-hot chillies.</desc>
-  </programme>
-  <programme start="20220709221400 +0800" stop="20220709224000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Outrageous Acts Of Psych (S1)</title>
-    <desc lang="en">Watch what happens when a stunt driver takes a driver's test, a stranger gets too close for comfort, and a guy narrates people's lives walking down the street.</desc>
-  </programme>
-  <programme start="20220709224000 +0800" stop="20220709233000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">You Have Been Warned (S5)</title>
-    <desc lang="en">Delve into this fascinating world, finding and celebrating amazing clips, and explaining the wonderful science behind them.</desc>
-  </programme>
-  <programme start="20220709233000 +0800" stop="20220709233000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Silicon Valley The Untold Story (S1)</title>
-    <desc lang="en">Silicon Valley is a magnet for the world's greatest innovators, and the truth behind its rise reveals the powerful forces that made the region what it is today.</desc>
-  </programme>
-  <programme start="20220709233000 +0800" stop="20220710002000 +0800" channel="DiscoveryScienceHD.my">
-    <title lang="en">Silicon Valley The Untold Story (S1)</title>
-    <desc lang="en">Silicon Valley is a magnet for the world's greatest innovators, and the truth behind its rise reveals the powerful forces that made the region what it is today.</desc>
   </programme>
   <programme start="20220710002000 +0800" stop="20220710004400 +0800" channel="DiscoveryScienceHD.my">
     <title lang="en">Street Science (S1)</title>
@@ -727,5 +599,153 @@
   <programme start="20220711230400 +0800" stop="20220711233000 +0800" channel="DiscoveryScienceHD.my">
     <title lang="en">How It's Made (S6)</title>
     <desc lang="en">See how cine cameras, glass Christmas ornaments, and giant tires are made.</desc>
+  </programme>
+  <programme start="20220711233000 +0800" stop="20220711233000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Contact (S1)</title>
+    <desc lang="en">Link analysis uncovers a correlation between UFO sightings and secret government sites.</desc>
+  </programme>
+  <programme start="20220711233000 +0800" stop="20220712002000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Contact (S1)</title>
+    <desc lang="en">Link analysis uncovers a correlation between UFO sightings and secret government sites.</desc>
+  </programme>
+  <programme start="20220712002000 +0800" stop="20220712011000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S1)</title>
+    <desc lang="en">Scientists are now trying to improve on experiments they see posted on the net, and competing with other backyard scientists to go bigger, bolder and better.</desc>
+  </programme>
+  <programme start="20220712011000 +0800" stop="20220712020000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Killers Of The Cosmos (S1)</title>
+    <desc lang="en">Welcome to an all new genre, cosmic noir! We're looking through the universe through a hard-boiled pulp filter- and it's a scary place.</desc>
+  </programme>
+  <programme start="20220712020000 +0800" stop="20220712025000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S7)</title>
+    <desc lang="en">Supernovas are the violent death of giant stars.New discoveries reveal that these cataclysmic events create the elements that are essential to all life in the universe.</desc>
+  </programme>
+  <programme start="20220712025000 +0800" stop="20220712034000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
+    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
+  </programme>
+  <programme start="20220712034000 +0800" stop="20220712040400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S5)</title>
+    <desc lang="en">Have you ever wondered how things are made? From adhesive bandages to contact lenses, find out how many of the everyday objects we use become the things they are.</desc>
+  </programme>
+  <programme start="20220712040400 +0800" stop="20220712043000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S6)</title>
+    <desc lang="en">See how cine cameras, glass Christmas ornaments, and giant tires are made.</desc>
+  </programme>
+  <programme start="20220712043000 +0800" stop="20220712053000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Contact (S1)</title>
+    <desc lang="en">Link analysis uncovers a correlation between UFO sightings and secret government sites.</desc>
+  </programme>
+  <programme start="20220712053000 +0800" stop="20220712060000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Sci Fi Science (S1)</title>
+    <desc lang="en">Could science really lead to the creation of devices like light sabres and time machines that we can only see in sci fi movies?</desc>
+  </programme>
+  <programme start="20220712060000 +0800" stop="20220712065000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S1)</title>
+    <desc lang="en">Scientists are now trying to improve on experiments they see posted on the net, and competing with other backyard scientists to go bigger, bolder and better.</desc>
+  </programme>
+  <programme start="20220712065000 +0800" stop="20220712071400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S5)</title>
+    <desc lang="en">Have you ever wondered how things are made? From adhesive bandages to contact lenses, find out how many of the everyday objects we use become the things they are.</desc>
+  </programme>
+  <programme start="20220712071400 +0800" stop="20220712074000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S6)</title>
+    <desc lang="en">See how cine cameras, glass Christmas ornaments, and giant tires are made.</desc>
+  </programme>
+  <programme start="20220712074000 +0800" stop="20220712083000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Killers Of The Cosmos (S1)</title>
+    <desc lang="en">Welcome to an all new genre, cosmic noir! We're looking through the universe through a hard-boiled pulp filter- and it's a scary place.</desc>
+  </programme>
+  <programme start="20220712083000 +0800" stop="20220712092000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S7)</title>
+    <desc lang="en">Supernovas are the violent death of giant stars.New discoveries reveal that these cataclysmic events create the elements that are essential to all life in the universe.</desc>
+  </programme>
+  <programme start="20220712092000 +0800" stop="20220712101000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
+    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
+  </programme>
+  <programme start="20220712101000 +0800" stop="20220712110000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Contact (S1)</title>
+    <desc lang="en">Link analysis uncovers a correlation between UFO sightings and secret government sites.</desc>
+  </programme>
+  <programme start="20220712110000 +0800" stop="20220712115000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S1)</title>
+    <desc lang="en">Scientists are now trying to improve on experiments they see posted on the net, and competing with other backyard scientists to go bigger, bolder and better.</desc>
+  </programme>
+  <programme start="20220712115000 +0800" stop="20220712121400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S5)</title>
+    <desc lang="en">Have you ever wondered how things are made? From adhesive bandages to contact lenses, find out how many of the everyday objects we use become the things they are.</desc>
+  </programme>
+  <programme start="20220712121400 +0800" stop="20220712124000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S6)</title>
+    <desc lang="en">See how cine cameras, glass Christmas ornaments, and giant tires are made.</desc>
+  </programme>
+  <programme start="20220712124000 +0800" stop="20220712133000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Killers Of The Cosmos (S1)</title>
+    <desc lang="en">Welcome to an all new genre, cosmic noir! We're looking through the universe through a hard-boiled pulp filter- and it's a scary place.</desc>
+  </programme>
+  <programme start="20220712133000 +0800" stop="20220712142000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S7)</title>
+    <desc lang="en">Supernovas are the violent death of giant stars.New discoveries reveal that these cataclysmic events create the elements that are essential to all life in the universe.</desc>
+  </programme>
+  <programme start="20220712142000 +0800" stop="20220712151000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Through The Wormhole With Morgan Freeman (S3)</title>
+    <desc lang="en">Hosted by Morgan Freeman, explore the deepest mysteries of existence - the questions that have puzzled mankind for eternity.</desc>
+  </programme>
+  <programme start="20220712151000 +0800" stop="20220712160000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S1)</title>
+    <desc lang="en">Scientists are now trying to improve on experiments they see posted on the net, and competing with other backyard scientists to go bigger, bolder and better.</desc>
+  </programme>
+  <programme start="20220712160000 +0800" stop="20220712165000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Contact (S1)</title>
+    <desc lang="en">Link analysis uncovers a correlation between UFO sightings and secret government sites.</desc>
+  </programme>
+  <programme start="20220712165000 +0800" stop="20220712174000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How The Universe Works (S7)</title>
+    <desc lang="en">Supernovas are the violent death of giant stars.New discoveries reveal that these cataclysmic events create the elements that are essential to all life in the universe.</desc>
+  </programme>
+  <programme start="20220712174000 +0800" stop="20220712183000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Killers Of The Cosmos (S1)</title>
+    <desc lang="en">Welcome to an all new genre, cosmic noir! We're looking through the universe through a hard-boiled pulp filter- and it's a scary place.</desc>
+  </programme>
+  <programme start="20220712183000 +0800" stop="20220712185400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S5)</title>
+    <desc lang="en">Have you ever wondered how things are made? From adhesive bandages to contact lenses, find out how many of the everyday objects we use become the things they are.</desc>
+  </programme>
+  <programme start="20220712185400 +0800" stop="20220712192000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S6)</title>
+    <desc lang="en">See how cine cameras, glass Christmas ornaments, and giant tires are made.</desc>
+  </programme>
+  <programme start="20220712192000 +0800" stop="20220712201000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">You Have Been Warned (S1)</title>
+    <desc lang="en">Scientists are now trying to improve on experiments they see posted on the net, and competing with other backyard scientists to go bigger, bolder and better.</desc>
+  </programme>
+  <programme start="20220712201000 +0800" stop="20220712203400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Street Science (S1)</title>
+    <desc lang="en">Kevin and his group of experts explore the secret science behind the laws of motion.</desc>
+  </programme>
+  <programme start="20220712203400 +0800" stop="20220712210000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How To Build...Everything (S1)</title>
+    <desc lang="en">A do-it-yourself guide for building humanity's greatest inventions.</desc>
+  </programme>
+  <programme start="20220712210000 +0800" stop="20220712212400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How Do They Do It? (S9)</title>
+    <desc lang="en">At the Horween tannery in Chicago they've been turning hides into fine leather since 1905 and supplying the leather for American footballs since the fifties.</desc>
+  </programme>
+  <programme start="20220712212400 +0800" stop="20220712215000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How Do They Do It? (S9)</title>
+    <desc lang="en">Sweden's long been famous for its safe, reliable cars, but they also build some of the toughest trucks in the world.</desc>
+  </programme>
+  <programme start="20220712215000 +0800" stop="20220712224000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">Rise Of The Machines (S2)</title>
+    <desc lang="en">We reveal the extraordinary stories behind the inventions hidden deep inside the DNA of some of the world's most extreme machines.</desc>
+  </programme>
+  <programme start="20220712224000 +0800" stop="20220712230400 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S5)</title>
+    <desc lang="en">Have you ever wondered how things are made? From adhesive bandages to contact lenses, find out how many of the everyday objects we use become the things they are.</desc>
+  </programme>
+  <programme start="20220712230400 +0800" stop="20220712233000 +0800" channel="DiscoveryScienceHD.my">
+    <title lang="en">How It's Made (S6)</title>
+    <desc lang="en">Learn how microphones, hot tubs, artificial turf, and beer steins are made.</desc>
   </programme>
 </tv>
